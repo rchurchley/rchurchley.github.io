@@ -5,16 +5,25 @@
   <id>https://rosschurchley.com/</id>
   <link href="https://rosschurchley.com/"/>
   <link href="https://rosschurchley.com/feed.xml" rel="self"/>
-  <updated>2016-03-15T07:00:00+00:00</updated>
+  <updated>2016-12-11T08:00:00+00:00</updated>
   <author>
     <name>Ross Churchley</name>
   </author>
+  <entry>
+    <title>Snowy SFU</title>
+    <link rel="alternate" href="https://rosschurchley.com/art/snowy-sfu/"/>
+    <id>https://rosschurchley.com/art/snowy-sfu/</id>
+    <published>2016-12-11T08:00:00+00:00</published>
+    <updated>2016-12-28T10:56:02+00:00</updated>
+    <content type="html">
+</content>
+  </entry>
   <entry>
     <title>Owl Beamer color theme</title>
     <link rel="alternate" href="https://rosschurchley.com/projects/owl-beamer-color-theme/"/>
     <id>https://rosschurchley.com/projects/owl-beamer-color-theme/</id>
     <published>2016-03-15T07:00:00+00:00</published>
-    <updated>2016-06-20T05:59:06+00:00</updated>
+    <updated>2016-12-26T23:17:53+00:00</updated>
     <content type="html">&lt;p&gt;The effectiveness of a colour scheme is heavily dependent on context.
 Colours that look nice on a computer screen can be impossible to see on conference projectors;
 a theme that stands out in a lit room may strain the eyes in a dark room.
@@ -45,7 +54,7 @@ Owl provides both dark and light themes, easily configurable with the package op
     <link rel="alternate" href="https://rosschurchley.com/projects/metropolis-beamer-theme/"/>
     <id>https://rosschurchley.com/projects/metropolis-beamer-theme/</id>
     <published>2016-03-14T07:00:00+00:00</published>
-    <updated>2016-06-20T01:58:46+00:00</updated>
+    <updated>2016-12-26T23:18:01+00:00</updated>
     <content type="html">&lt;p&gt;Beamer is an awesome way to make presentations with LaTeX, but its theme selection is surprisingly sparse.
 The stock themes share an aesthetic that can be a little cluttered, while the few distinctive custom themes available are often specialized for a particular corporate or institutional brand.
 &lt;a href="https://github.com/matze/mtheme"&gt;Metropolis&lt;/a&gt; provides a simple, modern Beamer theme suitable for anyone to use.&lt;/p&gt;
@@ -64,11 +73,29 @@ The stock themes share an aesthetic that can be a little cluttered, while the fe
 </content>
   </entry>
   <entry>
+    <title>Spring blossoms</title>
+    <link rel="alternate" href="https://rosschurchley.com/art/spring-blossoms/"/>
+    <id>https://rosschurchley.com/art/spring-blossoms/</id>
+    <published>2016-02-29T08:00:00+00:00</published>
+    <updated>2016-12-28T10:55:09+00:00</updated>
+    <content type="html">
+</content>
+  </entry>
+  <entry>
+    <title>Smithsonian skylight</title>
+    <link rel="alternate" href="https://rosschurchley.com/art/smithonian-skylight/"/>
+    <id>https://rosschurchley.com/art/smithonian-skylight/</id>
+    <published>2016-01-11T08:00:00+00:00</published>
+    <updated>2016-12-28T10:54:13+00:00</updated>
+    <content type="html">
+</content>
+  </entry>
+  <entry>
     <title>Weak duality for packing edge-disjoint odd trails</title>
     <link rel="alternate" href="https://rosschurchley.com/research/weak-duality-for-packing-edge-disjoint-odd-u-v-trails/"/>
     <id>https://rosschurchley.com/research/weak-duality-for-packing-edge-disjoint-odd-u-v-trails/</id>
     <published>2016-01-10T08:00:00+00:00</published>
-    <updated>2016-06-13T07:27:23+00:00</updated>
+    <updated>2016-11-30T05:52:58+00:00</updated>
     <content type="html">&lt;p&gt;Despite Menger's famous duality between packings and coverings of (u, v)-paths in a graph, there is no duality when we require the paths be odd: a graph with no two edge-disjoint odd (u, v)-paths may need an arbitrarily large number of edges to cover all such paths. In this paper, we study the relaxed problem of packing odd trails. Our main result is an approximate duality for odd trails: if ν(u, v) denotes the maximum number of edge-disjoint (u, v)-trails of odd length in a graph G and τ(u, v) denotes the minimum number of edges that intersect every such trail, then ν(u, v) ≤ τ(u, v) ≤ ν(u, v).
 The proof leads to a polynomial-time algorithm to find, for any given k, either k edge-disjoint odd (u, v)-trails or a set of fewer than 8k edges intersecting all odd (u, v)-trails. This yields a constant factor approximation algorithm for the packing number ν(u, v).&lt;/p&gt;
 
@@ -79,78 +106,6 @@ The proof leads to a polynomial-time algorithm to find, for any given k, either 
   &lt;i&gt;Proceedings of the Twenty-Seventh Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2016),&lt;/i&gt;
   2086–2094.
   January 2016.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>The 140-character spike</title>
-    <link rel="alternate" href="https://rosschurchley.com/blog/tweet-lengths/"/>
-    <id>https://rosschurchley.com/blog/tweet-lengths/</id>
-    <published>2015-09-20T07:00:00+00:00</published>
-    <updated>2016-06-20T02:13:00+00:00</updated>
-    <content type="html">&lt;blockquote class="twitter-tweet" data-lang="en"&gt;&lt;p lang="en" dir="ltr"&gt;A disproportionate number of my tweets are exactly 140 characters. I don&amp;#39;t know whether that means I&amp;#39;m really good at Twitter or really bad.&lt;/p&gt;&amp;mdash; Ross Churchley (@rchurchley) &lt;a href="https://twitter.com/rchurchley/status/299071784064516096"&gt;February 6, 2013&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-&lt;p&gt;I don't intentionally set out to do so, but I've noticed &lt;a href="https://twitter.com/rchurchley"&gt;my tweets&lt;/a&gt; gravitating towards Twitter's character limit. Sometimes it's the result of a too-long idea being meticulously edited down to size; sometimes it's purely chance. Either way, it's oddly satisfying to post a &lt;a href="https://en.wiktionary.org/wiki/twoosh"&gt;tweet with exactly 140 characters&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;How often do tweets max out their character limits? What's the average length of a tweet? To answer these questions, I turned to a &lt;a href="https://archive.org/details/twitter_cikm_2010"&gt;set of tweets&lt;/a&gt; collected by Chang, Caverlee, and Lee in the fall of 2009. Filtering out retweets, I was left with over four million of them, of which over 2% used their entire 140 characters.&lt;/p&gt;
-
-&lt;p&gt;The shape of the character distribution is fascinating. One-word tweets are understandably very rare, but it doesn't take long for the distribution to reach its first mode at 35 characters. The curve gradually and smoothly trails off to a local minimum around 116 characters, before positively spiking after 135. The average length is a bit more than 68 characters and the median a bit lower at 62. It looks like a lot of tweetable ideas can be expressed in five or ten words, and there's a lot of people valiently trying to squeeze in something that's &lt;em&gt;slightly&lt;/em&gt; too big for the text box.&lt;/p&gt;
-
-&lt;h2 id="questions"&gt;Questions&lt;/h2&gt;
-
-&lt;p&gt;Does the spike at 140 characters have more to do with the choice of the character limit or its very existence? If Twitter had set the maximum at (say) 160 characters, would the distribution eventually drop off to zero, or would we gobble up the extra four words and get stuck at the different character limit?&lt;/p&gt;
-
-&lt;footer&gt;
-  &lt;p&gt;&lt;a href="/blog/tweet-lengths/data.csv"&gt;Chart data&lt;/a&gt;
-  &lt;a href="/blog/tweet-lengths/analysis.py"&gt;Analysis&lt;/a&gt;
-  &lt;a href="https://archive.org/details/twitter_cikm_2010"&gt;Raw data&lt;/a&gt;
-  (source: Chang, Caverlee, and Lee)&lt;/p&gt;
-&lt;/footer&gt;
-</content>
-  </entry>
-  <entry>
-    <title>SFU thesis LaTeX template</title>
-    <link rel="alternate" href="https://rosschurchley.com/projects/sfuthesis/"/>
-    <id>https://rosschurchley.com/projects/sfuthesis/</id>
-    <published>2015-05-03T07:00:00+00:00</published>
-    <updated>2016-06-15T09:52:30+00:00</updated>
-    <content type="html">&lt;p&gt;In collaboration with the SFU Library and my fellow grad students, I've written &lt;a href="https://github.com/rchurchley/sfuthesis/"&gt;a LaTeX template&lt;/a&gt; from which graduate students at Simon Fraser University can start writing their thesis or dissertation.
-The project offers a LaTeX class file called &lt;code&gt;sfuthesis&lt;/code&gt; that automatically sets your thesis according to the SFU Library's style requirements.
-With its help, you can focus on writing up your research instead of fiddling with formatting.&lt;/p&gt;
-
-&lt;p&gt;Get started now by downloading a copy from the &lt;a href="http://www.lib.sfu.ca/help/publish/thesis/templates#latex-template"&gt;SFU Library website&lt;/a&gt;!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Most English words are short</title>
-    <link rel="alternate" href="https://rosschurchley.com/blog/randomized-strings/"/>
-    <id>https://rosschurchley.com/blog/randomized-strings/</id>
-    <published>2015-02-23T08:00:00+00:00</published>
-    <updated>2016-06-20T02:09:15+00:00</updated>
-    <content type="html">&lt;p&gt;This chart was inspired by a piece of folk wisdom from an old email forwarding-spam:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Aoccdrnig to rseearch at Cmabrigde Uinervtisy, it deosn't mttaer in waht oredr the ltteers in a wrod are, the olny iprmoetnt tihng is taht the frist and lsat ltteer be at the rghit plcae. The rset can be a toatl mses and you can sitll raed it wouthit porbelm. Tihs is bcuseae the huamn mnid deos not raed ervey lteter by istlef, but the wrod as a wlohe.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The form of this email appears at first glance to provide direct evidence of its own "azanmig" claim. But something's a little fishy: a lot of the words aren't actually scrambled. Short words aren't affected by the message's middle-muddling, and if a paragraph mostly consists of words under six letters, there's just not that much unscrambling to do!&lt;/p&gt;
-
-&lt;p&gt;So is the chain letter's prose typical, or has it been carefully written to exaggerate our anagramming abilities? This depends on how English words are distributed according to their length. Although the median word has seven letters, shorter words are used more frequently:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Over a third (38%) of the words in an average paragraph have three letters or fewer — too short to scramble.&lt;/li&gt;
-  &lt;li&gt;Four- and five-letter words, which admit only easy rearrangments, account for a further quarter (25%) of written words.&lt;/li&gt;
-  &lt;li&gt;The average word length is just 4.95 letters.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;By these metrics, the email is on the easy side. Almost half of its words don't need to be deciphered; 79% of the words have fewer than six letters; and the average word length is 4.10. A random Wikipedia article will take a fair bit more effort to unscramble. Unfortunately, we don't have amazing anagram abilities — at best, we can claim a form of error correction against small numbers of transpositions.&lt;/p&gt;
-
-&lt;footer&gt;
-  &lt;p&gt;&lt;a href="/blog/randomized-strings/data.csv"&gt;Chart data&lt;/a&gt;
-  &lt;a href="/blog/randomized-strings/analysis.py"&gt;Analysis&lt;/a&gt;
-  &lt;a href="http://corpora2.informatik.uni-leipzig.de/download.html"&gt;Raw data&lt;/a&gt;
-  (source: Leipzig Corpora Collection)&lt;/p&gt;
-&lt;/footer&gt;
 </content>
   </entry>
 </feed>

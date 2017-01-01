@@ -1,70 +1,7 @@
-<!doctype html>
-<html lang="en">
-  <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The 140-character spike</title>
-  <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,300,300italic,400italic|Fira+Mono' rel='stylesheet' type='text/css'>
-  <link href="/stylesheets/site.css" rel="stylesheet" />
-</head>
-
-  <body class="blog blog_tweet-lengths blog_tweet-lengths_index">
-    <header class="site-header">
-  <img src="/images/portrait.jpg" alt="Portrait" />
-  <h1><a href="/">Ross Churchley</a></h1>
-  <ul>
-    <li>Graph theorist</li>
-    <li>Software designer</li>
-    <li>Curious person</li>
-  </ul>
-  <nav>
-      <a href="/research/">research</a>
-      <a href="/projects/">projects</a>
-      <a href="/blog/">blog</a>
-  </nav>
-</header>
-
-    <main>
-        <header>
-  <h2><a href="/blog/tweet-lengths/">The 140-character spike</a></h2>
-  <a href="/blog/" class="category blog">blog</a>
-</header>
-
-  
-    <figure class="chart">
-    <script src="/blog/tweet-lengths/chart.js"></script>
-    <div id="tweet-lengths"></div>
-    <noscript>
-      <img src="/blog/tweet-lengths/chart-img.png" alt="" >
-    </noscript>
-      <figcaption>Proportion of tweets (%) having a given number of characters</figcaption>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
-    <script>
-      var debounce=function(n,e){var o=-1;return function(){o>-1&&window.clearTimeout(o),o=window.setTimeout(n,e)}};
-      theme=["series1","series2","series3","series4","series5"];</script>
-  </figure>
-
-  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A disproportionate number of my tweets are exactly 140 characters. I don&#39;t know whether that means I&#39;m really good at Twitter or really bad.</p>&mdash; Ross Churchley (@rchurchley) <a href="https://twitter.com/rchurchley/status/299071784064516096">February 6, 2013</a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<p>I don't intentionally set out to do so, but I've noticed <a href="https://twitter.com/rchurchley">my tweets</a> gravitating towards Twitter's character limit. Sometimes it's the result of a too-long idea being meticulously edited down to size; sometimes it's purely chance. Either way, it's oddly satisfying to post a <a href="https://en.wiktionary.org/wiki/twoosh">tweet with exactly 140 characters</a>.</p>
-
-<p>How often do tweets max out their character limits? What's the average length of a tweet? To answer these questions, I turned to a <a href="https://archive.org/details/twitter_cikm_2010">set of tweets</a> collected by Chang, Caverlee, and Lee in the fall of 2009. Filtering out retweets, I was left with over four million of them, of which over 2% used their entire 140 characters.</p>
-
-<p>The shape of the character distribution is fascinating. One-word tweets are understandably very rare, but it doesn't take long for the distribution to reach its first mode at 35 characters. The curve gradually and smoothly trails off to a local minimum around 116 characters, before positively spiking after 135. The average length is a bit more than 68 characters and the median a bit lower at 62. It looks like a lot of tweetable ideas can be expressed in five or ten words, and there's a lot of people valiently trying to squeeze in something that's <em>slightly</em> too big for the text box.</p>
-
-<h2 id="questions">Questions</h2>
-
-<p>Does the spike at 140 characters have more to do with the choice of the character limit or its very existence? If Twitter had set the maximum at (say) 160 characters, would the distribution eventually drop off to zero, or would we gobble up the extra four words and get stuck at the different character limit?</p>
-
-<footer>
-  <p><a href="/blog/tweet-lengths/data.csv">Chart data</a>
-  <a href="/blog/tweet-lengths/analysis.py">Analysis</a>
-  <a href="https://archive.org/details/twitter_cikm_2010">Raw data</a>
-  (source: Chang, Caverlee, and Lee)</p>
-</footer>
-
-
-    </main>
-  </body>
-</html>
+<!doctype html> <html lang=en> <head> <meta charset=utf-8> <meta name=viewport content="width=device-width, initial-scale=1.0"> <title>The 140-character spike</title> <link rel=apple-touch-icon sizes=180x180 href="/images/apple-touch-icon.png"> <link rel=icon type="image/png" href="/images/icon-192x192.png" sizes=192x192> <link rel=icon type="image/png" href="/images/icon-32x32.png" sizes=32x32> <link rel=icon type="image/png" href="/images/icon-16x16.png" sizes=16x16> <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,300,300italic,400italic|Fira+Mono' rel=stylesheet> <link href="/stylesheets/site.css" rel=stylesheet /> <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js" charset=utf-8></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/plottable.js/2.5.0/plottable.min.js" charset=utf-8></script> </head> <body class="blog blog_tweet-lengths blog_tweet-lengths_index"> <header class=site-header> <a href="/"> <img src="/images/logo.svg" alt=Logo /> </a> <h1><a href="/">Ross Churchley</a></h1> <nav> <a href="/blog/">blog</a> <a href="/projects/">projects</a> <a href="/research/">research</a> <a href="/art/">art</a> <a href="/misc/">misc</a> <a href="/about/">about</a> </nav> </header> <main> <h2><a href="/blog/tweet-lengths/">The 140-character spike</a></h2> <figure class=chart> <script src="/blog/tweet-lengths/chart.js"></script> <svg id=tweet-lengths></svg> <figcaption>The proportion of tweets having a given number of characters</figcaption> </figure> <blockquote class=twitter-tweet data-lang=en><p lang=en dir=ltr>A disproportionate number of my tweets are exactly 140 characters. I don&#39;t know whether that means I&#39;m really good at Twitter or really bad.</p>&mdash; Ross Churchley (@rchurchley) <a href="https://twitter.com/rchurchley/status/299071784064516096">February 6, 2013</a></blockquote> <script async="" src="//platform.twitter.com/widgets.js" charset=utf-8></script> <p>I don't intentionally set out to do so, but I've noticed <a href="https://twitter.com/rchurchley">my tweets</a> gravitating towards Twitter's character limit. Sometimes it's the result of a too-long idea being meticulously edited down to size; sometimes it's purely chance. Either way, it's oddly satisfying to post a <a href="https://en.wiktionary.org/wiki/twoosh">tweet with exactly 140 characters</a>.</p> <p>How often do tweets max out their character limits? What's the average length of a tweet? To answer these questions, I turned to a <a href="https://archive.org/details/twitter_cikm_2010">set of tweets</a> collected by Chang, Caverlee, and Lee in the fall of 2009. Filtering out retweets, I was left with over four million of them, of which over 2% used their entire 140 characters.</p> <p>The shape of the character distribution is fascinating. One-word tweets are understandably very rare, but it doesn't take long for the distribution to reach its first mode at 35 characters. The curve gradually and smoothly trails off to a local minimum around 116 characters, before positively spiking after 135. The average length is a bit more than 68 characters and the median a bit lower at 62. It looks like a lot of tweetable ideas can be expressed in five or ten words, and there's a lot of people valiently trying to squeeze in something that's <em>slightly</em> too big for the text box.</p> <h2 id=questions>Questions</h2> <p>Does the spike at 140 characters have more to do with the choice of the character limit or its very existence? If Twitter had set the maximum at (say) 160 characters, would the distribution eventually drop off to zero, or would we gobble up the extra four words and get stuck at the different character limit?</p> <footer> <p><a href="/blog/tweet-lengths/data.csv">Chart data</a> <a href="/blog/tweet-lengths/analysis.py">Analysis</a> <a href="https://archive.org/details/twitter_cikm_2010">Raw data</a> (source: Chang, Caverlee, and Lee)</p> </footer> </main> <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-89641649-1', 'auto');
+  ga('send', 'pageview');
+</script> </body> </html>
