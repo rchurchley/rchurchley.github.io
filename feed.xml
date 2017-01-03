@@ -14,16 +14,16 @@
     <link rel="alternate" href="https://rosschurchley.com/blog/gender-neutral-names/"/>
     <id>https://rosschurchley.com/blog/gender-neutral-names/</id>
     <published>2017-01-03T08:00:00+00:00</published>
-    <updated>2017-01-03T11:06:34+00:00</updated>
+    <updated>2017-01-03T11:21:28+00:00</updated>
     <content type="html">&lt;section&gt;
 
-  &lt;p&gt;I've been itching to play around with the name data released by the &lt;a href="http://www.vs.gov.bc.ca/babynames/"&gt;BC Vital Statistics Agency&lt;/a&gt; for a while, and after finishing my thesis last month, I finally got a chance to dig in to it. I was most interested to learn about how the distribution of names change over time, particularly &lt;a href="https://en.wikipedia.org/wiki/Gender"&gt;gender&lt;/a&gt;-neutral names and alternatives. This post collects a few of my scattered impressions on:&lt;/p&gt;
+  &lt;p&gt;I've been itching to play around with the name data released by the &lt;a href="http://www.vs.gov.bc.ca/babynames/"&gt;BC Vital Statistics Agency&lt;/a&gt; for a while, and after finishing my thesis last month, I finally got a chance to dig in to it. I was most interested to learn about how the distribution of names change over time, particularly &lt;a href="https://en.wikipedia.org/wiki/Gender"&gt;gender&lt;/a&gt;-neutral names and name variants. This post collects a few of my scattered impressions on:&lt;/p&gt;
 
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="#female"&gt;the most common female names&lt;/a&gt;,&lt;/li&gt;
     &lt;li&gt;&lt;a href="#male"&gt;the most common male names&lt;/a&gt;,&lt;/li&gt;
     &lt;li&gt;&lt;a href="#unisex"&gt;the most common unisex names&lt;/a&gt;,&lt;/li&gt;
-    &lt;li&gt;&lt;a href="#variants"&gt;the diversification of variant names&lt;/a&gt;, and&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#variants"&gt;the popularity of variants of a name&lt;/a&gt;, and&lt;/li&gt;
     &lt;li&gt;&lt;a href="#distribution"&gt;the distribution of names over time&lt;/a&gt;.&lt;/li&gt;
   &lt;/ul&gt;
 
@@ -219,9 +219,9 @@
 &lt;section id="variants"&gt;
   &lt;h2 id="name-variants"&gt;Name variants&lt;/h2&gt;
 
-  &lt;p&gt;When considering gender-neutral names, the above lists only tell part of the story. Vital Statistics only records people's names at birth, not their eventual preferred name. This means that the half-dozen people I know who go by "&lt;a href="http://www.behindthename.com/name/chris"&gt;Chris&lt;/a&gt;" show up in different rows of the dataset!&lt;/p&gt;
+  &lt;p&gt;When considering gender-neutral names, the above lists only tell part of the story. Vital Statistics only records people's names at birth, not their eventual preferred name. This means that the half-dozen people I know of as "&lt;a href="http://www.behindthename.com/name/chris"&gt;Chris&lt;/a&gt;" show up in different rows of the dataset!&lt;/p&gt;
 
-  &lt;p&gt;I expect the most commonly used gender-neutral names are shortened forms of names with several variants, but it's hard to tell from the data; we can only get an impression from visualizing variants of a given name. I found fourteen names — each exclusive to one sex if you go by birth certificates — that could plausibly be shortened to Chris. In aggregate, they make a remarkably gender-balanced family!&lt;/p&gt;
+  &lt;p&gt;I expect the most commonly used gender-neutral names in practice are shortened forms of names with several variants, but it's hard to tell from the data; we can only get an impression from visualizing variants of a given name. I found fourteen names — each exclusive to one sex if you go by birth certificates — that could plausibly be shortened to Chris. In aggregate, they make a remarkably gender-balanced family!&lt;/p&gt;
 
   &lt;figure class="chart"&gt;
     &lt;script src="chart-historical-chris.js"&gt;&lt;/script&gt;
@@ -238,7 +238,7 @@
 
   &lt;p&gt;Interestingly, female variants of Chris are larger in number and more balanced in popularity than their male counterparts. Is this indicative of something about the overall distribution of names? Tentatively, the answer is yes!&lt;/p&gt;
 
-  &lt;p&gt;Over the last ten years, the dataset lists two hundred more names given to girls in the last decade than to boys. The top female names are less frequent than the top male names, but the drop in popularity is not as steep as you go down the list.&lt;/p&gt;
+  &lt;p&gt;Over the last ten years, the list of boys' names is shorter: the dataset lists over two hundred more female names than male! The distribution is also more top-heavy for the boys, with the most popular names accounting for more  total births.&lt;/p&gt;
 
   &lt;figure class="chart"&gt;
     &lt;script src="chart-histogram.js"&gt;&lt;/script&gt;
