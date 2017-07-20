@@ -102,63 +102,63 @@
     </mask>
   </defs>
   <g fill="none" fill-rule="evenodd">
-    <path fill="#E1E5EB" d="M225 0h25v25h-25zm50 50h25v25h-25zm0 50h25v25h-25zM50 300h25v25H50zm0-200h25v25H50zm100 200h25v25h-25z"/>
-    <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#z)" xlink:href="#a"/>
-    <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#A)" xlink:href="#b"/>
-    <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#B)" xlink:href="#c"/>
-    <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#C)" xlink:href="#d"/>
-    <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#D)" xlink:href="#e"/>
-    <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#E)" xlink:href="#f"/>
-    <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#F)" xlink:href="#g"/>
-    <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#G)" xlink:href="#h"/>
-    <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#H)" xlink:href="#i"/>
-    <path fill="#E8357A" d="M275 126h25v98h-25zm26-50h25v74h-25zm-50-26h23v25h-23z"/>
-    <path fill="#F59ABD" d="M225 26h25v23h-25z"/>
-    <path fill="#9E1749" d="M126 50h98v25h-98z"/>
-    <path fill="#F8CCDD" d="M0 76h25v23H0z"/>
-    <path fill="#E8357A" d="M0 50h99v25H0zm100 26h25v23h-25z"/>
-    <path fill="#9E1749" d="M76 100h73v25H76z"/>
-    <path fill="#F59ABD" d="M50 126h25v73H50zm0 100h25v73H50zm52 74h47v25h-47z"/>
-    <path fill="#E8357A" d="M150 126h25v173h-25z"/>
-    <path fill="#540A28" d="M176 100h98v25h-98z"/>
-    <path fill="#F59ABD" d="M225 126h25v98h-25zm26 99h73v25h-73z"/>
+    <path fill="#dbddde" d="M225 0h25v25h-25zm50 50h25v25h-25zm0 50h25v25h-25zM50 300h25v25H50zm0-200h25v25H50zm100 200h25v25h-25z"/>
+    <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#z)" xlink:href="#a"/>
+    <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#A)" xlink:href="#b"/>
+    <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#B)" xlink:href="#c"/>
+    <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#C)" xlink:href="#d"/>
+    <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#D)" xlink:href="#e"/>
+    <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#E)" xlink:href="#f"/>
+    <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#F)" xlink:href="#g"/>
+    <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#G)" xlink:href="#h"/>
+    <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#H)" xlink:href="#i"/>
+    <path fill="#e30775" d="M275 126h25v98h-25zm26-50h25v74h-25zm-50-26h23v25h-23z"/>
+    <path fill="#fa6ab2" d="M225 26h25v23h-25z"/>
+    <path fill="#94054c" d="M126 50h98v25h-98z"/>
+    <path fill="#fdb9db" d="M0 76h25v23H0z"/>
+    <path fill="#e30775" d="M0 50h99v25H0zm100 26h25v23h-25z"/>
+    <path fill="#94054c" d="M76 100h73v25H76z"/>
+    <path fill="#fa6ab2" d="M50 126h25v73H50zm0 100h25v73H50zm52 74h47v25h-47z"/>
+    <path fill="#e30775" d="M150 126h25v173h-25z"/>
+    <path fill="#450223" d="M176 100h98v25h-98z"/>
+    <path fill="#fa6ab2" d="M225 126h25v98h-25zm26 99h73v25h-73z"/>
     <g transform="translate(424)">
-      <path fill="#7FAEFF" d="M76 226h25v23H76z"/>
-      <path fill="#1C6FFF" d="M52 200h23v25H52zm24-26h74v25H76z"/>
-      <path fill="#1A4898" d="M0 125h25v100H0z"/>
-      <path fill="#7FAEFF" d="M0 226h25v73H0zm0 74h51v25H0zm52 26h49v25H52zm50 0h48v25h-48z"/>
-      <path fill="#1C6FFF" d="M151 251h25v100h-25z"/>
-      <path fill="#071939" d="M151 151h25v73h-25zm0-151h25v124h-25z"/>
-      <path fill="#BFD7FF" d="M102 50h48v25h-48z"/>
-      <path fill="#7FAEFF" d="M77 0h73v25H77zM26 0h24v50H26z"/>
-      <path fill="#1C6FFF" d="M0 51h25v48H0zm26 48h49v25H26z"/>
-      <path fill="#1A4898" d="M102 125h48v25h-48z"/>
-      <path fill="#071939" d="M177 125h49v25h-49z"/>
-      <path fill="#7FAEFF" d="M201 0h25v124h-25zm52 0h25v100h-25z"/>
-      <path fill="#1C6FFF" d="M279 75h71v25h-71z"/>
-      <path fill="#7FAEFF" d="M301 101h25v23h-25zm-74 24h99v25h-99z"/>
-      <path fill="#1C6FFF" d="M377 75h74v49h-74z"/>
-      <path fill="#7FAEFF" d="M452 75h51v49h-51zm-75 50h74v73h-74z"/>
-      <path fill="#1C6FFF" d="M452 125h51v73h-51z"/>
-      <path fill="#7FAEFF" d="M452 199h75v25h-75zm0 26h51v25h-51zm-51 0h50v25h-50zm-50 0h49v25h-49zm-75 0h48v25h-48zm-50 0h49v25h-49z"/>
-      <path fill="#1C6FFF" d="M177 225h48v25h-48z"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#I)" xlink:href="#j"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#J)" xlink:href="#k"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#K)" xlink:href="#l"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#L)" xlink:href="#m"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#M)" xlink:href="#n"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#N)" xlink:href="#o"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#O)" xlink:href="#p"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#P)" xlink:href="#q"/>
-      <path fill="#E1E5EB" d="M76 99h25v25H76zM0 25h25v25H0z"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#Q)" xlink:href="#r"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#R)" xlink:href="#s"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#S)" xlink:href="#t"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#T)" xlink:href="#u"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#U)" xlink:href="#v"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#V)" xlink:href="#w"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#W)" xlink:href="#x"/>
-      <use fill="#E1E5EB" stroke="#071939" stroke-width="2" mask="url(#X)" xlink:href="#y"/>
+      <path fill="#6cb1f8" d="M76 226h25v23H76z"/>
+      <path fill="#0b74de" d="M52 200h23v25H52zm24-26h74v25H76z"/>
+      <path fill="#074b90" d="M0 125h25v100H0z"/>
+      <path fill="#6cb1f8" d="M0 226h25v73H0zm0 74h51v25H0zm52 26h49v25H52zm50 0h48v25h-48z"/>
+      <path fill="#0b74de" d="M151 251h25v100h-25z"/>
+      <path fill="#032342" d="M151 151h25v73h-25zm0-151h25v124h-25z"/>
+      <path fill="#b9dafc" d="M102 50h48v25h-48z"/>
+      <path fill="#6cb1f8" d="M77 0h73v25H77zM26 0h24v50H26z"/>
+      <path fill="#0b74de" d="M0 51h25v48H0zm26 48h49v25H26z"/>
+      <path fill="#074b90" d="M102 125h48v25h-48z"/>
+      <path fill="#032342" d="M177 125h49v25h-49z"/>
+      <path fill="#6cb1f8" d="M201 0h25v124h-25zm52 0h25v100h-25z"/>
+      <path fill="#0b74de" d="M279 75h71v25h-71z"/>
+      <path fill="#6cb1f8" d="M301 101h25v23h-25zm-74 24h99v25h-99z"/>
+      <path fill="#0b74de" d="M377 75h74v49h-74z"/>
+      <path fill="#6cb1f8" d="M452 75h51v49h-51zm-75 50h74v73h-74z"/>
+      <path fill="#0b74de" d="M452 125h51v73h-51z"/>
+      <path fill="#6cb1f8" d="M452 199h75v25h-75zm0 26h51v25h-51zm-51 0h50v25h-50zm-50 0h49v25h-49zm-75 0h48v25h-48zm-50 0h49v25h-49z"/>
+      <path fill="#0b74de" d="M177 225h48v25h-48z"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#I)" xlink:href="#j"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#J)" xlink:href="#k"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#K)" xlink:href="#l"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#L)" xlink:href="#m"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#M)" xlink:href="#n"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#N)" xlink:href="#o"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#O)" xlink:href="#p"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#P)" xlink:href="#q"/>
+      <path fill="#dbddde" d="M76 99h25v25H76zM0 25h25v25H0z"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#Q)" xlink:href="#r"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#R)" xlink:href="#s"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#S)" xlink:href="#t"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#T)" xlink:href="#u"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#U)" xlink:href="#v"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#V)" xlink:href="#w"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#W)" xlink:href="#x"/>
+      <use fill="#dbddde" stroke="#232527" stroke-width="2" mask="url(#X)" xlink:href="#y"/>
     </g>
   </g>
 </svg>
