@@ -1,14 +1,149 @@
-<!doctype html>
-<html lang="en">
-  <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>A brickwork fractal</title><link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png"><link rel="icon" type="image/png" href="/images/icon-192x192.png" sizes="192x192"><link rel="icon" type="image/png" href="/images/icon-32x32.png" sizes="32x32"><link rel="icon" type="image/png" href="/images/icon-16x16.png" sizes="16x16"><link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,300,300italic,400italic|Fira+Mono' rel='stylesheet' type='text/css'><link href="/stylesheets/site.css" rel=stylesheet /><script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js" charset="utf-8"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/plottable.js/2.5.0/plottable.min.js" charset="utf-8"></script></head>
-  <body class="blog">
-    
-  <header class="site-header"><a href="/"><img src="/images/logo.svg"/></a><h1><a href="/">Ross Churchley</a></h1><nav><a href="/about/">about</a> <a href="/blog/">blog</a> <a href="/research/">math</a> <a href="/projects/">projects</a> <a href="/art/photos/">photos</a> </nav></header>
-  <main>
-  <h1><a href="/blog/brickwork-fractal/">A brickwork fractal</a></h1>
-  <figure class="featured"><img src="/blog/brickwork-fractal/bricks.jpeg" alt=""/><figcaption>Stretcher bond, herringbone, and pinwheel brickwork patterns</figcaption></figure><p>On my way to work in Yaletown, I walk along some sidewalks with interesting brick patterns. The three above happen to satisfy a nice <a href="https://issuu.com/cms-studc/docs/margin-fall2011">mathematical property</a>: the bricks are arranged so that no four corners meet at the same place.</p><p>As my relative <a href="http://www.jolinton.co.uk">Oliver Linton</a> has <a href="http://www.jolinton.co.uk/Books_and_Articles/Other_Essays/Tatami_Tilings_and_Patio_Pavings.pdf">pointed out</a>, paving bricks come in a variety of shapes and sizes, which allows for many more beautiful tilings. For example, the addition of 2×2 square tiles make it possible to construct rectangular tilings that fit together to tesselate the plane while preserving the four-corner rule.</p><figure class="featured"><img src="/blog/brickwork-fractal/boundaries_wall.svg" alt=""/><figcaption>Copies of the same rectangular tiling can cover the plane without four-corner intersections.</figcaption></figure><p>This is a very exciting observation — at least, to anybody who likes recursion! We might be able to use the same trick to construct an infinite sequence of increasingly intricate tilings that converge to a self-similar “fractal tiling”. The simplest non-trivial example I could find involves a set of 5×5, 10×10, and two 5×10 rectangular tilings.</p><figure class="featured"><img src="/blog/brickwork-fractal/tiles.svg" alt=""/><figcaption>Four tilings of rectangles with the same aspect ratios as the bricks they comprise</figcaption></figure><p>Starting with any of these four layouts, we can replace each of the 1×1, 2×2, and 1×2 bricks with a corresponding 5×5, 10×10, or 5×10 rectangular tiling in the correct orientation. (This will produce a few four-corner intersections, but we can fix these by merging adjacent pairs of 1×2 bricks.)</p><figure class="featured"><img src="/blog/brickwork-fractal/iteration.svg" alt=""/><figcaption>The first recursive iteration of our tiling sequence</figcaption></figure><p>Repeatedly performing this operation gives an infinite sequence of tilings, but can we say they converge to anything? A tiling <em>T</em> can be identified with its outline <em>∂T</em> (i.e. the set of points on boundaries between two or more tiles). Note that if a point is in <em>∂T<sub>i</sub></em>, then it will be in every subsequent <em>∂T<sub>j</sub></em> unless it is one of the few bricks merged in <em>∂T<sub>i+1</sub></em>. So we might sensibly define the limiting object of the tiling sequence <em>T_i</em> as the union <em>⋃<sub>i</sub>(∂T<sub>i</sub>⋂∂T<sub>i+1</sub>)</em>. This self-similar dense path-connected set satisfies the topological equivalent of the “four corners rule” — a pretty interesting list of mathematical properties!</p><p>The same strategy could be applied to other sets of (2n+1)×(2n+1), (4n+2)×(4n+2), and (2n+1)×(4n+2) tiles with similar boundaries. What’s the prettiest brickwork fractal you can find?</p>
-</main>
-  <footer id="copyright">&copy; <a href="https://rosschurchley.com">Ross Churchley</a> 2003&ndash;2018<br/><a href="https://en.wikipedia.org/wiki/Fair_dealing">Fair dealing</a> strongly supported.</footer>
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <title>
+    A brickwork fractal | Ross Churchley
+</title><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<base href="https://rosschurchley.com">
+<link rel="canonical" href="https://rosschurchley.com/blog/brickwork-fractal/">
 
-    <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-89641649-1', 'auto');ga('send', 'pageview');</script>
-  </body></html>
+
+<link rel="stylesheet" href="https://rosschurchley.com/stylesheets/main.min.5840f179ab1c1caea1776d43a387310750e26410e9fcce3af179cc4f7a903bc9.css">
+
+<link rel="icon" type="image/png" href="https://rosschurchley.com/img/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://rosschurchley.com/img/favicon-16x16.png" sizes="16x16">
+<link rel="apple-touch-icon" href="https://rosschurchley.com/img/apple-touch-icon.png" sizes="180x180">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|IBM+Plex+Sans:400,400i,600,600i&amp;subset=latin-ext" rel="stylesheet">
+
+
+
+<meta name="generator" content="Hugo 0.49" />
+</head>
+    <body><header id="header">
+  <a href="https://rosschurchley.com"><img src="https://rosschurchley.com/img/logo.svg"/></a>
+  <h1><a href="https://rosschurchley.com">Ross Churchley</a></h1>
+  <nav>
+    
+      
+        <a href="https://rosschurchley.com/about/">About</a>
+      
+      
+    
+      
+        <a href="https://rosschurchley.com/posts/">Posts</a>
+      
+      
+        <nav class="submenu">
+          
+            <a href="https://rosschurchley.com/blog/">Blog</a>
+          
+            <a href="https://rosschurchley.com/math/">Math</a>
+          
+            <a href="https://rosschurchley.com/projects/">Projects</a>
+          
+        </nav>
+      
+    
+      
+        <a href="https://rosschurchley.com/gallery/">Gallery</a>
+      
+      
+        <nav class="submenu">
+          
+            <a href="https://rosschurchley.com/gallery/origami/">Origami</a>
+          
+            <a href="https://rosschurchley.com/gallery/photos/">Photos</a>
+          
+        </nav>
+      
+    
+  </nav>
+</header>
+<main id="main" class="page">
+    <header class="page__title page__title--">
+  <h1>A brickwork fractal</h1>
+</header>
+
+
+  <section class="page__content">
+  <p>On my way to work in Yaletown, I walk along some sidewalks with interesting brick patterns. The three above happen to satisfy a nice <a href="https://issuu.com/cms-studc/docs/margin-fall2011">mathematical property</a>: the bricks are arranged so that no four corners meet at the same place.</p>
+
+
+<figure>
+    
+        <img src="https://rosschurchley.com/blog/brickwork-fractal/bricks.jpeg" />
+    
+    
+    <figcaption>
+        <h4>Stretcher bond, herringbone, and pinwheel brickwork patterns</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>As my relative <a href="http://www.jolinton.co.uk">Oliver Linton</a> has <a href="http://www.jolinton.co.uk/Books_and_Articles/Other_Essays/Tatami_Tilings_and_Patio_Pavings.pdf">pointed out</a>, paving bricks come in a variety of shapes and sizes, which allows for many more beautiful tilings. For example, the addition of 2×2 square tiles make it possible to construct rectangular tilings that fit together to tesselate the plane while preserving the four-corner rule.</p>
+
+
+<figure>
+    
+        <img src="https://rosschurchley.com/blog/brickwork-fractal/boundaries_wall.svg" />
+    
+    
+    <figcaption>
+        <h4>Copies of the same rectangular tiling can cover the plane without four-corner intersections.</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>This is a very exciting observation — at least, to anybody who likes recursion! We might be able to use the same trick to construct an infinite sequence of increasingly intricate tilings that converge to a self-similar &ldquo;fractal tiling&rdquo;. The simplest non-trivial example I could find involves a set of 5×5, 10×10, and two 5×10 rectangular tilings.</p>
+
+
+<figure>
+    
+        <img src="https://rosschurchley.com/blog/brickwork-fractal/tiles.svg" />
+    
+    
+    <figcaption>
+        <h4>Four tilings of rectangles with the same aspect ratios as the bricks they comprise</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>Starting with any of these four layouts, we can replace each of the 1×1, 2×2, and 1×2 bricks with a corresponding 5×5, 10×10, or 5×10 rectangular tiling in the correct orientation. (This will produce a few four-corner intersections, but we can fix these by merging adjacent pairs of 1×2 bricks.)</p>
+
+
+<figure>
+    
+        <img src="https://rosschurchley.com/blog/brickwork-fractal/iteration.svg" />
+    
+    
+    <figcaption>
+        <h4>The first recursive iteration of our tiling sequence</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>Repeatedly performing this operation gives an infinite sequence of tilings, but can we say they converge to anything? A tiling <em>T</em> can be identified with its outline <em>∂T</em> (i.e. the set of points on boundaries between two or more tiles). Note that if a point is in <em>∂T<sub>i</sub></em>, then it will be in every subsequent <em>∂T<sub>j</sub></em> unless it is one of the few bricks merged in <em>∂T<sub>i+1</sub></em>. So we might sensibly define the limiting object of the tiling sequence <em>T_i</em> as the union <em>⋃<sub>i</sub>(∂T<sub>i</sub>⋂∂T<sub>i+1</sub>)</em>. This self-similar dense path-connected set satisfies the topological equivalent of the &ldquo;four corners rule&rdquo; — a pretty interesting list of mathematical properties!</p>
+
+<p>The same strategy could be applied to other sets of (2n+1)×(2n+1), (4n+2)×(4n+2), and (2n+1)×(4n+2) tiles with similar boundaries. What&rsquo;s the prettiest brickwork fractal you can find?</p>
+
+</section>
+
+
+
+
+        </main>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js" charset="utf-8"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plottable.js/2.5.0/plottable.min.js" charset="utf-8"></script>
+</body>
+</html>

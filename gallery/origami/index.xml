@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Origami on Ross Churchley</title>
+    <link>https://rosschurchley.com/gallery/origami/</link>
+    <description>Recent content in Origami on Ross Churchley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rosschurchley.com/gallery/origami/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cat cuboctohedron</title>
+      <link>https://rosschurchley.com/gallery/origami/cat-cuboctohedron/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rosschurchley.com/gallery/origami/cat-cuboctohedron/</guid>
+      <description>Pattern: square and equilateral triangular flat units by Tomoko Fuse, Unit Polyhedron Origami p. 16</description>
+    </item>
+    
+    <item>
+      <title>Spring octahedron</title>
+      <link>https://rosschurchley.com/gallery/origami/spring-octahedron/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rosschurchley.com/gallery/origami/spring-octahedron/</guid>
+      <description>Pattern: “Jade” octahedron by Ekaterina Lukasheva, Kusudama Origami p.19.</description>
+    </item>
+    
+    <item>
+      <title>Dodecahedral lantern</title>
+      <link>https://rosschurchley.com/gallery/origami/dodecahedral-lantern/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rosschurchley.com/gallery/origami/dodecahedral-lantern/</guid>
+      <description>Pattern: dodecahedral skeleton from penultimate module.</description>
+    </item>
+    
+    <item>
+      <title>Rising sun dodecahedron</title>
+      <link>https://rosschurchley.com/gallery/origami/rising-sun-dodecahedron/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rosschurchley.com/gallery/origami/rising-sun-dodecahedron/</guid>
+      <description>Pattern: “Vortex Dodecahedron” by Meenakshi Mukerji, Exquisite Modular Origami p.35.</description>
+    </item>
+    
+    <item>
+      <title>Tricolour Sonobe</title>
+      <link>https://rosschurchley.com/gallery/origami/tricolour-sonobe/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rosschurchley.com/gallery/origami/tricolour-sonobe/</guid>
+      <description>Pattern: triakis icosahedron from Sonobe units.</description>
+    </item>
+    
+  </channel>
+</rss>
