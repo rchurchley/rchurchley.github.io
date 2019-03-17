@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Origami on Ross Churchley</title>
-    <link>//uji.local:1313/crafts/</link>
+    <link>https://rosschurchley.com/crafts/</link>
     <description>Recent content in Origami on Ross Churchley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="//uji.local:1313/crafts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rosschurchley.com/crafts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Castform</title>
-      <link>//uji.local:1313/crafts/cross-stitch/castform/</link>
+      <link>https://rosschurchley.com/crafts/cross-stitch/castform/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>//uji.local:1313/crafts/cross-stitch/castform/</guid>
+      <guid>https://rosschurchley.com/crafts/cross-stitch/castform/</guid>
       <description> Castform pattern hand-drawn in Pixaki based on the sprite from Pokémon Sapphire.
 DMC colours 413 169 168 762 BLANC    </description>
     </item>
     
     <item>
       <title>Eevee</title>
-      <link>//uji.local:1313/crafts/cross-stitch/eevee/</link>
+      <link>https://rosschurchley.com/crafts/cross-stitch/eevee/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>//uji.local:1313/crafts/cross-stitch/eevee/</guid>
+      <guid>https://rosschurchley.com/crafts/cross-stitch/eevee/</guid>
       <description> Eevee pattern based on the sprite from Pokémon Silver.
 DMC colours 838 434 436 738 712    </description>
     </item>
     
     <item>
       <title>Cat cuboctohedron</title>
-      <link>//uji.local:1313/crafts/origami/cat-cuboctohedron/</link>
+      <link>https://rosschurchley.com/crafts/origami/cat-cuboctohedron/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>//uji.local:1313/crafts/origami/cat-cuboctohedron/</guid>
+      <guid>https://rosschurchley.com/crafts/origami/cat-cuboctohedron/</guid>
       <description>Pattern: square and equilateral triangular flat units by Tomoko Fuse, Unit Polyhedron Origami p. 16</description>
     </item>
     
     <item>
       <title>Spring octahedron</title>
-      <link>//uji.local:1313/crafts/origami/spring-octahedron/</link>
+      <link>https://rosschurchley.com/crafts/origami/spring-octahedron/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>//uji.local:1313/crafts/origami/spring-octahedron/</guid>
+      <guid>https://rosschurchley.com/crafts/origami/spring-octahedron/</guid>
       <description>Pattern: “Jade” octahedron by Ekaterina Lukasheva, Kusudama Origami p.19.</description>
     </item>
     
     <item>
       <title>Dodecahedral lantern</title>
-      <link>//uji.local:1313/crafts/origami/dodecahedral-lantern/</link>
+      <link>https://rosschurchley.com/crafts/origami/dodecahedral-lantern/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>//uji.local:1313/crafts/origami/dodecahedral-lantern/</guid>
+      <guid>https://rosschurchley.com/crafts/origami/dodecahedral-lantern/</guid>
       <description>Pattern: dodecahedral skeleton from penultimate module.</description>
     </item>
     
     <item>
       <title>Rising sun dodecahedron</title>
-      <link>//uji.local:1313/crafts/origami/rising-sun-dodecahedron/</link>
+      <link>https://rosschurchley.com/crafts/origami/rising-sun-dodecahedron/</link>
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>//uji.local:1313/crafts/origami/rising-sun-dodecahedron/</guid>
+      <guid>https://rosschurchley.com/crafts/origami/rising-sun-dodecahedron/</guid>
       <description>Pattern: “Vortex Dodecahedron” by Meenakshi Mukerji, Exquisite Modular Origami p.35.</description>
     </item>
     
     <item>
       <title>Tricolour Sonobe</title>
-      <link>//uji.local:1313/crafts/origami/tricolour-sonobe/</link>
+      <link>https://rosschurchley.com/crafts/origami/tricolour-sonobe/</link>
       <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>//uji.local:1313/crafts/origami/tricolour-sonobe/</guid>
+      <guid>https://rosschurchley.com/crafts/origami/tricolour-sonobe/</guid>
       <description>Pattern: triakis icosahedron from Sonobe units.</description>
     </item>
     

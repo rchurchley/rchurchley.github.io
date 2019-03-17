@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ross Churchley</title>
-    <link>//uji.local:1313/craft-circle/</link>
+    <link>https://rosschurchley.com/craft-circle/</link>
     <description>Recent content on Ross Churchley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="//uji.local:1313/craft-circle/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rosschurchley.com/craft-circle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thread colours</title>
-      <link>//uji.local:1313/craft-circle/dmc-floss/</link>
+      <link>https://rosschurchley.com/craft-circle/dmc-floss/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>//uji.local:1313/craft-circle/dmc-floss/</guid>
+      <guid>https://rosschurchley.com/craft-circle/dmc-floss/</guid>
       <description>The following table lists the colours of DMC six-strand embroidery floss contained in the craft supply library in my office. It is not intended to be a complete list of available DMC colours; for that, you&amp;rsquo;ll want the DMC catalogue instead.
 All colour values are approximate and derived by just kind of eyeballing them. For a second opinion, try this DMC colour chart. This this RGB-to-DMC colour converter may also be useful.</description>
     </item>
