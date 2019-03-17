@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Ross Churchley</title>
-    <link>https://rosschurchley.com/blog/</link>
+    <link>//uji.local:1313/blog/</link>
     <description>Recent content in Blogs on Ross Churchley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rosschurchley.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//uji.local:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A brickwork fractal</title>
-      <link>https://rosschurchley.com/blog/brickwork-fractal/</link>
+      <link>//uji.local:1313/blog/brickwork-fractal/</link>
       <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rosschurchley.com/blog/brickwork-fractal/</guid>
+      <guid>//uji.local:1313/blog/brickwork-fractal/</guid>
       <description>On my way to work in Yaletown, I walk along some sidewalks with interesting brick patterns. The three above happen to satisfy a nice mathematical property: the bricks are arranged so that no four corners meet at the same place.
   Stretcher bond, herringbone, and pinwheel brickwork patterns   As my relative Oliver Linton has pointed out, paving bricks come in a variety of shapes and sizes, which allows for many more beautiful tilings.</description>
     </item>
     
     <item>
       <title>What&#39;s in a name?</title>
-      <link>https://rosschurchley.com/blog/whats-in-a-name/</link>
+      <link>//uji.local:1313/blog/whats-in-a-name/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://rosschurchley.com/blog/whats-in-a-name/</guid>
+      <guid>//uji.local:1313/blog/whats-in-a-name/</guid>
       <description>Ever since I first heard about it, I&amp;rsquo;ve been itching to play around with the name data released by the BC Vital Statistics Agency — a list all of the names that appear on BC&amp;rsquo;s birth certificates for each of the last hundred years! I was curious to see what I could find out about the popularity and gender distribution of given names, so I decided to dedicate a couple blog posts to exploring it.</description>
     </item>
     
     <item>
       <title>The 140-character spike</title>
-      <link>https://rosschurchley.com/blog/tweet-lengths/</link>
+      <link>//uji.local:1313/blog/tweet-lengths/</link>
       <pubDate>Sun, 20 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://rosschurchley.com/blog/tweet-lengths/</guid>
+      <guid>//uji.local:1313/blog/tweet-lengths/</guid>
       <description>A disproportionate number of my tweets are exactly 140 characters. I don&amp;#39;t know whether that means I&amp;#39;m really good at Twitter or really bad.
 &amp;mdash; Ross Churchley (@rchurchley) February 6, 2013 
 I don&amp;rsquo;t intentionally set out to do so, but I&amp;rsquo;ve noticed my tweets gravitating towards Twitter&amp;rsquo;s character limit. Sometimes it&amp;rsquo;s the result of a too-long idea being meticulously edited down to size; sometimes it&amp;rsquo;s purely chance. Either way, it&amp;rsquo;s oddly satisfying to post a tweet with exactly 140 characters.</description>
@@ -43,56 +43,56 @@ I don&amp;rsquo;t intentionally set out to do so, but I&amp;rsquo;ve noticed my 
     
     <item>
       <title>Colonialism and the 4-Colour Theorem</title>
-      <link>https://rosschurchley.com/blog/colonialism-and-the-four-colour-theorem/</link>
+      <link>//uji.local:1313/blog/colonialism-and-the-four-colour-theorem/</link>
       <pubDate>Tue, 31 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://rosschurchley.com/blog/colonialism-and-the-four-colour-theorem/</guid>
+      <guid>//uji.local:1313/blog/colonialism-and-the-four-colour-theorem/</guid>
       <description>The Four-Colour Theorem about planar graphs implies that you only need four colours to properly draw a map, making sure that neighbouring countries are coloured differently. But this application comes with a caveat: the theorem is only guaranteed to work if the countries are all connected. This is essentially true of modern countries, so current political maps of the Earth only need four colours. But it wasn&amp;rsquo;t always this way; things were a lot more complicated back in the age of empires.</description>
     </item>
     
     <item>
       <title>Who else has an Erdos-Bacon-Sabbath number?</title>
-      <link>https://rosschurchley.com/blog/who-else-has-an-erdos-bacon-sabbath-number/</link>
+      <link>//uji.local:1313/blog/who-else-has-an-erdos-bacon-sabbath-number/</link>
       <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://rosschurchley.com/blog/who-else-has-an-erdos-bacon-sabbath-number/</guid>
+      <guid>//uji.local:1313/blog/who-else-has-an-erdos-bacon-sabbath-number/</guid>
       <description>A little while ago, I did some sleuthing to find out the Erdős number of Brian May, astrophysicist and guitarist from Queen. My travels led me to Timeblimp, who threw together three measures of professional collaboration to make a rather fun parlour game. Assuming that the people in your parlour are three kinds of nerds and enjoy long and complicated internet scavenger hunts. Which I am and I do.</description>
     </item>
     
     <item>
       <title>How to catch legendary Pokémon</title>
-      <link>https://rosschurchley.com/blog/how-to-catch-legendary-pokemon/</link>
+      <link>//uji.local:1313/blog/how-to-catch-legendary-pokemon/</link>
       <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://rosschurchley.com/blog/how-to-catch-legendary-pokemon/</guid>
+      <guid>//uji.local:1313/blog/how-to-catch-legendary-pokemon/</guid>
       <description>The year was 2000, a few years after Nintendo made Pokémon Red and Blue. I was in grade 7, and had spent much of the last few years finding, capturing, training, and battling every Pokémon I could. Finally, I had caught all 150 available species and completed my Pokédex, and I desperately wanted Nintendo to make more.
   Pokémon box-art mascots Charizard, Blastoise, Pikachu, Lugia, and Ho-Oh.   That Christmas, I got my wish.</description>
     </item>
     
     <item>
       <title>Brian May has an Erdős number</title>
-      <link>https://rosschurchley.com/blog/brian-may-has-an-erdos-number/</link>
+      <link>//uji.local:1313/blog/brian-may-has-an-erdos-number/</link>
       <pubDate>Sun, 18 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://rosschurchley.com/blog/brian-may-has-an-erdos-number/</guid>
+      <guid>//uji.local:1313/blog/brian-may-has-an-erdos-number/</guid>
       <description>If you&amp;rsquo;ve heard of Erdős Numbers, Erdős-Bacon Numbers, and the fact that Queen lead guitarist Brian May has a PhD, you may have wondered whether Brian May has a well-defined Erdős-Bacon number. As a matter of fact, he does: Brian May&amp;rsquo;s Erdős-Bacon number is at most 10 (and his Erdős-Bacon-Sabbath number is at most 11). Here&amp;rsquo;s how the rock legend is connected to the centres of cinema and academia.</description>
     </item>
     
     <item>
       <title>Exponential growth in Katamari Damacy</title>
-      <link>https://rosschurchley.com/blog/exponential-katamari/</link>
+      <link>//uji.local:1313/blog/exponential-katamari/</link>
       <pubDate>Sun, 14 Oct 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://rosschurchley.com/blog/exponential-katamari/</guid>
+      <guid>//uji.local:1313/blog/exponential-katamari/</guid>
       <description>Katamari Damacy is a wonderful game: simple, fun, delightfully bizarre, and deceptively mathematical. Katamari and its sequels follow the tiny Prince of All Cosmos as he rolls a magical sticky ball (called a katamari) around Japan. As things stick to the katamari, it becomes bigger, enabling it to pick up larger and larger objects. Eventually, the Prince builds up a massive enough katamari to roll up people, cars, buildings, islands, rainbows, and just about everything else in the game.</description>
     </item>
     
     <item>
       <title>Most English words are short</title>
-      <link>https://rosschurchley.com/blog/randomized-strings/</link>
+      <link>//uji.local:1313/blog/randomized-strings/</link>
       <pubDate>Sat, 27 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://rosschurchley.com/blog/randomized-strings/</guid>
+      <guid>//uji.local:1313/blog/randomized-strings/</guid>
       <description>This chart was inspired by a piece of folk wisdom from an old email forwarding-spam:
  Aoccdrnig to rseearch at Cmabrigde Uinervtisy, it deosn&amp;rsquo;t mttaer in waht oredr the ltteers in a wrod are, the olny iprmoetnt tihng is taht the frist and lsat ltteer be at the rghit plcae. The rset can be a toatl mses and you can sitll raed it wouthit porbelm. Tihs is bcuseae the huamn mnid deos not raed ervey lteter by istlef, but the wrod as a wlohe.</description>
     </item>
