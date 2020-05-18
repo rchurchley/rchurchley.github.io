@@ -1,0 +1,465 @@
+code,have,name,k
+13,true,Nile Green MD LT,bff6e0
+16,true,Chartreuse LT,a4d67b
+19,true,Autumn Gold MD LT,f8c95f
+21,true,Alizarian LT,d79982
+22,true,Alizarian,bb5f4d
+23,true,Apple Blossom,eee1ee
+24,true,White Lavender,e0d6ee
+25,true,Lavender UL LT,d9d3e9
+26,true,Pale Lavender,cfc9df
+150,true,Dusty Rose Ult Vy Dk,A8024A
+151,false,Dusty Rose Vry Lt,F3C1CD
+152,false,Shell Pink Med Light,E09A93
+153,false,Violet Very Light,E3C6D5
+154,true,Grape Very Dark,552332
+155,false,Blue Violet Med Dark,948DB3
+156,false,Blue Violet Med Lt,A5B0D1
+157,false,Cornflower Blue Vy Lt,B7C4E4
+158,true,Cornflower Blu M V D,403D6D
+159,false,Blue Gray Light,C1C9D9
+160,false,Blue Gray Medium,8293B3
+161,false,Blue Gray,5C6694
+162,false,Blue Ultra Very Light,C7E2EF
+163,false,Celadon Green Md,559A6E
+164,false,Forest Green Lt,B6D4A3
+165,false,Moss Green Vy Lt,EFF39D
+166,false,Moss Green Md Lt,CED129
+167,false,Yellow Beige V Dk,AC8D3E
+168,true,Pewter Very Light,C7CDCE
+169,true,Pewter Light,7F8887
+208,false,Lavender Very Dark,805988
+209,true,Lavender Dark,A078A5
+210,true,Lavender Medium,C09BC0
+211,false,Lavender Light,E0C5E0
+221,false,Shell Pink Vy Dk,9A3D43
+223,false,Shell Pink Light,D58582
+224,false,Shell Pink Very Light,E9B1A8
+225,false,Shell Pink Ult Vy Lt,FFD7CE
+300,false,Mahogany Vy Dk,6D2D00
+301,false,Mahogany Med,AF5B2A
+3011,false,Khaki Green Dk,6E783B
+3012,false,Khaki Green Md,939857
+3013,false,Khaki Green Lt,B7B77E
+3021,true,Brown Gray Vy Dk,44452A
+3022,false,Brown Gray Med,84835C
+3023,false,Brown Gray Light,AEAB8A
+3024,false,Brown Gray Vy Lt,D7D7C3
+3031,false,Mocha Brown Vy Dk,473727
+3032,false,Mocha Brown Med,AE9D78
+3033,false,Mocha Brown Vy Lt,E0D4C3
+304,false,Red Medium,B31E32
+3041,false,Antique Violet Medium,937580
+3042,false,Antique Violet Light,B499A4
+3045,false,Yellow Beige Dk,C5AD66
+3046,false,Yellow Beige Md,D9CDA3
+3047,false,Yellow Beige Lt,E7E1B8
+3051,false,Green Gray Dk,516132
+3052,false,Green Gray Md,798855
+3053,false,Green Gray,A4B583
+3064,false,Desert Sand,CA9073
+307,false,Lemon,FEE73D
+3072,false,Beaver Gray Vy Lt,E3E7D9
+3078,false,Golden Yellow Vy Lt,FAF6B7
+309,false,Rose Dark,C9344D
+310,true,Black,000000
+311,false,Wedgewood Ult VyDk,064055
+312,true,Baby Blue Very Dark,2E597C
+315,false,Antique Mauve Md Dk,903E4E
+316,false,Antique Mauve Med,B56F7C
+317,false,Pewter Gray,575D61
+318,false,Steel Gray Lt,9C9CA4
+319,false,Pistachio Grn Vy Dk,236831
+320,false,Pistachio Green Med,75BB71
+321,false,Red,C32A3C
+322,false,Baby Blue Dark,467194
+326,false,Rose Very Dark,AF3A4A
+327,false,Violet Dark,551346
+3325,false,Baby Blue Light,A6C3D9
+3326,true,Rose Light,F3949F
+3328,false,Salmon Dark,CE3F54
+333,true,Blue Violet Very Dark,604E87
+334,false,Baby Blue Medium,5F8DA9
+3340,false,Apricot Med,FA8155
+3341,false,Apricot,FF9774
+3345,true,Hunter Green Dk,2F6913
+3346,false,Hunter Green,4B8835
+3347,true,Yellow Green Med,76A451
+3348,true,Yellow Green Lt,CEEB90
+335,false,Rose,D64A5F
+3350,false,Dusty Rose Ultra Dark,B84263
+3354,false,Dusty Rose Light,EEA1B2
+336,false,Navy Blue,0F3251
+3362,false,Pine Green Dk,4A6332
+3363,false,Pine Green Md,6E8D58
+3364,false,Pine Green,9DB275
+3371,true,Black Brown,3A2723
+340,true,Blue Violet Medium,A4A4C4
+341,false,Blue Violet Light,B8BFDC
+347,false,Salmon Very Dark,BF2642
+349,false,Coral Dark,C72E33
+350,false,Coral Medium,D64542
+351,false,Coral,DE605E
+352,false,Coral Light,EA8079
+353,false,Peach,F2A898
+355,false,Terra Cotta Dark,A5463C
+356,false,Terra Cotta Med,D37863
+3607,true,Plum Light,D25292
+3608,true,Plum Very Light,E67DAC
+3609,false,Plum Ultra Light,FFAACF
+367,false,Pistachio Green Dk,4B924B
+368,false,Pistachio Green Lt,AAD99F
+3685,false,Mauve Very Dark,851531
+3687,false,Mauve,C65375
+3688,false,Mauve Medium,E890AC
+3689,false,Mauve Light,FDBACE
+369,false,Pistachio Green Vy Lt,D2EBC5
+370,false,Mustard Medium,AE9B54
+3705,false,Melon Dark,F75156
+3706,false,Melon Medium,FF7F8C
+3708,false,Melon Light,FFA2B0
+371,false,Mustard,B7A765
+3712,false,Salmon Medium,DA6270
+3713,false,Salmon Very Light,FFD5D5
+3716,false,Dusty Rose Med Vy Lt,F6A7B4
+372,false,Mustard Lt,C1BA7E
+3721,false,Shell Pink Dark,AC4A52
+3722,false,Shell Pink Med,C16363
+3726,false,Antique Mauve Dark,A45561
+3727,false,Antique Mauve Light,C98C97
+3731,false,Dusty Rose Very Dark,D96280
+3733,false,Dusty Rose,E78197
+3740,false,Antique Violet Dark,765561
+3743,false,Antique Violet Vy Lt,D3C6CF
+3746,false,Blue Violet Dark,746896
+3747,false,Blue Violet Vy Lt,CDD2EA
+3750,false,Antique Blue Very Dk,1B3E49
+3752,false,Antique Blue Very Lt,9AB3CD
+3753,false,Antique Blue Ult Vy Lt,CDDBE8
+3755,false,Baby Blue,83A4C1
+3756,false,Baby Blue Ult Vy Lt,E7F9F9
+3760,false,Wedgewood Med,3D839F
+3761,false,Sky Blue Light,9DD5DD
+3765,false,Peacock Blue Vy Dk,17616D
+3766,false,Peacock Blue Light,9ACDCD
+3768,false,Gray Green Dark,528779
+3770,true,Tawny Vy Light,FFF3E1
+3771,false,Terra Cotta Ult Vy Lt,F3B5A2
+3772,false,Desert Sand Vy Dk,AA7959
+3773,false,Desert Sand Dark,BB8871
+3774,false,Desert Sand Vy Lt,F1DBD0
+3776,false,Mahogany Light,CE7535
+3777,false,Terra Cotta Vy Dk,8E3230
+3778,false,Terra Cotta Light,DA8E7F
+3779,false,Rosewood Ult Vy Lt,EFBDBA
+3781,false,Mocha Brown Dk,574D2A
+3782,false,Mocha Brown Lt,CABCA3
+3787,false,Brown Gray Dark,656040
+3790,false,Beige Gray Ult Dk,776847
+3799,false,Pewter Gray Vy Dk,2B2C2F
+3801,false,Melon Very Dark,F03646
+3802,false,Antique Mauve Vy Dk,7C2A40
+3803,false,Mauve Dark,A83255
+3804,true,Cyclamen Pink Dark,E6367C
+3805,true,Cyclamen Pink,F34188
+3806,true,Cyclamen Pink Light,FD75A9
+3807,true,Cornflower Blue,5B648F
+3808,false,Turquoise Ult Vy Dk,0B525D
+3809,false,Turquoise Vy Dark,1E6A79
+3810,false,Turquoise Dark,3A8594
+3811,false,Turquoise Very Light,B4E0E9
+3812,true,Sea Green Vy Dk,1C925F
+3813,false,Blue Green Lt,B2D4BD
+3814,false,Aquamarine,228C69
+3815,false,Celadon Green Dk,397A59
+3816,false,Celadon Green,78B48A
+3817,false,Celadon Green Lt,AAD9BA
+3818,false,Emerald Grn Ult V Dk,00692D
+3819,false,Moss Green Lt,E0E762
+3820,true,Straw Dark,E2B735
+3821,false,Straw,F2CD49
+3822,true,Straw Light,F2DF70
+3823,false,Yellow Ultra Pale,FEFBCE
+3824,false,Apricot Light,FFB496
+3825,false,Pumpkin Pale,FDB78E
+3826,false,Golden Brown,B66E2A
+3827,false,Golden Brown Pale,F7B670
+3828,false,Hazelnut Brown,B2913C
+3829,false,Old Gold Vy Dark,A67D04
+3830,false,Terra Cotta,C35A4C
+3831,true,Raspberry Dark,B22B54
+3832,false,Raspberry Medium,E0577E
+3833,true,Raspberry Light,EB6D84
+3834,false,Grape Dark,70365B
+3835,false,Grape Medium,915E81
+3836,false,Grape Light,B78DA7
+3837,true,Lavender Ultra Dark,69396C
+3838,false,Lavender Blue Dark,5D6F9D
+3839,true,Lavender Blue Med,798FB3
+3840,true,Lavender Blue Light,A7B2C5
+3841,false,Baby Blue Pale,BFDBE7
+3842,true,Wedgewood Vry Dk,17566D
+3843,false,Electric Blue,0493BE
+3844,true,Turquoise Bright Dark,099D89
+3845,false,Turquoise Bright Med,04BAAE
+3846,true,Turquoise Bright Light,44DEC7
+3847,false,Teal Green Dark,2B6F51
+3848,false,Teal Green Med,3C8B6E
+3849,false,Teal Green Light,75BCA1
+3850,false,Green Bright Dk,0F9161
+3851,false,Green Bright Lt,66BF9D
+3852,false,Straw Very Dark,D2A021
+3853,false,Autumn Gold Dk,E58632
+3854,false,Autumn Gold Med,F9B460
+3855,false,Autumn Gold Lt,F9DA8C
+3856,false,Mahogany Ult Vy Lt,F5C3A9
+3857,false,Rosewood Dark,75281C
+3858,false,Rosewood Med,93483E
+3859,false,Rosewood Light,B88778
+3860,false,Cocoa,8F6D65
+3861,false,Cocoa Light,A4857E
+3862,false,Mocha Beige Dark,8C6F4E
+3863,false,Mocha Beige Med,A88764
+3864,false,Mocha Beige Light,CBB69C
+3865,false,Winter White,F9F7F1
+3866,false,Mocha Brn Ult Vy Lt,F8F2E9
+400,false,Mahogany Dark,8C410F
+402,false,Mahogany Vy Lt,F7A170
+407,false,Desert Sand Med,BB8871
+413,true,Pewter Gray Dark,3E4144
+414,true,Steel Gray Dk,7C7C84
+415,true,Pearl Gray,BFBFC3
+420,false,Hazelnut Brown Dk,9A7B33
+422,false,Hazelnut Brown Lt,D5B067
+433,false,Brown Med,79511A
+434,true,Brown Light,8C602A
+435,true,Brown Very Light,A0743E
+436,true,Tan,B58C53
+437,false,Tan Light,C99F6A
+444,false,Lemon Dark,FAC800
+445,false,Lemon Light,FFF983
+451,true,Shell Gray Dark,7C696D
+452,false,Shell Gray Med,AE9AA4
+453,true,Shell Gray Light,D1C3CF
+469,false,Avocado Green,819442
+470,false,Avocado Grn Lt,9EAD57
+471,false,Avocado Grn V Lt,B9C572
+472,false,Avocado Grn U Lt,D5E191
+498,true,Red Dark,A4132B
+500,false,Blue Green Vy Dk,055538
+501,false,Blue Green Dark,3D7654
+502,false,Blue Green,598D6E
+503,false,Blue Green Med,8AB5A0
+504,false,Blue Green Vy Lt,B2D4BD
+505,false,Jade Green,328060
+517,true,Wedgewood Dark,2E7288
+518,true,Wedgewood Light,4D91A4
+519,true,Sky Blue,6FB1C1
+520,false,Fern Green Dark,42612B
+522,false,Fern Green,819569
+523,false,Fern Green Lt,B3BE95
+524,false,Fern Green Vy Lt,C1CAA7
+535,false,Ash Gray Vy Lt,555545
+543,false,Beige Brown Ult Vy Lt,EADED3
+550,false,Violet Very Dark,4A133F
+552,true,Violet  Medium,793666
+553,false,Violet,A16089
+554,false,Violet Light,D8AEC7
+561,false,Celadon Green VD,2B6843
+562,false,Jade Medium,519468
+563,false,Jade Light,8CD2A8
+564,false,Jade Very Light,B5E1BE
+580,false,Moss Green Dk,667913
+581,false,Moss Green,8BA136
+597,false,Turquoise,57A2B1
+598,false,Turquoise Light,82C1CD
+600,false,Cranberry Very Dark,D30B61
+601,false,Cranberry Dark,DE2271
+602,true,Cranberry Medium,E64281
+603,true,Cranberry,EE6195
+604,false,Cranberry Light,F784AA
+605,true,Cranberry Very Light,FFAAC5
+606,false,Orange?Red Bright,FD340C
+608,false,Burnt Orange Bright,FD552F
+610,false,Drab Brown Dk,6F6641
+611,false,Drab Brown,847A57
+612,false,Drab Brown Lt,A29670
+613,false,Drab Brown V Lt,D4C7A8
+632,false,Desert Sand Ult Vy Dk,936148
+640,false,Beige Gray Vy Dk,918463
+642,false,Beige Gray Dark,B8AD92
+644,false,Beige Gray Med,DDD3BC
+645,false,Beaver Gray Vy Dk,515542
+646,false,Beaver Gray Dk,707864
+647,false,Beaver Gray Med,959884
+648,false,Beaver Gray Lt,BCC0A8
+666,false,Bright Red,D90028
+676,true,Old Gold Lt,EECA70
+677,true,Old Gold Vy Lt,F4E7B4
+680,true,Old Gold Dark,C8A027
+699,false,Green,005922
+700,false,Green Bright,07711A
+701,false,Green Light,1C8817
+702,true,Kelly Green,46A42E
+703,false,Chartreuse,7AB146
+704,false,Chartreuse Bright,AEDA62
+712,true,Cream,FFF8E5
+718,true,Plum,B73275
+720,false,Orange Spice Dark,EF6A41
+721,false,Orange Spice Med,F37C51
+722,false,Orange Spice Light,F79168
+725,false,Topaz Med Lt,F7CC41
+726,true,Topaz Light,F7DD68
+727,false,Topaz Vy Lt,F6E990
+728,false,Topaz,EFC11A
+729,false,Old Gold Medium,E3B344
+730,false,Olive Green V Dk,706C21
+731,false,Olive Green Dk,989239
+732,false,Olive Green,989239
+733,false,Olive Green Md,C0BA61
+734,false,Olive Green Lt,D4CE75
+738,true,Tan Very Light,DDB689
+739,false,Tan Ult Vy Lt,F2D3A8
+740,false,Tangerine,FA8500
+741,true,Tangerine Med,FF9D25
+742,true,Tangerine Light,FFBC50
+743,false,Yellow Med,FFDD64
+744,true,Yellow Pale,FFE48B
+745,false,Yellow Pale Light,FFF1B2
+746,false,Off White,FFFFE1
+747,true,Peacock Blue Vy Lt,D3FFF9
+754,false,Peach Light,F6C4B7
+758,false,Terra Cotta Vy Lt,EDA394
+760,false,Salmon,E6858F
+761,false,Salmon Light,F2ACAC
+762,true,Pearl Gray Vy Lt,E2E2E7
+772,false,Yellow Green Vy Lt,E4FEB0
+775,false,Baby Blue Very Light,D7EBF2
+776,false,Pink Medium,F3949F
+777,false,Raspberry Very Dark,810B28
+778,false,Antique Mauve Vy Lt,DDADB6
+779,false,Cocoa Dark,604944
+780,false,Topaz Ultra Vy Dk,AF5E00
+781,false,Topaz Very Dark,C77E00
+782,false,Topaz Dark,C77E00
+783,true,Topaz Medium,DA9605
+791,false,Cornflower Blue V D,363562
+792,false,Cornflower Blue Dark,4B497D
+793,false,Cornflower Blue Med,7784AF
+794,false,Cornflower Blue Light,8E9DC6
+796,true,Royal Blue Dark,0F2075
+797,false,Royal Blue,223F88
+798,false,Delft Blue Dark,3E5EA0
+799,false,Delft Blue Medium,5B81B5
+800,false,Delft Blue Pale,ADCBE1
+801,false,Coffee Brown Dk,653D0F
+803,false,Baby Blue Ult Vy Dk,1E4669
+806,false,Peacock Blue Dark,3D839F
+807,false,Peacock Blue,5F9EA5
+809,true,Delft Blue,82A8C9
+813,false,Blue Light,7EACC9
+814,true,Garnet Dark,79001C
+815,true,Garnet Medium,840720
+816,false,Garnet,940B24
+817,true,Coral Red Very Dark,BF1A23
+818,false,Baby Pink,FFCECE
+819,false,Baby Pink Light,FFE1E1
+820,true,Royal Blue Very Dark,000861
+822,true,Beige Gray Light,F3ECDC
+823,false,Navy Blue Dark,071F3A
+824,true,Blue Very Dark,224271
+825,true,Blue Dark,3A628C
+826,true,Blue Medium,5785AD
+827,true,Blue Very Light,ACD4E9
+828,false,Sky Blue Vy Lt,B9E1E9
+829,false,Golden Olive Vy Dk,694F00
+830,false,Golden Olive Dk,766400
+831,false,Golden Olive Md,928030
+832,false,Golden Olive,A89234
+833,false,Golden Olive Lt,CCBA60
+834,false,Golden Olive Vy Lt,D5C77F
+838,true,Beige Brown Vy Dk,523516
+839,false,Beige Brown Dk,6A4726
+840,false,Beige Brown Med,967954
+841,false,Beige Brown Lt,B39A7D
+842,true,Beige Brown Vy Lt,D9C2A8
+844,false,Beaver Gray Ult Dk,31372D
+869,false,Hazelnut Brown V Dk,745E27
+890,false,Pistachio Grn Ult V D,144B26
+891,false,Carnation Dark,F32D3E
+892,false,Carnation Medium,F75172
+893,false,Carnation Light,FB7493
+894,false,Carnation Very Light,FF9BB2
+895,false,Hunter Green Vy Dk,1B5100
+898,false,Coffee Brown Vy Dk,512D07
+899,false,Rose Medium,E2697B
+900,false,Burnt Orange Dark,DB3700
+902,false,Garnet Very Dark,6D1A2B
+904,true,Parrot Green V Dk,2F6800
+905,false,Parrot Green Dk,568F2E
+906,true,Parrot Green Md,89C53A
+907,true,Parrot Green Lt,C6E560
+909,false,Emerald Green Vy Dk,0B7C38
+910,true,Emerald Green Dark,1E9044
+911,false,Emerald Green Med,36A459
+912,false,Emerald Green Lt,53BD6A
+913,false,Nile Green Med,76D185
+915,true,Plum Dark,90004F
+917,true,Plum Medium,A4175D
+918,false,Red?Copper Dark,A02500
+919,false,Red?Copper,BB3A0F
+920,false,Copper Med,CF501E
+921,false,Copper,E26132
+922,false,Copper Light,EC9163
+924,false,Gray Green Vy Dark,166059
+926,false,Gray Green Med,79A296
+927,false,Gray Green Light,A0BEBE
+928,false,Gray Green Vy Lt,C2D4D4
+930,true,Antique Blue Dark,316274
+931,true,Antique Blue Medium,46728C
+932,false,Antique Blue Light,80A3BA
+934,false,Avocado Grn Black,314615
+935,false,Avocado Green Dk,3B4D0F
+936,false,Avocado Grn V Dk,52651A
+937,false,Avocado Green Md,697C2E
+938,false,Coffee Brown Ult Dk,3E2200
+939,true,Navy Blue Very Dark,001326
+943,false,Green Bright Md,39AC78
+945,false,Tawny,FFC9AE
+946,false,Burnt Orange Med,DE4600
+947,true,Burnt Orange,E66007
+948,false,Peach Very Light,FDDCC5
+950,false,Desert Sand Light,EBC8B3
+951,false,Tawny Light,FFDDC6
+954,false,Nile Green,99E5A6
+955,false,Nile Green Light,C6FFCA
+956,false,Geranium,FB5C84
+957,false,Geranium Pale,FF9BBA
+958,true,Sea Green Dark,5BC39D
+959,false,Sea Green Med,85D5B6
+961,false,Dusty Rose Dark,DA627C
+962,false,Dusty Rose Medium,DD818F
+963,false,Dusty Rose Ult Vy Lt,FFCED7
+964,true,Sea Green Light,B4F2DF
+966,false,Jade Ultra Vy Lt,A2D5AE
+967,false,Apricot Very Light,FFC9B4
+970,false,Pumpkin Light,F7860E
+971,false,Pumpkin,FA8500
+972,false,Canary Deep,F7BE12
+973,false,Canary Bright,FADD00
+975,true,Golden Brown Dk,8E4C12
+976,false,Golden Brown Med,CB8234
+977,false,Golden Brown Light,DB9851
+986,false,Forest Green Vy Dk,2B671F
+987,false,Forest Green Dk,408128
+988,false,Forest Green Med,68A046
+989,false,Forest Green ,92BF68
+991,false,Aquamarine Dk,0B6D4C
+992,false,Aquamarine Lt,4AAC88
+993,false,Aquamarine Vy Lt,7ECDAF
+995,false,Electric Blue Dark,016EA5
+996,true,Electric Blue Medium,13BCDE
+B5200,false,Snow White,FFFFFF
+ECRU,false,Ecru,F5F0EC
+WHITE,true,White,FAFAFA
+

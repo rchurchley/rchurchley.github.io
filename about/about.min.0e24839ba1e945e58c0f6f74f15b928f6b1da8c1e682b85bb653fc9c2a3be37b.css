@@ -1,0 +1,1 @@
+.h-card{float:right;margin-left:.8rem}.panel-header{text-align:center}input:not(:checked)+dl{display:none}#social:checked~nav>label[for=social],#work:checked~nav>label[for=work],#academic:checked~nav>label[for=academic]{border-bottom:1px solid var(--primary);color:var(--primary)}.h-card header{order:1}.h-card nav{order:2}.h-card .panel-body{order:3}
