@@ -334,7 +334,7 @@ code,have,name,k
 761,false,Salmon Light,F2ACAC
 762,true,Pearl Gray Vy Lt,E2E2E7
 772,false,Yellow Green Vy Lt,E4FEB0
-775,false,Baby Blue Very Light,D7EBF2
+775,true,Baby Blue Very Light,D7EBF2
 776,false,Pink Medium,F3949F
 777,false,Raspberry Very Dark,810B28
 778,false,Antique Mauve Vy Lt,DDADB6
@@ -349,9 +349,9 @@ code,have,name,k
 794,false,Cornflower Blue Light,8E9DC6
 796,true,Royal Blue Dark,0F2075
 797,false,Royal Blue,223F88
-798,false,Delft Blue Dark,3E5EA0
-799,false,Delft Blue Medium,5B81B5
-800,false,Delft Blue Pale,ADCBE1
+798,true,Delft Blue Dark,3E5EA0
+799,true,Delft Blue Medium,5B81B5
+800,true,Delft Blue Pale,ADCBE1
 801,false,Coffee Brown Dk,653D0F
 803,false,Baby Blue Ult Vy Dk,1E4669
 806,false,Peacock Blue Dark,3D839F
