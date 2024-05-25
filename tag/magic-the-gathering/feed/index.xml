@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Magic: the Gathering &#8211; Ross Churchley</title>
+	<atom:link href="https://rosschurchley.com/tag/magic-the-gathering/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rosschurchley.com/</link>
+	<description>A commonplace book by Ross Churchley</description>
+	<lastBuildDate>Tue, 21 May 2024 03:56:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
+	<title>Magic: the Gathering &#8211; Ross Churchley</title>
+	<link>https://rosschurchley.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cricut-made Magic: the Gathering packs</title>
+		<link>https://rosschurchley.com/crafts/2022/cricut-made-magic-the-gathering-packs/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Thu, 01 Dec 2022 23:00:00 +0000</pubDate>
+				<category><![CDATA[Crafts]]></category>
+		<category><![CDATA[Cricut]]></category>
+		<category><![CDATA[Magic: the Gathering]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=128</guid>
+
+					<description><![CDATA[Leah and I have really gotten into Magic: the Gathering. Our favourite ways to play are&#160;sealed deck&#160;and&#160;Jumpstart, both of which involve opening new packs and making decks out of what you open. Since it would be wasteful (not to mention expensive) to buy new cards every time we play, we only buy a certain number [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Leah and I have really gotten into Magic: the Gathering. Our favourite ways to play are&nbsp;<a href="https://mtg.fandom.com/wiki/Sealed_Deck">sealed deck</a>&nbsp;and&nbsp;<a href="https://mtg.fandom.com/wiki/Jumpstart_(format)">Jumpstart</a>, both of which involve opening new packs and making decks out of what you open.</p>
+
+
+
+<p>Since it would be wasteful (not to mention expensive) to buy new cards every time we play, we only buy a certain number of packs each set and re-use the cards we open to make our own packs for later games.</p>
+
+
+
+<span id="more-128"></span>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="8" height="4" src="https://rosschurchley.com/wp-content/uploads/2024/05/cricut-mtg-pack.svg" alt="Cutout template for a tuck-flap box." class="wp-image-221"/><figcaption class="wp-element-caption">Cutout template for a 94mm × 67mm × 18mm tuck-flap box, which holds 20 unsleeved Magic cards with room to spare.</figcaption></figure>
+
+
+
+<p>We originally tried coin envelopes and a product called&nbsp;<a href="https://cardamajigs.com/collections/cubeamajigs">Cubeamajigs</a>, but neither was as nice or convenient as the side-loading papercraft boxes I made with my&nbsp;<a href="https://cricut.com/en-ca/">Cricut</a>.</p>
+
+
+
+<p>The above SVG image can be imported into Cricut Design Space to make boxes of your own. Or, if you want to make a box with different dimensions, a tool called&nbsp;<a href="https://www.templatemaker.nl/en/cardbox/">Templatemaker</a>&nbsp;can make similar patterns.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

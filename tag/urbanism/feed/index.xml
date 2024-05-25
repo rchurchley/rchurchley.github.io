@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Urbanism &#8211; Ross Churchley</title>
+	<atom:link href="https://rosschurchley.com/tag/urbanism/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rosschurchley.com/</link>
+	<description>A commonplace book by Ross Churchley</description>
+	<lastBuildDate>Sat, 25 May 2024 03:04:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
+	<title>Urbanism &#8211; Ross Churchley</title>
+	<link>https://rosschurchley.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Jilg&#8217;s sidewalk</title>
+		<link>https://rosschurchley.com/snippets/2023/jilgs-sidewalk/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Thu, 11 May 2023 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Urbanism]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=132</guid>
+
+					<description><![CDATA[This picture illustrates the danger of poorly-designed streets, which the Swedish government set out to improve in the 1990s. It was originally created by Swedish artist Karl Jilg, who was commissioned by the Swedish Road Administration to explain new Vision Zero initiatives. The&#160;ideas&#160;behind the initiatives were that The picture is intended to turn the kinetic energy of a moving car [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>This picture illustrates the danger of poorly-designed streets, which the Swedish government set out to improve in the 1990s. It was originally created by Swedish artist <a href="http://www.jilg.com/">Karl Jilg</a>, who was commissioned by the <a href="https://en.wikipedia.org/wiki/Swedish_Road_Administration">Swedish Road Administration</a> to explain new <a href="https://en.wikipedia.org/wiki/Vision_Zero">Vision Zero</a> initiatives.</p>
+
+
+
+<span id="more-132"></span>
+
+
+
+<p>The&nbsp;<a href="https://doi.org/10.1007/978-3-030-23176-7_8-1">ideas</a>&nbsp;behind the initiatives were that</p>
+
+
+
+<ol>
+<li>The responsibility for preventing deaths and injuries on the road transportation system partly rests with the people who design that infrastructure, and</li>
+
+
+
+<li>Deaths and injuries on the road ultimately come down to kinetic energy.</li>
+</ol>
+
+
+
+<p>The picture is intended to turn the kinetic energy of a moving car into a height to show the consequences of simple human mistakes in the road system. Research shows that the highest acceptable speed on a street with active users like this is 30km/h.</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="600" height="800" src="https://rosschurchley.com/wp-content/uploads/2024/05/jilg-sidewalk-jpeg.webp" alt="An illustration of a city block with bottomless pits for streets." class="wp-image-227" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/jilg-sidewalk-jpeg.webp 600w, https://rosschurchley.com/wp-content/uploads/2024/05/jilg-sidewalk-450x600.webp 450w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption class="wp-element-caption">Pedestrians navigate the dangerous chasms of city streets. (Karl Jilg / Vägverket)</figcaption></figure>
+
+
+
+<p>The image has been widely shared, thanks in part to&nbsp;<a href="https://www.vox.com/xpress/2014/11/18/7236471/cars-pedestrians-sidewalks-roads">a 2014 Vox article</a>&nbsp;that used it to call attention to other pedestrian-hostile aspects about many cities’ street designs:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>Most roads in the US are built for cars, not for pedestrians. This brilliant illustration shows just how lopsided the the proportions of a normal urban street corner really are.</p>
+</blockquote>
+
+
+
+<p>The city sidewalk picture is just one of a series of four that Jilg illustrated for the Swedish government. The other one I found is set on a highway.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="800" src="https://rosschurchley.com/wp-content/uploads/2024/05/jilg-canyon-jpeg.webp" alt="An illustration of a car speeding along a road high in the mountains." class="wp-image-228" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/jilg-canyon-jpeg.webp 600w, https://rosschurchley.com/wp-content/uploads/2024/05/jilg-canyon-450x600.webp 450w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption class="wp-element-caption">A car moving at highway speeds has a lot of kinetic energy. (Karl Jilg / Vägverket)</figcaption></figure>
+
+
+
+<p>I’m not sure whether Jilg did any calculations to create these, but a head-on collision between two cars at highway speed is approximately equivalent to a single car being dropped from a height of 200m. Sweden added median barriers to many highways in the late ’90s, which reduced the incidence of head-on collisions and the risk of fatalities by 80%.</p>
+
+
+
+<p>I have unfortunately not been able to find the other two illustrations in the set. Jilg has, however, done other work for the Swedish government.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="600" src="https://rosschurchley.com/wp-content/uploads/2024/05/jilg-documents.png" alt="A page out of a Swedish government manual about decision-making processes." class="wp-image-229" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/jilg-documents.png 800w, https://rosschurchley.com/wp-content/uploads/2024/05/jilg-documents-768x576.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">A less striking example of Jilg&#8217;s work. (Karl Jilg / Vägverket)</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sim Parking Lot</title>
+		<link>https://rosschurchley.com/blog/2013/sim-parking-lot/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Fri, 31 May 2013 22:00:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Urbanism]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=20</guid>
+
+					<description><![CDATA[This Atlantic interview with SimCity designer Stone Librande has stuck with me. We were originally just going to model real cities, but we quickly realized there were way too many parking lots in the real world and that [SimCity] was going to be really boring if it was proportional in terms of parking lots. Stone Librande While doing research [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>This <a href="https://www.theatlantic.com/technology/archive/2013/05/the-philosophy-of-simcity-an-interview-with-the-games-lead-designer/275724/">Atlantic interview</a> with <em>SimCity</em> designer Stone Librande has stuck with me. </p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>We were originally just going to model real cities, but we quickly realized there were way too many parking lots in the real world and that [SimCity] was going to be really boring if it was proportional in terms of parking lots.</p>
+<cite>Stone Librande</cite></blockquote>
+
+
+
+<span id="more-20"></span>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2013/05/superstore-1.webp" alt="A large parking lot, perhaps two-thirds full of cars." class="wp-image-36" srcset="https://rosschurchley.com/wp-content/uploads/2013/05/superstore-1.webp 1600w, https://rosschurchley.com/wp-content/uploads/2013/05/superstore-1-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2013/05/superstore-1-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2013/05/superstore-1-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">One portion of the Superstore parking lot in South Vancouver. (Apple Maps)</figcaption></figure>
+
+
+
+<p>While doing research for the game, Librande was faced with quantifying our land use decisions.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>When I started measuring out our local grocery store, which I don’t think of as being that big, I was blown away by how much more space was parking lot rather than actual store.</p>
+</blockquote>
+
+
+
+<p>For example, here in Vancouver the&nbsp;<a href="https://vancouver.ca/your-government/parking-bylaw.aspx">parking bylaw</a>&nbsp;requires one 14m² parking space for every 20m² of supermarket floor space. Adding the necessary lanes to allow cars to get in and out, this law practically guarantees that grocery stores will be more parking lot than store.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway.webp" alt="A parking lot taking up 60% or so of a supermarket's land parcel." class="wp-image-33" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">A typical Safeway in Vancouver&#8217;s Collingwood neighbourhood. (Apple Maps)</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

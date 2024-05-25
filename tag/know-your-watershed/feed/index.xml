@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Know your watershed &#8211; Ross Churchley</title>
+	<atom:link href="https://rosschurchley.com/tag/know-your-watershed/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rosschurchley.com/</link>
+	<description>A commonplace book by Ross Churchley</description>
+	<lastBuildDate>Tue, 21 May 2024 04:05:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
+	<title>Know your watershed &#8211; Ross Churchley</title>
+	<link>https://rosschurchley.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Know your watershed</title>
+		<link>https://rosschurchley.com/blog/2023/know-your-watershed/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Mon, 15 May 2023 22:00:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Geography]]></category>
+		<category><![CDATA[Know your watershed]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=134</guid>
+
+					<description><![CDATA[I’m on a quest to explore the creeks and waterways of Vancouver, Burnaby, and New Westminster. First, I need to understand how the topography of my neighbourhood determines the flow of water and the formation of streams. Three main topological features define how water flows in the Vancouver-Burnaby-New West area: These features divide the Burrard [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>I’m on a quest to explore the creeks and waterways of Vancouver, Burnaby, and New Westminster. First, I need to understand how the topography of my neighbourhood determines the flow of water and the formation of streams.</p>
+
+
+
+<span id="more-134"></span>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/contours-jpeg.webp" alt="A topographic map of the Burrard Peninsula." class="wp-image-237" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/contours-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/contours-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/contours-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/contours-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">A topographic map of the Burrard Peninsula.</figcaption></figure>
+
+
+
+<p>Three main topological features define how water flows in the Vancouver-Burnaby-New West area:</p>
+
+
+
+<ul>
+<li>a chain of hills running along səl̓ilw̓ət (Burrard Inlet) from East Vancouver to Coquitlam, including Capitol Hill and lhuḵw’lkuḵw’áyten (Burnaby Mountain);</li>
+
+
+
+<li>a ridge extending from t̕θəcəliʔqʷ (UBC) to sχʷeyəməɬ (New Westminster) along the southern half of the peninsula, with peaks at Little Mountain and the Metrotown area; and</li>
+
+
+
+<li>weirdly enough, a barely perceptible incline between Nanaimo Street and Renfrew Street in East Vancouver.</li>
+</ul>
+
+
+
+<p>These features divide the Burrard Peninsula into four watersheds, which determine where a falling raindrop will flow</p>
+
+
+
+<ul>
+<li>north, into səl̓ilw̓ət (Burrard Inlet),</li>
+
+
+
+<li>northwest, into False Creek/English Bay,</li>
+
+
+
+<li>south, into stal̓əw̓ (the Fraser River), or</li>
+
+
+
+<li>east, through Still Creek, Burnaby Lake, and the Brunette River, before returning west via stal̓əw̓ (the Fraser River).</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/vancouver-watersheds.png" alt="A topographic map of the Burrard Peninsula, divided into four coloured regions as described above." class="wp-image-236" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/vancouver-watersheds.png 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/vancouver-watersheds-800x450.png 800w, https://rosschurchley.com/wp-content/uploads/2024/05/vancouver-watersheds-768x432.png 768w, https://rosschurchley.com/wp-content/uploads/2024/05/vancouver-watersheds-1536x864.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">The main watersheds of the Burrard Peninsula.</figcaption></figure>
+
+
+
+<p>(More detailed watershed maps can be found on the websites of the&nbsp;<a href="https://vancouver.ca/files/cov/one-water-watershed-characterization.pdf">City of Vancouver</a> and the&nbsp;<a href="https://www.burnaby.ca/sites/default/files/acquiadam/2021-07/Waterways%20of%20Burnaby.pdf">City of Burnaby</a>.)</p>
+
+
+
+<p>Most of the&nbsp;<a href="http://hdl.handle.net/11272/IKHNQ">historic streams</a>&nbsp;of Vancouver have been developed over, so rainwater now is mainly conveyed through storm drains and groundwater. In contrast, Burnaby still has plenty of streams carrying rain through its watersheds.</p>
+
+
+
+<p>I’ll be exploring these streams and attempting to trace them from source to mouth. Stay tuned for more!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

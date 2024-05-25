@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Language &#8211; Ross Churchley</title>
+	<atom:link href="https://rosschurchley.com/tag/language/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rosschurchley.com/</link>
+	<description>A commonplace book by Ross Churchley</description>
+	<lastBuildDate>Sat, 25 May 2024 03:11:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
+	<title>Language &#8211; Ross Churchley</title>
+	<link>https://rosschurchley.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Julius Caesar</title>
+		<link>https://rosschurchley.com/snippets/2023/julius-caesar/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2023 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[History]]></category>
+		<category><![CDATA[Language]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=149</guid>
+
+					<description><![CDATA[Julius Caesar’s given name was Gaius. &#8220;Julius&#8221; and &#8220;Caesar&#8221; were both family names (Caesar being a branch of the Julia family). In his time, he was referred to as&#160;Gaius Caesar or simply as Caesar by himself and his contemporaries. Calling him &#8220;Julius Caesar&#8221; would have been redundant since every Caesar was a Julius. The Romans [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Julius Caesar’s given name was Gaius. &#8220;Julius&#8221; and &#8220;Caesar&#8221; were both family names (Caesar being a branch of the Julia family).</p>
+
+
+
+<p>In his time, he was referred to as&nbsp;<em>Gaius Caesar</em> or simply as <em>Caesar</em> by <a href="https://la.wikisource.org/wiki/Commentarii_de_bello_Gallico">himself</a> and <a href="https://la.wikisource.org/wiki/Pro_Marcello">his contemporaries</a>. Calling him &#8220;Julius Caesar&#8221; would have been redundant since every <a href="https://en.wikipedia.org/wiki/Julii_Caesares">Caesar</a> was a <a href="https://en.wikipedia.org/wiki/Julia_gens">Julius</a>.</p>
+
+
+
+<p>The Romans had a lot of&nbsp;<a href="https://en.wikipedia.org/wiki/Roman_naming_conventions">traditions</a>&nbsp;around names.&nbsp;<a href="https://en.wikipedia.org/wiki/Gaius_Julius_Caesar_(name)">Gaius Julius Caesar</a>&nbsp;inherited his name from his father, grandfather, and great-grandfather.</p>
+
+
+
+<p>Caesar’s great-nephew&nbsp;<a href="https://en.wikipedia.org/wiki/Augustus">Gaius Octavius Thurinus</a>&nbsp;also took the name Gaius Julius Caesar when he inherited the assassinated dictator’s estate. To prevent confusion, he’s often called&nbsp;<em>Octavianus</em>, which is more or less the ancient Roman equivalent to &#8220;the artist formerly known as&nbsp;<a href="https://en.wikipedia.org/wiki/Prince_(musician)">Prince</a>&#8220;. The emperor&nbsp;<a href="https://en.wikipedia.org/wiki/Caligula">Caligula</a>, Octavian’s great-grandson, was also named Gaius Caesar; we know him by a nickname he received as a small child.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

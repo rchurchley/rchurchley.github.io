@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Puzzles &#8211; Ross Churchley</title>
+	<atom:link href="https://rosschurchley.com/tag/puzzles/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rosschurchley.com/</link>
+	<description>A commonplace book by Ross Churchley</description>
+	<lastBuildDate>Tue, 21 May 2024 08:22:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
+	<title>Puzzles &#8211; Ross Churchley</title>
+	<link>https://rosschurchley.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Legends: a Pokémon-themed cryptic crossword</title>
+		<link>https://rosschurchley.com/blog/2022/legends-a-pokemon-themed-cryptic-crossword/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sat, 05 Mar 2022 23:00:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Pokémon]]></category>
+		<category><![CDATA[Puzzles]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=319</guid>
+
+					<description><![CDATA[Recently I&#8217;ve been spending my spare time doing two things: solving cryptic crosswords and playing Pokémon Legends: Arceus. The next logical step, then, is to try my hand at compiling my own cryptic crossword themed after the game! If you haven&#8217;t tried one before, a cryptic crossword is a crossword puzzle in which each clue [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Recently I&#8217;ve been spending my spare time doing two things: solving cryptic crosswords and playing <em>Pokémon Legends: Arceus</em>. The next logical step, then, is to try my hand at compiling my own cryptic crossword themed after the game!</p>
+
+
+
+<span id="more-319"></span>
+
+
+
+<p>If you haven&#8217;t tried one before, a <a href="https://en.wikipedia.org/wiki/Cryptic_crossword">cryptic crossword</a> is a crossword puzzle in which each clue is itself a word puzzle. A cryptic clue is usually misleading if taken at face value, but conceals a definition and a secondary indication (usually wordplay) of the correct answer. For example:</p>
+
+
+
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>A gym leader in Cinnabar was inflamed (5)</summary>
+<p>The answer is <strong>RAGED</strong>, meaning &#8220;was inflamed&#8221;.</p>
+
+
+
+<p>At first reading, it seems like this clue refers to the fiery Cinnabar Island Gym Leader <a href="https://bulbapedia.bulbagarden.net/wiki/Blaine">Blaine</a> from Pokémon Red and Blue, but the hidden real definition is only the last two words, &#8220;was inflamed&#8221;.</p>
+
+
+
+<p>The remainder of the clue is wordplay that hints at the answer: &#8220;Cinnabar&#8221; means RED and &#8220;gym leader&#8221; can be interpreted as &#8220;the first letter of gym&#8221;, so &#8220;A gym leader in Cinnabar&#8221; reduces to &#8220;A G in RED&#8221; — hence, RAGED.</p>
+</details>
+
+
+
+<p>Cryptic clues can be even more complicated and include anagrams, homophones, obscure abbreviations, and all sorts of other devices. Or they can be as simple as a bad pun.</p>
+
+
+
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Feet passed down through generations? (7)</summary>
+<p>The answer is <strong>LEGENDS</strong>, which are &#8220;passed down through generations&#8221;. What do feet have to do with anything? Well, they&#8217;re LEG ENDS, of course&#8230;</p>
+</details>
+
+
+
+<p>You&#8217;ll need to be a Pokémon fan to appreciate all of the surface readings in this puzzle, but don&#8217;t worry if you aren&#8217;t — none of the clues require any specific knowledge of Pokémon to solve. Once you&#8217;re done, you can go to page 2 to check the solutions and see how you did. Enjoy!</p>
+
+
+
+<figure class="wp-block-wp-chrosyblocks-crossword"><div class="crossword" data-puzzle="{
+  &quot;across&quot;: {
+    &quot;7&quot;: {
+      &quot;answer&quot;: &quot;BARBELL&quot;,
+      &quot;clue&quot;: &quot;Angry Bibarel destroys one-pound weight (7)&quot;,
+      &quot;row&quot;: 1,
+      &quot;col&quot;: 0
+    },
+    &quot;8&quot;: {
+      &quot;answer&quot;: &quot;AILMENT&quot;,
+      &quot;clue&quot;: &quot;Received draught intended for negative condition (7)&quot;,
+      &quot;row&quot;: 1,
+      &quot;col&quot;: 8
+    },
+    &quot;10&quot;: {
+      &quot;answer&quot;: &quot;GOODNATURED&quot;,
+      &quot;clue&quot;: &quot;Jolly well suited ultimately to go after flora and fauna (4-7)&quot;,
+      &quot;row&quot;: 3,
+      &quot;col&quot;: 2
+    },
+    &quot;12&quot;: {
+      &quot;answer&quot;: &quot;KIND&quot;,
+      &quot;clue&quot;: &quot;Type disadvantage primarily follows lineage (4)&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 0
+    },
+    &quot;14&quot;: {
+      &quot;answer&quot;: &quot;ALPHA&quot;,
+      &quot;clue&quot;: &quot;Dominant peak of area (5)&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 5
+    },
+    &quot;16&quot;: {
+      &quot;answer&quot;: &quot;GRIT&quot;,
+      &quot;clue&quot;: &quot;Stony resolve (4)&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 11
+    },
+    &quot;17&quot;: {
+      &quot;answer&quot;: &quot;NOTCHES&quot;,
+      &quot;clue&quot;: &quot;Cuts tumblestone to catch child? (7)&quot;,
+      &quot;row&quot;: 7,
+      &quot;col&quot;: 0
+    },
+    &quot;18&quot;: {
+      &quot;answer&quot;: &quot;AMNESIA&quot;,
+      &quot;clue&quot;: &quot;Memory loss means a name is confused (7)&quot;,
+      &quot;row&quot;: 7,
+      &quot;col&quot;: 8
+    },
+    &quot;20&quot;: {
+      &quot;answer&quot;: &quot;WARY&quot;,
+      &quot;clue&quot;: &quot;Cautious of battle decision (4)&quot;,
+      &quot;row&quot;: 9,
+      &quot;col&quot;: 0
+    },
+    &quot;22&quot;: {
+      &quot;answer&quot;: &quot;START&quot;,
+      &quot;clue&quot;: &quot;Spookiest artifact conceals origin (5)&quot;,
+      &quot;row&quot;: 9,
+      &quot;col&quot;: 5
+    },
+    &quot;23&quot;: {
+      &quot;answer&quot;: &quot;EPEE&quot;,
+      &quot;clue&quot;: &quot;Sword repeats point about Pok\u00e9mon starter (4)&quot;,
+      &quot;row&quot;: 9,
+      &quot;col&quot;: 11
+    },
+    &quot;27&quot;: {
+      &quot;answer&quot;: &quot;CRYSTALBALL&quot;,
+      &quot;clue&quot;: &quot;Lustrous Globe (7,4)&quot;,
+      &quot;row&quot;: 11,
+      &quot;col&quot;: 2
+    },
+    &quot;30&quot;: {
+      &quot;answer&quot;: &quot;EDITION&quot;,
+      &quot;clue&quot;: &quot;Version exclusives? To begin with, supplement lacks announcement (7)&quot;,
+      &quot;row&quot;: 13,
+      &quot;col&quot;: 0
+    },
+    &quot;31&quot;: {
+      &quot;answer&quot;: &quot;PHONIER&quot;,
+      &quot;clue&quot;: &quot;Phione evolution rumour: tip is more fraudulent (7)&quot;,
+      &quot;row&quot;: 13,
+      &quot;col&quot;: 8
+    }
+  },
+  &quot;down&quot;: {
+    &quot;1&quot;: {
+      &quot;answer&quot;: &quot;ARAGON&quot;,
+      &quot;clue&quot;: &quot;A dragon without a leader makes historic country (6)&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 2
+    },
+    &quot;2&quot;: {
+      &quot;answer&quot;: &quot;RECON&quot;,
+      &quot;clue&quot;: &quot;Another trick for gathering information? (5)&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 4
+    },
+    &quot;3&quot;: {
+      &quot;answer&quot;: &quot;CLAN&quot;,
+      &quot;clue&quot;: &quot;Family heads to calm lightning-affected nobles (4)&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 6
+    },
+    &quot;4&quot;: {
+      &quot;answer&quot;: &quot;EAST&quot;,
+      &quot;clue&quot;: &quot;Beasts short of coasts where the sun rises (4)&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 8
+    },
+    &quot;5&quot;: {
+      &quot;answer&quot;: &quot;ULTRA&quot;,
+      &quot;clue&quot;: &quot;Greater part of beautiful tradition (5)&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 10
+    },
+    &quot;6&quot;: {
+      &quot;answer&quot;: &quot;SENDER&quot;,
+      &quot;clue&quot;: &quot;One who posts mission in southeast river (6)&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 12
+    },
+    &quot;7&quot;: {
+      &quot;answer&quot;: &quot;BLACKANDWHITE&quot;,
+      &quot;clue&quot;: &quot;Sharply divided about old-fashioned graphics (5,3,5)&quot;,
+      &quot;row&quot;: 1,
+      &quot;col&quot;: 0
+    },
+    &quot;9&quot;: {
+      &quot;answer&quot;: &quot;TIMETRAVELLER&quot;,
+      &quot;clue&quot;: &quot;Person from the future crafts rare item to level, disregarding zero electricity (4,7)&quot;,
+      &quot;row&quot;: 1,
+      &quot;col&quot;: 14
+    },
+    &quot;11&quot;: {
+      &quot;answer&quot;: &quot;AMPS&quot;,
+      &quot;clue&quot;: &quot;Current maps inaccurate (4)&quot;,
+      &quot;row&quot;: 3,
+      &quot;col&quot;: 7
+    },
+    &quot;13&quot;: {
+      &quot;answer&quot;: &quot;DECOY&quot;,
+      &quot;clue&quot;: &quot;Distraction from the last month expressing dismay (5)&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 3
+    },
+    &quot;14&quot;: {
+      &quot;answer&quot;: &quot;ABETS&quot;,
+      &quot;clue&quot;: &quot;Everyone entering STAB moves helps (5)&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 5
+    },
+    &quot;15&quot;: {
+      &quot;answer&quot;: &quot;ADMIT&quot;,
+      &quot;clue&quot;: &quot;Random rifts drop odd characters to accept (5)&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 9
+    },
+    &quot;16&quot;: {
+      &quot;answer&quot;: &quot;GEESE&quot;,
+      &quot;clue&quot;: &quot;Birds glide vacantly around — look up! (5)&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 11
+    },
+    &quot;19&quot;: {
+      &quot;answer&quot;: &quot;DATA&quot;,
+      &quot;clue&quot;: &quot;Information vaguely written up (4)&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 7
+    },
+    &quot;21&quot;: {
+      &quot;answer&quot;: &quot;RECOIL&quot;,
+      &quot;clue&quot;: &quot;Concerning loop leading to self-inflicted damage (6)&quot;,
+      &quot;row&quot;: 9,
+      &quot;col&quot;: 2
+    },
+    &quot;24&quot;: {
+      &quot;answer&quot;: &quot;PALLID&quot;,
+      &quot;clue&quot;: &quot;Friend cap lacks intensity (6)&quot;,
+      &quot;row&quot;: 9,
+      &quot;col&quot;: 12
+    },
+    &quot;25&quot;: {
+      &quot;answer&quot;: &quot;KYRIE&quot;,
+      &quot;clue&quot;: &quot;Sacred words from the end of legendary shield-bearer (5)&quot;,
+      &quot;row&quot;: 10,
+      &quot;col&quot;: 4
+    },
+    &quot;26&quot;: {
+      &quot;answer&quot;: &quot;TALON&quot;,
+      &quot;clue&quot;: &quot;No getting up after taking half of Metal Claw (5)&quot;,
+      &quot;row&quot;: 10,
+      &quot;col&quot;: 10
+    },
+    &quot;28&quot;: {
+      &quot;answer&quot;: &quot;TING&quot;,
+      &quot;clue&quot;: &quot;Metallic noise and lossless glint? Variant! (4)&quot;,
+      &quot;row&quot;: 11,
+      &quot;col&quot;: 6
+    },
+    &quot;29&quot;: {
+      &quot;answer&quot;: &quot;LOPE&quot;,
+      &quot;clue&quot;: &quot;Run from training under little officer (4)&quot;,
+      &quot;row&quot;: 11,
+      &quot;col&quot;: 8
+    }
+  }
+}"></div></figure>
+
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

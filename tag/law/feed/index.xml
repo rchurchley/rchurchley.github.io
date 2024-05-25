@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Law &#8211; Ross Churchley</title>
+	<atom:link href="https://rosschurchley.com/tag/law/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rosschurchley.com/</link>
+	<description>A commonplace book by Ross Churchley</description>
+	<lastBuildDate>Tue, 21 May 2024 04:10:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
+	<title>Law &#8211; Ross Churchley</title>
+	<link>https://rosschurchley.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>O Canada&#8217;s copyright</title>
+		<link>https://rosschurchley.com/snippets/2022/o-canadas-copyright/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Fri, 01 Jul 2022 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[History]]></category>
+		<category><![CDATA[Law]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=313</guid>
+
+					<description><![CDATA[In the late &#8217;60s, the government sought to adopt O Canada as the national anthem. The music and original French lyrics had passed into the public domain, but the English version was still under copyright. The government settled the rights for a dollar. Ironically, the copyright to the English lyrics would have expired anyways by [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>In the late &#8217;60s, the government sought to adopt <a href="https://en.wikipedia.org/wiki/O_Canada"><em>O Canada</em></a> as the national anthem. The music and original French lyrics had passed into the public domain, but the English version was still under copyright. The government settled the rights <a href="https://www.thecanadianencyclopedia.ca/en/article/o-canada">for a dollar</a>.</p>
+
+
+
+<p>Ironically, the copyright to the English lyrics would have expired anyways by the time the <em>National Anthem Act</em> was finally passed in 1980.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Scent trademarks</title>
+		<link>https://rosschurchley.com/snippets/2022/scent-trademarks/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sat, 11 Jun 2022 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Law]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=311</guid>
+
+					<description><![CDATA[Crayola has a trademark on the smell of its crayons. The odour is described in the Canadian trademarks registry as: A unique scent of a pungent, aldehydic fragrance combined with the faint scent of a hydrocarbon wax and an earthy clay. Trademark 1986544 In Canada, a trademark can be anything that is used by by [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Crayola has a trademark on the smell of its crayons.</p>
+
+
+
+<p>The odour is described in the Canadian trademarks registry as:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>A unique scent of a pungent, aldehydic fragrance combined with the faint scent of a hydrocarbon wax and an earthy clay.</p>
+<cite><a href="https://ised-isde.canada.ca/cipo/trademark-search/1986544">Trademark 1986544</a></cite></blockquote>
+
+
+
+<p>In Canada, a trademark can be anything that is used by by a seller to distinguish their goods or services from those of others, including</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>a word, a personal name, a design, a letter, a numeral, a colour, a figurative element, a three-dimensional shape, a hologram, a moving image, a mode of packaging goods, a sound, a scent, a taste, a texture and the positioning of a sign.</p>
+<cite><a href="https://www.laws-lois.justice.gc.ca/eng/acts/t-13/FullText.html">Trademarks Act</a></cite></blockquote>
+
+
+
+<p>Unfortunately, I have not been able to find records of anyone litigating over a scent trademark.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

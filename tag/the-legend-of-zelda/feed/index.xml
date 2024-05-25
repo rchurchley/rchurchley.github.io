@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Legend of Zelda &#8211; Ross Churchley</title>
+	<atom:link href="https://rosschurchley.com/tag/the-legend-of-zelda/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rosschurchley.com/</link>
+	<description>A commonplace book by Ross Churchley</description>
+	<lastBuildDate>Tue, 14 May 2024 06:51:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
+	<title>The Legend of Zelda &#8211; Ross Churchley</title>
+	<link>https://rosschurchley.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cosmology of Hyrule</title>
+		<link>https://rosschurchley.com/blog/2023/zelda-astronomy/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2023 22:00:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[The Legend of Zelda]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=153</guid>
+
+					<description><![CDATA[The Legend of Zelda: Tears of the Kingdom calls your attention to the sky… but there’s more weird stuff up there than just the floating islands. If you look into Hyrule’s sky at night, you’ll see the stars do not move while the moon races from one horizon to the other. This means that the cosmology of the Zelda universe [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><em>The Legend of Zelda: Tears of the Kingdom</em> calls your attention to the sky… but there’s more weird stuff up there than just the floating islands.</p>
+
+
+
+<span id="more-153"></span>
+
+
+
+<p>If you look into Hyrule’s sky at night, you’ll see the <strong>stars do not move</strong> while the moon races from one horizon to the other.</p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://rosschurchley.com/wp-content/uploads/2024/05/moon.mp4"></video><figcaption class="wp-element-caption">The moon moves across a fixed starfield.</figcaption></figure>
+
+
+
+<p>This means that the cosmology of the <em>Zelda</em> universe is significantly different from our own; if <a href="https://en.wikipedia.org/wiki/Copernican_Revolution">Copernicus</a> was Hylian he’d have stuck with a geocentric model.<sup data-fn="2c82e157-3611-45f1-a3f1-1f56bc34e73b" class="fn"><a href="#2c82e157-3611-45f1-a3f1-1f56bc34e73b" id="2c82e157-3611-45f1-a3f1-1f56bc34e73b-link">1</a></sup></p>
+
+
+
+<p>That’s not the only astronomical oddity in <em>Tears of the Kingdom</em>. <strong>The sun’s position at sunrise and sunset doesn’t make sense</strong>. On Earth, the sun doesn’t always rise and set <em>exactly</em> in the east and west. In the (boreal) summer, the sun rises and sets further north, providing us in the Northern Hemisphere with more hours of sunlight each day.</p>
+
+
+
+<p>Here in the Vancouver summer, the sun currently rises 38° north of east and sets 38° north of west. In <em>Tears of the Kingdom</em> the sun rises around 4:00 and sets around 9:00,<sup data-fn="9c229a3c-bc95-4c91-90c6-3cc9a8526925" class="fn"><a href="#9c229a3c-bc95-4c91-90c6-3cc9a8526925" id="9c229a3c-bc95-4c91-90c6-3cc9a8526925-link">2</a></sup> so you’d expect them to happen at similar angles instead of due east and west.</p>
+
+
+
+<p>This is more evidence towards a geocentric model of Hylian cosmology, since the day-night cycle can be explained if the sun’s orbit around the world intersects Hyrule but its center does not.</p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://rosschurchley.com/wp-content/uploads/2024/05/24hours.mp4"></video><figcaption class="wp-element-caption">A 24-hour cycle of sunrise and moonrise.</figcaption></figure>
+
+
+
+<p>The strangest phenomenon I noticed is the fact that <strong>moon only appears at night</strong>. Sure, we culturally associate the moon with night, but in reality it’s out during the day half the time. This is what gives the moon <a href="https://moon.nasa.gov/moon-in-motion/phases-eclipses-supermoons/moon-phases/">its phases</a>; the closer the moon is to the sun in the sky, the less of it appears illuminated to us on Earth. If the moon always rises and sets at the same time of day, its phases cannot be explained as the reflected light of the sun!</p>
+
+
+
+<p>The simplest explanation would be that Link is observing the rotation of a moon with one luminescent side, but I looked closely and the half-moon has the same face as the full moon. This means that, like Earth’s moon, the Hylian moon is <a href="https://en.wikipedia.org/wiki/Tidal_locking">tidally locked</a><sup data-fn="413f2cee-ede6-45ee-a0fe-4e09834d120a" class="fn"><a href="#413f2cee-ede6-45ee-a0fe-4e09834d120a" id="413f2cee-ede6-45ee-a0fe-4e09834d120a-link">3</a></sup> and always shows the same face.</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model.png" alt="A diagram of a possible Zelda planetary system." class="wp-image-191" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model.png 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model-800x600.png 800w, https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model-768x576.png 768w, https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model-1536x1152.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">A model for the cosmology of the world of Zelda.</figcaption></figure>
+
+
+
+<p>My best theory is that the moon is made of a <a href="https://en.wikipedia.org/wiki/Fluorescence">fluorescent</a> material and is orbited by a small body that emits ultraviolet or other high-energy light in the non-visible spectrum. Do you have an alternative headcanon theory?</p>
+
+
+<ol class="wp-block-footnotes"><li id="2c82e157-3611-45f1-a3f1-1f56bc34e73b">Technically, a fixed starfield is also consistent with a heliocentric model where stars are small luminous objects embedded on a <a href="https://en.wikipedia.org/wiki/Celestial_spheres">celestial sphere</a> rotating around and at the same rate as the world. But that model doesn’t explain the other oddities in this post. <a href="#2c82e157-3611-45f1-a3f1-1f56bc34e73b-link" aria-label="Jump to footnote reference 1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li><li id="9c229a3c-bc95-4c91-90c6-3cc9a8526925">Sunrise and sunset times in <em>Tears of the Kingdom</em> varies with location and elevation. With enough precise measurements, you could in theory figure out whether the world of <em>Zelda</em> world is flat or round — if you want to be the <a href="https://en.wikipedia.org/wiki/Eratosthenes">Eratosthenes</a> of Hyrule and compute the size of the planet, please let me know your results! <a href="#9c229a3c-bc95-4c91-90c6-3cc9a8526925-link" aria-label="Jump to footnote reference 2"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li><li id="413f2cee-ede6-45ee-a0fe-4e09834d120a">Speaking of tidal forces, the fact that Hyrule has no discernable tides on its coastline suggests that its moon is significantly smaller and closer than Earth’s moon, which would be consistent with the events depicted in <a href="https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask"><em>Majora’s Mask</em></a>. <a href="#413f2cee-ede6-45ee-a0fe-4e09834d120a-link" aria-label="Jump to footnote reference 3"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li></ol>]]></content:encoded>
+					
+		
+		<enclosure url="https://rosschurchley.com/wp-content/uploads/2024/05/moon.mp4" length="898148" type="video/mp4" />
+<enclosure url="https://rosschurchley.com/wp-content/uploads/2024/05/24hours.mp4" length="2278637" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Cross-stitch Sheikah Slate</title>
+		<link>https://rosschurchley.com/crafts/2019/cross-stitch-sheikah-slate/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sun, 03 Mar 2019 23:00:00 +0000</pubDate>
+				<category><![CDATA[Crafts]]></category>
+		<category><![CDATA[Cross-stitch]]></category>
+		<category><![CDATA[The Legend of Zelda]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=83</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-pattern-sheikah.png" alt="Cross-stitch pattern of the eyelike pattern on the Sheikah Slate"><figcaption class="thread-list"><span class="thread" data-dmc="742" title="Tangerine (Light)" style="background-color:#FFBC50;color:#000000">742</span><span class="thread" data-dmc="741" title="Tangerine (Medium)" style="background-color:#FF9D25;color:#ffffff">741</span><span class="thread" data-dmc="827" title="Blue (V. Light)" style="background-color:#ACD4E9;color:#000000">827</span><span class="thread" data-dmc="996" title="Electric Blue (Medium)" style="background-color:#13BCDE;color:#ffffff">996</span></figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
