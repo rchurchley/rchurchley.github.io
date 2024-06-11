@@ -12,13 +12,13 @@
 	<atom:link href="https://rosschurchley.com/tag/music/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Sat, 25 May 2024 23:33:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 06:27:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Where is &#8220;Lost in Japan&#8221;?</title>
-		<link>https://rosschurchley.com/blog/2022/where-is-lost-in-japan/</link>
+		<link>https://rosschurchley.com/2022/where-is-lost-in-japan/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sun, 13 Feb 2022 23:00:00 +0000</pubDate>
@@ -38,9 +38,13 @@
 		<category><![CDATA[Music]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=124</guid>
 
-					<description><![CDATA[Do you got plans tonight?Song’s “a couple of hundred miles from Japan”, but I —I was thinking other lyrics mean that can’t be right,And I can’t get this off of my mind. Shawn Mendes’ song “Lost in Japan” has had me geographically confused since I first heard it&#160;covered by Scary Pockets. If you haven’t listened [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<pre class="wp-block-verse">Do you got plans tonight?<br>Song’s “a couple of hundred miles from Japan”, but I —<br>I was thinking other lyrics mean that can’t be right,<br>And I can’t get this off of my mind.</pre>
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan.webp" class="attachment-large size-large wp-post-image" alt="A still from the music video to &quot;Lost in Japan&quot; composited with a map of Japan and its surroundings." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Shawn Mendes’ song “Lost in Japan” has had me geographically confused since I first heard it covered by Scary Pockets. If you haven’t listened to the lyrics, the song is about a person who is thinking about their crush and the possibility of taking a last-minute flight to Japan to see them. The question I can’t [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan.webp" class="attachment-large size-large wp-post-image" alt="A still from the music video to &quot;Lost in Japan&quot; composited with a map of Japan and its surroundings." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
+<p>Shawn Mendes’ song “Lost in Japan” has had me geographically confused since I first heard it <a href="https://www.youtube.com/watch?v=Zb_VFx3iyjg">covered by Scary Pockets</a>. If you haven’t listened to the lyrics, the song is about a person who is thinking about their crush and the possibility of taking a last-minute flight to Japan to see them. </p>
+
+
+
+<p>The question I can’t get off my mind is: where is the song supposed to be taking place?</p>
 
 
 
@@ -48,7 +52,7 @@
 
 
 
-<p>Shawn Mendes’ song “Lost in Japan” has had me geographically confused since I first heard it&nbsp;<a href="https://www.youtube.com/watch?v=Zb_VFx3iyjg">covered by Scary Pockets</a>. If you haven’t listened to the lyrics, the song is about a person who is thinking about their crush and the possibility of taking a last-minute flight to Japan to see them. As the chorus goes:</p>
+<p>The chorus goes:</p>
 
 
 
@@ -58,7 +62,7 @@
 
 
 
-<p>The question I can’t get off my mind is: where is the song supposed to be taking place? From the chorus, we can infer that</p>
+<p>from which we can infer that</p>
 
 
 

@@ -12,13 +12,13 @@
 	<atom:link href="https://rosschurchley.com/category/photos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Tue, 21 May 2024 03:54:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 07:56:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Baseball</title>
-		<link>https://rosschurchley.com/photos/2024/baseball/</link>
+		<link>https://rosschurchley.com/2024/baseball/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Thu, 16 May 2024 22:00:00 +0000</pubDate>
@@ -38,8 +38,8 @@
 		<category><![CDATA[Travel]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=457</guid>
 
-					<description><![CDATA[I recently attended a Seattle Mariners game as part of a Microsoft event. It was my first time at a baseball game, so I recorded a bunch of observations about the experience. The stadium experience This was my first time attending any professional sport in person, so I didn&#8217;t have any idea what to expect. [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1920" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp" class="attachment-large size-large wp-post-image" alt="A wide-angle view of T-Mobile Stadium&#039;s baseball diamond, taken from the stands behind first base." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-2048x1365.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" />I recently attended a Seattle Mariners game as part of a Microsoft event. It was my first time at a baseball game, so I recorded a bunch of observations about the experience. The stadium experience This was my first time attending any professional sport in person, so I didn&#8217;t have any idea what to expect. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1920" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp" class="attachment-large size-large wp-post-image" alt="A wide-angle view of T-Mobile Stadium&#039;s baseball diamond, taken from the stands behind first base." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-2048x1365.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" />
 <p>I recently attended a Seattle Mariners game as part of a Microsoft event. It was my first time at a baseball game, so I recorded a bunch of observations about the experience.</p>
 
 
@@ -61,7 +61,7 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-scaled.webp"><img fetchpriority="high" decoding="async" width="1920" height="1280" data-id="462" src="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-1920x1280.webp" alt="The Kansas City Royals' relief pitchers watch the game from the bullpen." class="wp-image-462" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-2048x1365.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-scaled.webp"><img decoding="async" width="1920" height="1280" data-id="462" src="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-1920x1280.webp" alt="The Kansas City Royals' relief pitchers watch the game from the bullpen." class="wp-image-462" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-2048x1365.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" /></a></figure>
 
 
 
@@ -69,7 +69,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-scaled.webp"><img decoding="async" width="1920" height="1280" data-id="464" src="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-1920x1280.webp" alt="T-Mobile Park's retractable roof hangs over the railway tracks next to the stadium." class="wp-image-464" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-2048x1365.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-scaled.webp"><img loading="lazy" decoding="async" width="1920" height="1280" data-id="464" src="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-1920x1280.webp" alt="T-Mobile Park's retractable roof hangs over the railway tracks next to the stadium." class="wp-image-464" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0104-2048x1365.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" /></a></figure>
 
 
 
@@ -90,7 +90,7 @@
 
 
 
-<p>Many of the Microsoft employees at the game — including myself — are more familiar with cricket than with baseball. Cricket has a reputation in North America for being hard to understand, but when I compare my <a href="https://rosschurchley.com/blog/2024/cricket-in-600-words-or-less/">beginner&#8217;s guide to cricket</a> with our deliberations our section had to understand what was going on, I realized that baseball is <em>much</em> more complicated.</p>
+<p>Many of the Microsoft employees at the game — including myself — are more familiar with cricket than with baseball. Cricket has a reputation in North America for being hard to understand, but when I compare my <a href="https://rosschurchley.com/2024/cricket-in-600-words-or-less/">beginner&#8217;s guide to cricket</a> with our deliberations our section had to understand what was going on, I realized that baseball is <em>much</em> more complicated.</p>
 
 
 
@@ -230,6 +230,24 @@
 		
 		<enclosure url="https://sporty-clips.mlb.com/V3k0RDlfWGw0TUFRPT1fVndFQUJnSUVYMWNBRFFZQlhnQUFVQWRTQUZrSFYxQUFBbDBFQmxKVFVsQUVBUXBY.mp4" length="8427199" type="video/mp4" />
 
+			</item>
+		<item>
+		<title>If you see a coyote</title>
+		<link>https://rosschurchley.com/2023/if-you-see-a-coyote/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Tue, 09 May 2023 22:00:00 +0000</pubDate>
+				<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Gee that's random]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=130</guid>
+
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A sign posted by the Vancouver Parks Board at the entrance to a park." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />If you see a coyote in Vancouver, the officially recommended course of action is to yell &#8220;Go away coyote&#8221;.]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A sign posted by the Vancouver Parks Board at the entrance to a park." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
+<p>If you see a coyote in Vancouver, the officially recommended course of action is to yell &#8220;Go away coyote&#8221;.</p>
+]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

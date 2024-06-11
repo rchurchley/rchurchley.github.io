@@ -12,13 +12,13 @@
 	<atom:link href="https://rosschurchley.com/tag/the-legend-of-zelda/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Tue, 14 May 2024 06:51:03 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 07:52:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Cosmology of Hyrule</title>
-		<link>https://rosschurchley.com/blog/2023/zelda-astronomy/</link>
+		<link>https://rosschurchley.com/2023/zelda-astronomy/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Tue, 11 Jul 2023 22:00:00 +0000</pubDate>
@@ -37,8 +37,8 @@
 		<category><![CDATA[The Legend of Zelda]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=153</guid>
 
-					<description><![CDATA[The Legend of Zelda: Tears of the Kingdom calls your attention to the sky… but there’s more weird stuff up there than just the floating islands. If you look into Hyrule’s sky at night, you’ll see the stars do not move while the moon races from one horizon to the other. This means that the cosmology of the Zelda universe [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-jpg.webp" class="attachment-large size-large wp-post-image" alt="A screenshot of Tears of the Kingdom showing Link skydiving at night with a half-moon and stars in the background." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />The Legend of Zelda: Tears of the Kingdom calls your attention to the sky… but there’s more weird stuff up there than just the floating islands. If you look into Hyrule’s sky at night, you’ll see the stars do not move while the moon races from one horizon to the other. This means that the cosmology of the Zelda universe [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-jpg.webp" class="attachment-large size-large wp-post-image" alt="A screenshot of Tears of the Kingdom showing Link skydiving at night with a half-moon and stars in the background." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p><em>The Legend of Zelda: Tears of the Kingdom</em> calls your attention to the sky… but there’s more weird stuff up there than just the floating islands.</p>
 
 
@@ -75,7 +75,7 @@
 
 
 
-<p>The strangest phenomenon I noticed is the fact that <strong>moon only appears at night</strong>. Sure, we culturally associate the moon with night, but in reality it’s out during the day half the time. This is what gives the moon <a href="https://moon.nasa.gov/moon-in-motion/phases-eclipses-supermoons/moon-phases/">its phases</a>; the closer the moon is to the sun in the sky, the less of it appears illuminated to us on Earth. If the moon always rises and sets at the same time of day, its phases cannot be explained as the reflected light of the sun!</p>
+<p>The strangest phenomenon I noticed is the fact that <strong>moon only appears at night</strong>. Sure, we culturally associate the moon with night, but in reality it’s out during the day half the time. This is what gives the moon <a href="https://science.nasa.gov/moon/moon-phases/">its phases</a>; the closer the moon is to the sun in the sky, the less of it appears illuminated to us on Earth. If the moon always rises and sets at the same time of day, its phases cannot be explained as the reflected light of the sun!</p>
 
 
 
@@ -83,7 +83,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model.png" alt="A diagram of a possible Zelda planetary system." class="wp-image-191" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model.png 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model-800x600.png 800w, https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model-768x576.png 768w, https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model-1536x1152.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">A model for the cosmology of the world of Zelda.</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model.png" alt="A diagram of a possible Zelda planetary system." class="wp-image-191" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model.png 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model-800x600.png 800w, https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model-768x576.png 768w, https://rosschurchley.com/wp-content/uploads/2024/05/zelda-astronomy-model-1536x1152.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">A model for the cosmology of the world of Zelda.</figcaption></figure>
 
 
 
@@ -99,7 +99,7 @@
 			</item>
 		<item>
 		<title>Cross-stitch Sheikah Slate</title>
-		<link>https://rosschurchley.com/crafts/2019/cross-stitch-sheikah-slate/</link>
+		<link>https://rosschurchley.com/2019/cross-stitch-sheikah-slate/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sun, 03 Mar 2019 23:00:00 +0000</pubDate>
@@ -108,9 +108,9 @@
 		<category><![CDATA[The Legend of Zelda]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=83</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-pattern-sheikah.png" alt="Cross-stitch pattern of the eyelike pattern on the Sheikah Slate"><figcaption class="thread-list"><span class="thread" data-dmc="742" title="Tangerine (Light)" style="background-color:#FFBC50;color:#000000">742</span><span class="thread" data-dmc="741" title="Tangerine (Medium)" style="background-color:#FF9D25;color:#ffffff">741</span><span class="thread" data-dmc="827" title="Blue (V. Light)" style="background-color:#ACD4E9;color:#000000">827</span><span class="thread" data-dmc="996" title="Electric Blue (Medium)" style="background-color:#13BCDE;color:#ffffff">996</span></figcaption></figure>
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-sheikah-slate-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the eyelike design found on the Sheikah Slate in The Legend of Zelda: Breath of the Wild." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-sheikah-slate-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-sheikah-slate-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-sheikah-slate-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-sheikah-slate-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-sheikah-slate-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-sheikah-slate-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the eyelike design found on the Sheikah Slate in The Legend of Zelda: Breath of the Wild." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-sheikah-slate-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-sheikah-slate-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-sheikah-slate-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-sheikah-slate-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-sheikah-slate-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
+<figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2019/03/cross-stitch-pattern-sheikah.png" alt="Cross-stitch Pattern"/><figcaption class="thread-list"><span class="thread" data-dmc="742" title="Tangerine (Light)" style="background-color:#FFBC50;color:#000000">742</span><span class="thread" data-dmc="741" title="Tangerine (Medium)" style="background-color:#FF9D25;color:#ffffff">741</span><span class="thread" data-dmc="827" title="Blue (V. Light)" style="background-color:#ACD4E9;color:#000000">827</span><span class="thread" data-dmc="996" title="Electric Blue (Medium)" style="background-color:#13BCDE;color:#ffffff">996</span></figcaption></figure>
 ]]></content:encoded>
 					
 		

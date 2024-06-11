@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Puffy pentagon</title>
-		<link>https://rosschurchley.com/crafts/2020/puffy-pentagon/</link>
+		<link>https://rosschurchley.com/2020/puffy-pentagon/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Mon, 06 Apr 2020 22:00:00 +0000</pubDate>
@@ -37,13 +37,13 @@
 		<category><![CDATA[Origami]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=91</guid>
 
-					<description><![CDATA[This construction is made out of five copies of That Simple Unit (TSU), an origami module attributed to Charles Esseltine. I found this a little tricky to fold and put together, but the end result was very structurally sound.]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2020/04/cover-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A cat investigates an origami model made from five coloured papers folded into a spiral and meeting at the point of a pentagonal bipyramid." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2020/04/cover-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2020/04/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2020/04/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2020/04/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2020/04/cover-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />This construction is made out of five copies of That Simple Unit (TSU), an origami module attributed to Charles Esseltine. I found this a little tricky to fold and put together, but the end result was very structurally sound.]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2020/04/cover-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A cat investigates an origami model made from five coloured papers folded into a spiral and meeting at the point of a pentagonal bipyramid." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2020/04/cover-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2020/04/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2020/04/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2020/04/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2020/04/cover-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
 <p>This construction is made out of five copies of <a href="https://web.archive.org/web/20070710041221/http://www.anniefolds.com/TSUstepfolds.htm">That Simple Unit (TSU)</a>, an origami module attributed to Charles Esseltine. I found this a little tricky to fold and put together, but the end result was very structurally sound.</p>
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/content-5-1707x1280.webp" alt="The fully assembled pentagonal bipyramid." class="wp-image-118" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/content-5-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2024/05/content-5-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/content-5-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/content-5-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/content-5-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/content-5-1707x1280.webp" alt="The fully assembled pentagonal bipyramid." class="wp-image-118" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/content-5-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2024/05/content-5-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/content-5-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/content-5-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/content-5-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" /></figure>
 ]]></content:encoded>
 					
 		
@@ -51,7 +51,7 @@
 			</item>
 		<item>
 		<title>Cat cuboctahedron</title>
-		<link>https://rosschurchley.com/crafts/2018/cat-cuboctahedron/</link>
+		<link>https://rosschurchley.com/2018/cat-cuboctahedron/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sat, 03 Mar 2018 23:00:00 +0000</pubDate>
@@ -59,13 +59,13 @@
 		<category><![CDATA[Origami]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=47</guid>
 
-					<description><![CDATA[This polyhedron is made from eight triangles and six squares made according to&#160;patterns by Fuse Tomoko. The construction relies on inserts to connect the faces and did not last long in Diggy’s paws!]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2018/03/cover-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="An orange cat shares a tower perch with a polyhedron made of red and white cat-print origami paper." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/03/cover-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2018/03/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/03/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/03/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2018/03/cover-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />This polyhedron is made from eight triangles and six squares made according to&#160;patterns by Fuse Tomoko. The construction relies on inserts to connect the faces and did not last long in Diggy’s paws!]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2018/03/cover-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="An orange cat shares a tower perch with a polyhedron made of red and white cat-print origami paper." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/03/cover-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2018/03/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/03/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/03/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2018/03/cover-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
 <p>This polyhedron is made from eight triangles and six squares made according to&nbsp;<a href="https://books.google.ca/books/about/Unit_Polyhedoron_Origami.html?id=1hhgr4W5TcoC&amp;redir_esc=y">patterns by Fuse Tomoko</a>. The construction relies on inserts to connect the faces and did not last long in Diggy’s paws!</p>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/content-4-1707x1280.webp" alt="A different angle of the octahedral configuration." class="wp-image-71" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/content-4-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2024/05/content-4-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/content-4-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/content-4-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/content-4-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/content-4-1707x1280.webp" alt="A different angle of the octahedral configuration." class="wp-image-71" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/content-4-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2024/05/content-4-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/content-4-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/content-4-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/content-4-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" /></figure>
 ]]></content:encoded>
 					
 		
@@ -73,7 +73,7 @@
 			</item>
 		<item>
 		<title>Spring octahedron</title>
-		<link>https://rosschurchley.com/crafts/2018/spring-octahedron/</link>
+		<link>https://rosschurchley.com/2018/spring-octahedron/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sun, 25 Feb 2018 23:00:00 +0000</pubDate>
@@ -81,13 +81,13 @@
 		<category><![CDATA[Origami]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=45</guid>
 
-					<description><![CDATA[This polyhedron is based on a pattern in the book&#160;Kusudama Origami&#160;by Ekaterina Lukasheva.]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2018/02/cover-3-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A sun-dappled modular origami construction made from blue, purple, and pink cherry blossom origami paper." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/02/cover-3-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-3-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-3-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-3-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-3-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />This polyhedron is based on a pattern in the book&#160;Kusudama Origami&#160;by Ekaterina Lukasheva.]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2018/02/cover-3-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A sun-dappled modular origami construction made from blue, purple, and pink cherry blossom origami paper." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/02/cover-3-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-3-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-3-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-3-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-3-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
 <p>This polyhedron is based on a pattern in the book&nbsp;<a href="https://kusudama.me/#/Books/Kusudama_Origami"><em>Kusudama Origami</em></a>&nbsp;by Ekaterina Lukasheva.</p>
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="886" height="886" src="https://rosschurchley.com/wp-content/uploads/2024/05/content-3-jpeg.webp" alt="A different angle of the octahedral configuration." class="wp-image-68" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/content-3-jpeg.webp 886w, https://rosschurchley.com/wp-content/uploads/2024/05/content-3-600x600.webp 600w, https://rosschurchley.com/wp-content/uploads/2024/05/content-3-150x150.webp 150w, https://rosschurchley.com/wp-content/uploads/2024/05/content-3-768x768.webp 768w" sizes="(max-width: 886px) 100vw, 886px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="886" height="886" src="https://rosschurchley.com/wp-content/uploads/2024/05/content-3-jpeg.webp" alt="A different angle of the octahedral configuration." class="wp-image-68" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/content-3-jpeg.webp 886w, https://rosschurchley.com/wp-content/uploads/2024/05/content-3-600x600.webp 600w, https://rosschurchley.com/wp-content/uploads/2024/05/content-3-150x150.webp 150w, https://rosschurchley.com/wp-content/uploads/2024/05/content-3-768x768.webp 768w" sizes="(max-width: 886px) 100vw, 886px" /></figure>
 ]]></content:encoded>
 					
 		
@@ -95,7 +95,7 @@
 			</item>
 		<item>
 		<title>Dodecahedral lantern</title>
-		<link>https://rosschurchley.com/crafts/2018/dodecahedral-lantern/</link>
+		<link>https://rosschurchley.com/2018/dodecahedral-lantern/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sat, 17 Feb 2018 23:00:00 +0000</pubDate>
@@ -103,8 +103,8 @@
 		<category><![CDATA[Origami]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=43</guid>
 
-					<description><![CDATA[This polyhedron was made from thirty copies of the&#160;Penultimate Module&#160;with 108˚ angles. I used rather heavy square paper rather than the recommended 4:3 paper; as a result, the creases are thicker and the edges show some separation between the folded layers.]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2018/02/cover-2-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A close-up interior of an origami dodecahedral skeleton." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/02/cover-2-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-2-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-2-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-2-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-2-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />This polyhedron was made from thirty copies of the&#160;Penultimate Module&#160;with 108˚ angles. I used rather heavy square paper rather than the recommended 4:3 paper; as a result, the creases are thicker and the edges show some separation between the folded layers.]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2018/02/cover-2-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A close-up interior of an origami dodecahedral skeleton." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/02/cover-2-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-2-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-2-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-2-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-2-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
 <p>This polyhedron was made from thirty copies of the&nbsp;<a href="https://web.eecs.utk.edu/~jplank/plank/origami/penultimate/intro.html">Penultimate Module</a>&nbsp;with 108˚ angles. I used rather heavy square paper rather than the recommended 4:3 paper; as a result, the creases are thicker and the edges show some separation between the folded layers.</p>
 
 
@@ -117,7 +117,7 @@
 			</item>
 		<item>
 		<title>Rising sun dodecahedron</title>
-		<link>https://rosschurchley.com/crafts/2018/rising-sun-dodecahedron/</link>
+		<link>https://rosschurchley.com/2018/rising-sun-dodecahedron/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sat, 10 Feb 2018 23:00:00 +0000</pubDate>
@@ -125,8 +125,8 @@
 		<category><![CDATA[Origami]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=49</guid>
 
-					<description><![CDATA[This polyhedron is based on the “Vortex Dodecahedron” pattern in the book&#160;Exquisite Modular Origami. It is built from thirty identical modules, which I made from basic one-sided red origami paper.]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2018/02/cover-1-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="An origami dodecahedron with a red-and-white pinwheel pattern on each face." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/02/cover-1-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-1-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-1-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-1-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-1-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />This polyhedron is based on the “Vortex Dodecahedron” pattern in the book&#160;Exquisite Modular Origami. It is built from thirty identical modules, which I made from basic one-sided red origami paper.]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2018/02/cover-1-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="An origami dodecahedron with a red-and-white pinwheel pattern on each face." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/02/cover-1-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-1-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-1-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-1-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-1-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
 <p>This polyhedron is based on the “Vortex Dodecahedron” pattern in the book&nbsp;<a href="https://www.origamee.net/book4/"><em>Exquisite Modular Origami</em></a>. It is built from thirty identical modules, which I made from basic one-sided red origami paper.</p>
 
 
@@ -139,7 +139,7 @@
 			</item>
 		<item>
 		<title>Tricolour Sonobe</title>
-		<link>https://rosschurchley.com/crafts/2018/tricolour-sonobe/</link>
+		<link>https://rosschurchley.com/2018/tricolour-sonobe/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sat, 03 Feb 2018 23:00:00 +0000</pubDate>
@@ -147,8 +147,8 @@
 		<category><![CDATA[Origami]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=41</guid>
 
-					<description><![CDATA[This polyhedron was one of my first modular origami creations, and the pattern is my go-to option to share with others. It is made from thirty&#160;Sonobe modules, although if you get bored partway through you can make a triakis octahedron out of just twelve units.]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2018/02/cover-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A spiky ball made from pink, brown, and blue origami paper." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/02/cover-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />This polyhedron was one of my first modular origami creations, and the pattern is my go-to option to share with others. It is made from thirty&#160;Sonobe modules, although if you get bored partway through you can make a triakis octahedron out of just twelve units.]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2018/02/cover-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A spiky ball made from pink, brown, and blue origami paper." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/02/cover-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2018/02/cover-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
 <p>This polyhedron was one of my first modular origami creations, and the pattern is my go-to option to share with others. It is made from thirty&nbsp;<a href="https://static1.squarespace.com/static/5754f47fcf80a16bffa02c45/t/5ca30e8b9308870001648c07/1554190010640/Handout-Sonobe_Unit.pdf">Sonobe modules</a>, although if you get bored partway through you can make a triakis octahedron out of just twelve units.</p>
 
 

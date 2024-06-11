@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Alternate periodic tables</title>
-		<link>https://rosschurchley.com/snippets/2023/alternate-periodic-tables/</link>
+		<link>https://rosschurchley.com/2023/alternate-periodic-tables/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 16 Jun 2023 22:00:00 +0000</pubDate>
@@ -38,8 +38,8 @@
 		<category><![CDATA[Physics]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=145</guid>
 
-					<description><![CDATA[The standard Periodic Table is an iconic data visualization, but it’s not the only way to represent the relationships between elements. This beautiful &#8220;ribbon&#8221; version was designed by James Hyde in the 1970s. James Franklin Hyde&#160;was a pioneer in the silicone industry, so it’s appropriate that&#160;periodic ribbon&#160;puts the element silicon in the center and highlights [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp" class="attachment-large size-large wp-post-image" alt="The periodic table of the elements presented as a colourful ribbon spiralling out from hydrogen." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-1536x1152.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />The standard Periodic Table is an iconic data visualization, but it’s not the only way to represent the relationships between elements. This beautiful &#8220;ribbon&#8221; version was designed by James Hyde in the 1970s. James Franklin Hyde&#160;was a pioneer in the silicone industry, so it’s appropriate that&#160;periodic ribbon&#160;puts the element silicon in the center and highlights [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp" class="attachment-large size-large wp-post-image" alt="The periodic table of the elements presented as a colourful ribbon spiralling out from hydrogen." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-1536x1152.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>The standard Periodic Table is an iconic data visualization, but it’s not the only way to represent the relationships between elements. <a href="https://digital.sciencehistory.org/works/8p58pf13g">This beautiful &#8220;ribbon&#8221; version</a> was designed by James Hyde in the 1970s.</p>
 
 
@@ -56,7 +56,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1392" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1392x1280.webp" alt="A different periodic table of the elements in the shape of a spiral centered around hydrogen." class="wp-image-184" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1392x1280.webp 1392w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-653x600.webp 653w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-768x706.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1536x1412.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-2048x1883.webp 2048w" sizes="(max-width: 1392px) 100vw, 1392px" /><figcaption class="wp-element-caption">Benfey&#8217;s periodic snail of the elements. (<a href="https://digital.sciencehistory.org/works/9p290b30x">Theodor Benfey / Science History Institute</a>)</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1392" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1392x1280.webp" alt="A different periodic table of the elements in the shape of a spiral centered around hydrogen." class="wp-image-184" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1392x1280.webp 1392w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-653x600.webp 653w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-768x706.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1536x1412.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-2048x1883.webp 2048w" sizes="(max-width: 1392px) 100vw, 1392px" /><figcaption class="wp-element-caption">Benfey&#8217;s periodic snail of the elements. (<a href="https://digital.sciencehistory.org/works/9p290b30x">Theodor Benfey / Science History Institute</a>)</figcaption></figure>
 ]]></content:encoded>
 					
 		
@@ -64,7 +64,7 @@
 			</item>
 		<item>
 		<title>CRC Handbook</title>
-		<link>https://rosschurchley.com/snippets/2023/crc-handbook/</link>
+		<link>https://rosschurchley.com/2023/crc-handbook/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Mon, 22 May 2023 22:00:00 +0000</pubDate>
@@ -99,7 +99,7 @@
 			</item>
 		<item>
 		<title>Turkey times</title>
-		<link>https://rosschurchley.com/snippets/2021/turkey-times/</link>
+		<link>https://rosschurchley.com/2021/turkey-times/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sat, 25 Dec 2021 23:00:00 +0000</pubDate>

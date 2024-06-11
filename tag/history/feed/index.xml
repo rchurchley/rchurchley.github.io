@@ -12,13 +12,13 @@
 	<atom:link href="https://rosschurchley.com/tag/history/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Sat, 25 May 2024 03:11:18 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Jun 2024 07:55:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Buntzen Power Station</title>
-		<link>https://rosschurchley.com/blog/2023/buntzen-power-station/</link>
+		<link>https://rosschurchley.com/2023/buntzen-power-station/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Wed, 05 Jul 2023 22:00:00 +0000</pubDate>
@@ -38,8 +38,8 @@
 		<category><![CDATA[Vancouver]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=151</guid>
 
-					<description><![CDATA[I recently went for a walk in təmtəmíxʷtən (Belcarra), and when I got to… wait, what’s that weird derelict building in the distance? Is it an abandoned hotel? No, there’s no way to get there by land. An old naval fortress? No, the location doesn’t make any strategic sense. A hydroelectric dam? Where’s the water [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/07/cover-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A large rectangular concrete building sits on the water at the base of a forested mountain." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2023/07/cover-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />I recently went for a walk in təmtəmíxʷtən (Belcarra), and when I got to… wait, what’s that weird derelict building in the distance? Is it an abandoned hotel? No, there’s no way to get there by land. An old naval fortress? No, the location doesn’t make any strategic sense. A hydroelectric dam? Where’s the water [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/07/cover-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A large rectangular concrete building sits on the water at the base of a forested mountain." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2023/07/cover-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
 <p>I recently went for a walk in təmtəmíxʷtən (Belcarra), and when I got to… wait, what’s that weird derelict building in the distance?</p>
 
 
@@ -60,7 +60,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1192" height="944" src="https://rosschurchley.com/wp-content/uploads/2024/05/historic.png" alt="A black-and-white photo of a large but narrow concrete building at the bottom of a steep hill on the water." class="wp-image-199" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/historic.png 1192w, https://rosschurchley.com/wp-content/uploads/2024/05/historic-758x600.png 758w, https://rosschurchley.com/wp-content/uploads/2024/05/historic-768x608.png 768w" sizes="(max-width: 1192px) 100vw, 1192px" /><figcaption class="wp-element-caption">Buntzen station #2 under construction in 1913. (<a href="https://searcharchives.vancouver.ca/view-of-partially-constructed-buntzen-lake-power-plant-number-two-from-indian-arm">James Matthews/Vancouver Archives</a>)</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1192" height="944" src="https://rosschurchley.com/wp-content/uploads/2024/05/historic.png" alt="A black-and-white photo of a large but narrow concrete building at the bottom of a steep hill on the water." class="wp-image-199" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/historic.png 1192w, https://rosschurchley.com/wp-content/uploads/2024/05/historic-758x600.png 758w, https://rosschurchley.com/wp-content/uploads/2024/05/historic-768x608.png 768w" sizes="(max-width: 1192px) 100vw, 1192px" /><figcaption class="wp-element-caption">Buntzen station #2 under construction in 1913. (<a href="https://searcharchives.vancouver.ca/view-of-partially-constructed-buntzen-lake-power-plant-number-two-from-indian-arm">James Matthews/Vancouver Archives</a>)</figcaption></figure>
 ]]></content:encoded>
 					
 		
@@ -68,7 +68,7 @@
 			</item>
 		<item>
 		<title>Julius Caesar</title>
-		<link>https://rosschurchley.com/snippets/2023/julius-caesar/</link>
+		<link>https://rosschurchley.com/2023/julius-caesar/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 30 Jun 2023 22:00:00 +0000</pubDate>
@@ -99,7 +99,7 @@
 			</item>
 		<item>
 		<title>O Canada&#8217;s copyright</title>
-		<link>https://rosschurchley.com/snippets/2022/o-canadas-copyright/</link>
+		<link>https://rosschurchley.com/2022/o-canadas-copyright/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 01 Jul 2022 22:00:00 +0000</pubDate>
@@ -122,17 +122,17 @@
 			</item>
 		<item>
 		<title>Colonialism and the Four-Colour Theorem</title>
-		<link>https://rosschurchley.com/blog/2012/colonialism-and-the-four-colour-theorem/</link>
+		<link>https://rosschurchley.com/2012/colonialism-and-the-four-colour-theorem/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Tue, 31 Jul 2012 22:00:00 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[Graph theory]]></category>
 		<category><![CDATA[History]]></category>
+		<category><![CDATA[Math]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=16</guid>
 
-					<description><![CDATA[In 1852, then-student Francis Guthrie wondered any if possible map required more than four colours. By the end of the century, Guthrie and his fellow colonists had drawn a map on Africa that needed five. The&#160;Four-Colour Theorem&#160;says that, no matter what the borders on your map are, you only need four colours to make sure [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1723" height="969" src="https://rosschurchley.com/wp-content/uploads/2012/07/British-Possessions-and-Colonies-jpg.webp" class="attachment-large size-large wp-post-image" alt="A historical map of Africa, with an overlaid diagram showing adjacencies between European claims." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2012/07/British-Possessions-and-Colonies-jpg.webp 1723w, https://rosschurchley.com/wp-content/uploads/2012/07/British-Possessions-and-Colonies-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2012/07/British-Possessions-and-Colonies-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2012/07/British-Possessions-and-Colonies-1536x864.webp 1536w" sizes="(max-width: 1723px) 100vw, 1723px" />In 1852, then-student Francis Guthrie wondered any if possible map required more than four colours. By the end of the century, Guthrie and his fellow colonists had drawn a map on Africa that needed five. The&#160;Four-Colour Theorem&#160;says that, no matter what the borders on your map are, you only need four colours to make sure [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1723" height="969" src="https://rosschurchley.com/wp-content/uploads/2012/07/British-Possessions-and-Colonies-jpg.webp" class="attachment-large size-large wp-post-image" alt="A historical map of Africa, with an overlaid diagram showing adjacencies between European claims." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2012/07/British-Possessions-and-Colonies-jpg.webp 1723w, https://rosschurchley.com/wp-content/uploads/2012/07/British-Possessions-and-Colonies-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2012/07/British-Possessions-and-Colonies-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2012/07/British-Possessions-and-Colonies-1536x864.webp 1536w" sizes="(max-width: 1723px) 100vw, 1723px" />
 <p>In 1852, then-student Francis Guthrie wondered any if possible map required more than four colours. By the end of the century, Guthrie and his fellow colonists had drawn a map on Africa that needed five.</p>
 
 
@@ -145,7 +145,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1699" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/colonized-africa-1699x1280.webp" alt="A British map of Africa published in 1899." class="wp-image-24" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/colonized-africa-1699x1280.webp 1699w, https://rosschurchley.com/wp-content/uploads/2024/05/colonized-africa-797x600.webp 797w, https://rosschurchley.com/wp-content/uploads/2024/05/colonized-africa-768x578.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/colonized-africa-1536x1157.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/colonized-africa-2048x1543.webp 2048w" sizes="(max-width: 1699px) 100vw, 1699px" /><figcaption class="wp-element-caption">A map of Africa published in 1899. (<a href="https://www.flickr.com/photos/britishlibrary/11249453394/" data-type="link" data-id="https://www.flickr.com/photos/britishlibrary/11249453394/">William Balfour Irvine / British Library</a>)</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1699" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/colonized-africa-1699x1280.webp" alt="A British map of Africa published in 1899." class="wp-image-24" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/colonized-africa-1699x1280.webp 1699w, https://rosschurchley.com/wp-content/uploads/2024/05/colonized-africa-797x600.webp 797w, https://rosschurchley.com/wp-content/uploads/2024/05/colonized-africa-768x578.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/colonized-africa-1536x1157.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/colonized-africa-2048x1543.webp 2048w" sizes="(max-width: 1699px) 100vw, 1699px" /><figcaption class="wp-element-caption">A map of Africa published in 1899. (<a href="https://www.flickr.com/photos/britishlibrary/11249453394/" data-type="link" data-id="https://www.flickr.com/photos/britishlibrary/11249453394/">William Balfour Irvine / British Library</a>)</figcaption></figure>
 
 
 

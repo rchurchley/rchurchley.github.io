@@ -12,13 +12,13 @@
 	<atom:link href="https://rosschurchley.com/tag/geography/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Sat, 25 May 2024 23:33:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 06:27:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Know your watershed</title>
-		<link>https://rosschurchley.com/blog/2023/know-your-watershed/</link>
+		<link>https://rosschurchley.com/2023/know-your-watershed/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Mon, 15 May 2023 22:00:00 +0000</pubDate>
@@ -38,8 +38,8 @@
 		<category><![CDATA[Know your watershed]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=134</guid>
 
-					<description><![CDATA[I’m on a quest to explore the creeks and waterways of Vancouver, Burnaby, and New Westminster. First, I need to understand how the topography of my neighbourhood determines the flow of water and the formation of streams. Three main topological features define how water flows in the Vancouver-Burnaby-New West area: These features divide the Burrard [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/05/cover-2.webp" class="attachment-large size-large wp-post-image" alt="A relief map zoomed in to New Westminster, Burnaby, and Coquitlam, showing creeks draining into the Brunette River watershed." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/cover-2.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />I’m on a quest to explore the creeks and waterways of Vancouver, Burnaby, and New Westminster. First, I need to understand how the topography of my neighbourhood determines the flow of water and the formation of streams. Three main topological features define how water flows in the Vancouver-Burnaby-New West area: These features divide the Burrard [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/05/cover-2.webp" class="attachment-large size-large wp-post-image" alt="A relief map zoomed in to New Westminster, Burnaby, and Coquitlam, showing creeks draining into the Brunette River watershed." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/cover-2.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>I’m on a quest to explore the creeks and waterways of Vancouver, Burnaby, and New Westminster. First, I need to understand how the topography of my neighbourhood determines the flow of water and the formation of streams.</p>
 
 
@@ -48,7 +48,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/contours-jpeg.webp" alt="A topographic map of the Burrard Peninsula." class="wp-image-237" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/contours-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/contours-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/contours-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/contours-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">A topographic map of the Burrard Peninsula.</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/contours-jpeg.webp" alt="A topographic map of the Burrard Peninsula." class="wp-image-237" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/contours-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/contours-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/contours-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/contours-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">A topographic map of the Burrard Peninsula.</figcaption></figure>
 
 
 
@@ -100,7 +100,7 @@
 
 
 
-<p>Most of the&nbsp;<a href="http://hdl.handle.net/11272/IKHNQ">historic streams</a>&nbsp;of Vancouver have been developed over, so rainwater now is mainly conveyed through storm drains and groundwater. In contrast, Burnaby still has plenty of streams carrying rain through its watersheds.</p>
+<p>Most of the&nbsp;<a href="https://hdl.handle.net/11272/IKHNQ">historic streams</a>&nbsp;of Vancouver have been developed over, so rainwater now is mainly conveyed through storm drains and groundwater. In contrast, Burnaby still has plenty of streams carrying rain through its watersheds.</p>
 
 
 
@@ -112,7 +112,7 @@
 			</item>
 		<item>
 		<title>Where is &#8220;Lost in Japan&#8221;?</title>
-		<link>https://rosschurchley.com/blog/2022/where-is-lost-in-japan/</link>
+		<link>https://rosschurchley.com/2022/where-is-lost-in-japan/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sun, 13 Feb 2022 23:00:00 +0000</pubDate>
@@ -121,9 +121,13 @@
 		<category><![CDATA[Music]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=124</guid>
 
-					<description><![CDATA[Do you got plans tonight?Song’s “a couple of hundred miles from Japan”, but I —I was thinking other lyrics mean that can’t be right,And I can’t get this off of my mind. Shawn Mendes’ song “Lost in Japan” has had me geographically confused since I first heard it&#160;covered by Scary Pockets. If you haven’t listened [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<pre class="wp-block-verse">Do you got plans tonight?<br>Song’s “a couple of hundred miles from Japan”, but I —<br>I was thinking other lyrics mean that can’t be right,<br>And I can’t get this off of my mind.</pre>
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan.webp" class="attachment-large size-large wp-post-image" alt="A still from the music video to &quot;Lost in Japan&quot; composited with a map of Japan and its surroundings." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Shawn Mendes’ song “Lost in Japan” has had me geographically confused since I first heard it covered by Scary Pockets. If you haven’t listened to the lyrics, the song is about a person who is thinking about their crush and the possibility of taking a last-minute flight to Japan to see them. The question I can’t [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan.webp" class="attachment-large size-large wp-post-image" alt="A still from the music video to &quot;Lost in Japan&quot; composited with a map of Japan and its surroundings." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/02/where-is-lost-in-japan-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
+<p>Shawn Mendes’ song “Lost in Japan” has had me geographically confused since I first heard it <a href="https://www.youtube.com/watch?v=Zb_VFx3iyjg">covered by Scary Pockets</a>. If you haven’t listened to the lyrics, the song is about a person who is thinking about their crush and the possibility of taking a last-minute flight to Japan to see them. </p>
+
+
+
+<p>The question I can’t get off my mind is: where is the song supposed to be taking place?</p>
 
 
 
@@ -131,7 +135,7 @@
 
 
 
-<p>Shawn Mendes’ song “Lost in Japan” has had me geographically confused since I first heard it&nbsp;<a href="https://www.youtube.com/watch?v=Zb_VFx3iyjg">covered by Scary Pockets</a>. If you haven’t listened to the lyrics, the song is about a person who is thinking about their crush and the possibility of taking a last-minute flight to Japan to see them. As the chorus goes:</p>
+<p>The chorus goes:</p>
 
 
 
@@ -141,7 +145,7 @@
 
 
 
-<p>The question I can’t get off my mind is: where is the song supposed to be taking place? From the chorus, we can infer that</p>
+<p>from which we can infer that</p>
 
 
 

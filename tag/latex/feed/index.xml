@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LaTeX &#8211; Ross Churchley</title>
+	<atom:link href="https://rosschurchley.com/tag/latex/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rosschurchley.com/</link>
+	<description>A commonplace book by Ross Churchley</description>
+	<lastBuildDate>Mon, 10 Jun 2024 06:16:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
+	<title>LaTeX &#8211; Ross Churchley</title>
+	<link>https://rosschurchley.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Owl Beamer colour theme</title>
+		<link>https://rosschurchley.com/2016/owl-beamer-colour-theme/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Tue, 15 Mar 2016 22:00:00 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[LaTeX]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=317</guid>
+
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2016/03/owlbeamer.webp" class="attachment-large size-large wp-post-image" alt="A stylized white owl on a black background among pink, blue, green, and yellow circles." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2016/03/owlbeamer.webp 1600w, https://rosschurchley.com/wp-content/uploads/2016/03/owlbeamer-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2016/03/owlbeamer-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2016/03/owlbeamer-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Owl is a Beamer color theme for real-world conditions. Its dark and light themes and projector-optimized palette help you create slides you can count on to be readable in the presentation room. Owl was designed with three guiding principles in mind: Simple colours = no distractions Owl uses black, white, and slight grey tones for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2016/03/owlbeamer.webp" class="attachment-large size-large wp-post-image" alt="A stylized white owl on a black background among pink, blue, green, and yellow circles." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2016/03/owlbeamer.webp 1600w, https://rosschurchley.com/wp-content/uploads/2016/03/owlbeamer-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2016/03/owlbeamer-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2016/03/owlbeamer-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
+<p><a href="https://github.com/rchurchley/beamercolortheme-owl">Owl</a> is a Beamer color theme for real-world conditions. Its dark and light themes and projector-optimized palette help you create slides you can count on to be readable in the presentation room.</p>
+
+
+
+<span id="more-317"></span>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2024/05/owlbeamer-sample.webp" alt="A sample slide using the Owl Beamer color theme" class="wp-image-651" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/owlbeamer-sample.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/owlbeamer-sample-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/owlbeamer-sample-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/owlbeamer-sample-1536x1152.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+
+
+
+<p>Owl was designed with three guiding principles in mind:</p>
+
+
+
+<p><strong>Simple colours = no distractions</strong></p>
+
+
+
+<p>Owl uses black, white, and slight grey tones for the structural elements of each Beamer frame, putting the focus of each slide on your content.</p>
+
+
+
+<p><strong>Dark and bright rooms, dark and light themes</strong></p>
+
+
+
+<p>A white background is best for visibility in brightly-lit rooms, whereas a black one can be easier on the eyes in rooms with low ambient lighting. Owl provides both dark and light themes, easily configurable with the package options.</p>
+
+
+
+<p><strong>A palette optimized for common projectors</strong></p>
+
+
+
+<p>Business and university projectors are often calibrated with an extremely bright green channel and very dim red and blue channels. Owl redefines the basic colour names <code>red</code>, <code>green</code>, <code>blue</code>, <code>yellow</code>, <code>violet</code>, <code>brown</code>, <code>orange</code>, and <code>cyan</code> to attractive hues that are still visible on these projectors.</p>
+
+
+
+<p>Owl is available <a href="https://www.ctan.org/pkg/beamercolorthemeowl">on CTAN</a> and comes bundled with the latest TeX Live distribution.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Metropolis Beamer theme</title>
+		<link>https://rosschurchley.com/2016/metropolis-beamer-theme/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sun, 13 Mar 2016 22:00:00 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[LaTeX]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=315</guid>
+
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2016/03/metropolis.webp" class="attachment-large size-large wp-post-image" alt="A logo showing a city and text reading Metropolis" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2016/03/metropolis.webp 1600w, https://rosschurchley.com/wp-content/uploads/2016/03/metropolis-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2016/03/metropolis-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2016/03/metropolis-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Preparing a presentation in LaTeX? Metropolis provides a simple, modern Beamer theme suitable for anyone to use. Metropolis is available on CTAN and comes bundled with the latest TeX Live distribution. I was a major contributor to Metropolis from 2015 to 2016. If you want to help make the theme better, you can join the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2016/03/metropolis.webp" class="attachment-large size-large wp-post-image" alt="A logo showing a city and text reading Metropolis" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2016/03/metropolis.webp 1600w, https://rosschurchley.com/wp-content/uploads/2016/03/metropolis-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2016/03/metropolis-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2016/03/metropolis-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
+<p>Preparing a presentation in LaTeX? <a href="https://github.com/matze/mtheme">Metropolis</a> provides a simple, modern Beamer theme suitable for anyone to use.</p>
+
+
+
+<p>Metropolis is available <a href="https://www.ctan.org/pkg/beamertheme-metropolis">on CTAN</a> and comes bundled with the latest TeX Live distribution.</p>
+
+
+
+<span id="more-315"></span>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2024/05/metropolis-sample.webp" alt="A title slide using the Metropolis Beamer theme." class="wp-image-648" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/metropolis-sample.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/metropolis-sample-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/metropolis-sample-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/metropolis-sample-1536x1152.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+
+
+
+<p>I was a major <a href="https://github.com/matze/mtheme/graphs/contributors">contributor</a> to Metropolis from 2015 to 2016. If you want to help make the theme better, you can join the development efforts on Matthias Vogelgesang&#8217;s <a href="https://github.com/matze/mtheme">GitHub page</a> for the project.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SFU thesis template</title>
+		<link>https://rosschurchley.com/2015/sfu-thesis-template/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sun, 03 May 2015 22:00:00 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[LaTeX]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=37</guid>
+
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2015/05/sfuthesis.webp" class="attachment-large size-large wp-post-image" alt="SFU Thesis logo" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2015/05/sfuthesis.webp 1600w, https://rosschurchley.com/wp-content/uploads/2015/05/sfuthesis-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2015/05/sfuthesis-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2015/05/sfuthesis-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />In collaboration with the SFU Library and my fellow grad students, I’ve written a LaTeX template from which graduate students at Simon Fraser University can start writing their thesis or dissertation. The project&#160;offers a LaTeX class file called&#160;sfuthesis&#160;that automatically sets your thesis according to the SFU Library’s style requirements. With its help, you can focus [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2015/05/sfuthesis.webp" class="attachment-large size-large wp-post-image" alt="SFU Thesis logo" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2015/05/sfuthesis.webp 1600w, https://rosschurchley.com/wp-content/uploads/2015/05/sfuthesis-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2015/05/sfuthesis-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2015/05/sfuthesis-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
+<p>In collaboration with the SFU Library and my fellow grad students, I’ve written a LaTeX template from which graduate students at Simon Fraser University can start writing their thesis or dissertation.</p>
+
+
+
+<p><a href="https://github.com/rchurchley/sfuthesis/">The project</a>&nbsp;offers a LaTeX class file called&nbsp;<code>sfuthesis</code>&nbsp;that automatically sets your thesis according to the SFU Library’s style requirements. With its help, you can focus on writing up your research instead of fiddling with formatting.</p>
+
+
+
+<p>Get started now by downloading a copy from the&nbsp;<a href="https://www.lib.sfu.ca/help/publish/thesis/templates#latex-template">SFU Library website</a>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Why does LaTeX clear \@title during \maketitle?</title>
+		<link>https://rosschurchley.com/2012/why-does-latex-clear-title-during-maketitle/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Thu, 23 Aug 2012 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[LaTeX]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=269</guid>
+
+					<description><![CDATA[Ever wonder why LaTeX doesn&#8217;t provide a way for printing the title and author once \maketitle has been issued? I did. So I asked a question on the TeX StackExchange and received an interesting answer. Turns out it&#8217;s an artifact of the times when memory was in extremely short supply. The main reason was &#8220;main-memory&#8221; [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Ever wonder why LaTeX doesn&#8217;t provide a way for printing the title and author once <code>\maketitle</code> has been issued? I did. So I asked a question on the TeX StackExchange and received an interesting answer. Turns out it&#8217;s an artifact of the times when memory was in <em>extremely</em> short supply.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>The main reason was &#8220;main-memory&#8221; back in those days. LaTeX was effectively eating up half of the available space just through macro definitions. So with complicated pages or with some picture environments etc you could hit the limit. So freeing up any bit was essential and you still see traces of this in the code.</p>
+<cite><a href="https://tex.stackexchange.com/questions/68045/why-are-title-author-and-date-cleared-during-maketitle">Frank Mittelbac</a>h</cite></blockquote>
+
+
+
+<p>Dark times!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

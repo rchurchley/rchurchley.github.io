@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Katamari Damacy &#8211; Ross Churchley</title>
+	<atom:link href="https://rosschurchley.com/tag/katamari-damacy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rosschurchley.com/</link>
+	<description>A commonplace book by Ross Churchley</description>
+	<lastBuildDate>Sun, 09 Jun 2024 07:56:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
+	<title>Katamari Damacy &#8211; Ross Churchley</title>
+	<link>https://rosschurchley.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Exponential growth in Katamari Damacy</title>
+		<link>https://rosschurchley.com/2007/exponential-growth-in-katamari-damacy/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 10 Oct 2007 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Katamari Damacy]]></category>
+		<category><![CDATA[Math]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=243</guid>
+
+					<description><![CDATA[One of my favourite video games of all time is the inexplicable Katamari Damacy. Its quirky premise involves, as Wikipedia puts it, &#8220;a diminutive prince rolling a magical, highly adhesive ball around various locations, collecting increasingly larger objects until the ball has grown great enough to become a star.&#8221; In other words, it&#8217;s the most [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>One of my favourite video games of all time is the inexplicable <a href="https://en.wikipedia.org/wiki/Katamari_Damacy"><em>Katamari Damacy</em></a>. Its quirky premise involves, as Wikipedia puts it, &#8220;a diminutive prince rolling a magical, highly adhesive ball around various locations, collecting increasingly larger objects until the ball has grown great enough to become a star.&#8221; In other words, it&#8217;s the most successful game ever made about exponential growth.</p>
+
+
+
+<span id="more-243"></span>
+
+
+
+<p>Katamari makes you explore a world at many different scales, all in the same level. You might start by dodging mice under a couch; just a few minutes later, you&#8217;re rolling up the family cat, the furniture, and everything else in the room. It&#8217;s an even better playable version of the <a href="https://www.youtube.com/watch?v=0fKBhvDjuy0">Powers of 10</a> video, made possible by the differential equation:</p>
+
+
+
+<div class="wp-block-katex-display-block katex-eq" data-katex-display="true"><pre>\frac{dR}{dt} = s(t)\cdot R \approx kR</pre></div>
+
+
+
+<p>You make your magically sticky katamari bigger by rolling stuff up; the bigger you are, the bigger the things you can pick up. So we would expect the radius <em>R</em> of the katamari to grow at a rate which roughly proportional to <em>R</em> itself. The exact rate of change is governed by some function <em>s</em>(<em>t</em>)<strong> </strong>≈<strong> </strong><em>k</em>, which depends on how good you are at finding a route filled with objects of just the right size for you to pick up. The solution to this differential equation</p>
+
+
+
+<div class="wp-block-katex-display-block katex-eq" data-katex-display="true"><pre>R = \exp \left( \int s(t) dt \right) \approx e^{kt}</pre></div>
+
+
+
+<p>gives a formula for the katamari&#8217;s size at a given time <em>t</em>.</p>
+
+
+
+<p>How justified are we in saying that <em>s</em>(<em>t</em>) is roughly constant? I charted the minute-to-minute progress of four let&#8217;s players on YouTube. If the exponential model is a good one, then katamari size should trace out a straight line on a log scale. And so it is:</p>
+
+
+
+<figure class="wp-block-wp-chrosyblocks-vega-chart"><div class="chart" data-vega-spec="{
+  &quot;mark&quot;: &quot;line&quot;,
+  &quot;encoding&quot;: {
+    &quot;x&quot;: {
+      &quot;field&quot;: &quot;Time&quot;, &quot;type&quot;: &quot;quantitative&quot;,
+      &quot;scale&quot;: { &quot;domain&quot;: [0, 25] }
+    },
+    &quot;y&quot;: {
+      &quot;field&quot;: &quot;Katamari size&quot;, &quot;type&quot;: &quot;quantitative&quot;,
+      &quot;scale&quot;: {&quot;type&quot;: &quot;log&quot;}
+    },
+    &quot;color&quot;: {
+      &quot;field&quot;: &quot;Source&quot;,
+      &quot;legend&quot;: null
+    }
+  },
+  &quot;data&quot;: { &quot;name&quot;: &quot;table&quot; }
+}" data-vega-data="{
+  &quot;table&quot;: [
+    {
+      &quot;Time&quot;: 0,
+      &quot;Katamari size&quot;: 100,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 1,
+      &quot;Katamari size&quot;: 118.7,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 2,
+      &quot;Katamari size&quot;: 157.2,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 3,
+      &quot;Katamari size&quot;: 182.8,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 4,
+      &quot;Katamari size&quot;: 236.9,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 5,
+      &quot;Katamari size&quot;: 308.1,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 6,
+      &quot;Katamari size&quot;: 360.3,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 7,
+      &quot;Katamari size&quot;: 559,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 8,
+      &quot;Katamari size&quot;: 677.2,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 9,
+      &quot;Katamari size&quot;: 804,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 10,
+      &quot;Katamari size&quot;: 920.4,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 11,
+      &quot;Katamari size&quot;: 1057.6,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 12,
+      &quot;Katamari size&quot;: 1127.7,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 13,
+      &quot;Katamari size&quot;: 1160.2,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 14,
+      &quot;Katamari size&quot;: 1423.5,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 15,
+      &quot;Katamari size&quot;: 1757.2,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 16,
+      &quot;Katamari size&quot;: 2735.7,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 17,
+      &quot;Katamari size&quot;: 3320.7,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 18,
+      &quot;Katamari size&quot;: 4270.9,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 19,
+      &quot;Katamari size&quot;: 7099.6,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 20,
+      &quot;Katamari size&quot;: 10609.9,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 21,
+      &quot;Katamari size&quot;: 11652.3,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 22,
+      &quot;Katamari size&quot;: 17109.3,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 23,
+      &quot;Katamari size&quot;: 21100.1,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 24,
+      &quot;Katamari size&quot;: 26521.7,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 25,
+      &quot;Katamari size&quot;: 32821.9,
+      &quot;Source&quot;: &quot;Game Grumps&quot;
+    },
+    {
+      &quot;Time&quot;: 0,
+      &quot;Katamari size&quot;: 100,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 1,
+      &quot;Katamari size&quot;: 124.2,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 2,
+      &quot;Katamari size&quot;: 156.5,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 3,
+      &quot;Katamari size&quot;: 203.4,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 4,
+      &quot;Katamari size&quot;: 264.1,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 5,
+      &quot;Katamari size&quot;: 326.6,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 6,
+      &quot;Katamari size&quot;: 419.4,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 7,
+      &quot;Katamari size&quot;: 590.1,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 8,
+      &quot;Katamari size&quot;: 810.3,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 9,
+      &quot;Katamari size&quot;: 936.3,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 10,
+      &quot;Katamari size&quot;: 1084.1,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 11,
+      &quot;Katamari size&quot;: 1090.8,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 12,
+      &quot;Katamari size&quot;: 1508,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 13,
+      &quot;Katamari size&quot;: 1819.1,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 14,
+      &quot;Katamari size&quot;: 2379.7,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 15,
+      &quot;Katamari size&quot;: 4194.6,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 16,
+      &quot;Katamari size&quot;: 6984,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 17,
+      &quot;Katamari size&quot;: 8617.3,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 18,
+      &quot;Katamari size&quot;: 9610.7,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 19,
+      &quot;Katamari size&quot;: 11719.7,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 20,
+      &quot;Katamari size&quot;: 17429.8,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 21,
+      &quot;Katamari size&quot;: 21443.8,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 22,
+      &quot;Katamari size&quot;: 25640.1,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 23,
+      &quot;Katamari size&quot;: 40128.6,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 24,
+      &quot;Katamari size&quot;: 63075.2,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 25,
+      &quot;Katamari size&quot;: 76272.4,
+      &quot;Source&quot;: &quot;MasaeAnela&quot;
+    },
+    {
+      &quot;Time&quot;: 0,
+      &quot;Katamari size&quot;: 100,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 1,
+      &quot;Katamari size&quot;: 127.4,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 2,
+      &quot;Katamari size&quot;: 167.7,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 3,
+      &quot;Katamari size&quot;: 253.6,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 4,
+      &quot;Katamari size&quot;: 298.6,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 5,
+      &quot;Katamari size&quot;: 374,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 6,
+      &quot;Katamari size&quot;: 506.1,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 7,
+      &quot;Katamari size&quot;: 685.4,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 8,
+      &quot;Katamari size&quot;: 910.6,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 9,
+      &quot;Katamari size&quot;: 1125.2,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 10,
+      &quot;Katamari size&quot;: 1492.3,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 11,
+      &quot;Katamari size&quot;: 2213.2,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 12,
+      &quot;Katamari size&quot;: 3392.5,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 13,
+      &quot;Katamari size&quot;: 4317,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 14,
+      &quot;Katamari size&quot;: 7869.3,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 15,
+      &quot;Katamari size&quot;: 10410.6,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 16,
+      &quot;Katamari size&quot;: 12130.4,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 17,
+      &quot;Katamari size&quot;: 12942.8,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 18,
+      &quot;Katamari size&quot;: 19290.9,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 19,
+      &quot;Katamari size&quot;: 24909.9,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 20,
+      &quot;Katamari size&quot;: 30586.3,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 21,
+      &quot;Katamari size&quot;: 49926.6,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 22,
+      &quot;Katamari size&quot;: 63085.7,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 23,
+      &quot;Katamari size&quot;: 72945.5,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 24,
+      &quot;Katamari size&quot;: 82627.6,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 25,
+      &quot;Katamari size&quot;: 85194,
+      &quot;Source&quot;: &quot;AnzaTNT&quot;
+    },
+    {
+      &quot;Time&quot;: 0,
+      &quot;Katamari size&quot;: 100,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 1,
+      &quot;Katamari size&quot;: 120.1,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 2,
+      &quot;Katamari size&quot;: 215.6,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 3,
+      &quot;Katamari size&quot;: 281,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 4,
+      &quot;Katamari size&quot;: 312.9,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 5,
+      &quot;Katamari size&quot;: 437.8,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 6,
+      &quot;Katamari size&quot;: 584.4,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 7,
+      &quot;Katamari size&quot;: 714.1,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 8,
+      &quot;Katamari size&quot;: 881.1,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 9,
+      &quot;Katamari size&quot;: 1095.2,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 10,
+      &quot;Katamari size&quot;: 1185.3,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 11,
+      &quot;Katamari size&quot;: 1300.6,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 12,
+      &quot;Katamari size&quot;: 1706.4,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 13,
+      &quot;Katamari size&quot;: 2208.2,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 14,
+      &quot;Katamari size&quot;: 3491.5,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 15,
+      &quot;Katamari size&quot;: 5052.8,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 16,
+      &quot;Katamari size&quot;: 7551.7,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 17,
+      &quot;Katamari size&quot;: 9210.1,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 18,
+      &quot;Katamari size&quot;: 13786.1,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 19,
+      &quot;Katamari size&quot;: 18691.2,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 20,
+      &quot;Katamari size&quot;: 23133,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 21,
+      &quot;Katamari size&quot;: 26834.8,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 22,
+      &quot;Katamari size&quot;: 43369.7,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 23,
+      &quot;Katamari size&quot;: 58765.8,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 24,
+      &quot;Katamari size&quot;: 68629.6,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    },
+    {
+      &quot;Time&quot;: 25,
+      &quot;Katamari size&quot;: 78425.9,
+      &quot;Source&quot;: &quot;Kobs&quot;
+    }
+  ]
+}"></div></figure>
+
+
+
+<p>The runs keep up a remarkably consistent exponential pace, with a couple visible exceptions — one at the end of the level, when the world starts running out of stuff, and one at roughly the ten-minute mark, when a couple of the players struggled to find items at the right scale to roll up.</p>
+
+
+
+<p>I&#8217;m not sure if this proves anything other than the fact that I like to do strange things in my spare time. But if you&#8217;re a calculus teacher with a bit of time and a PlayStation, I suspect this would make a very interesting 3 act problem for your class.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

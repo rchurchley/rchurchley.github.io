@@ -12,13 +12,13 @@
 	<atom:link href="https://rosschurchley.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Sat, 25 May 2024 23:40:05 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 07:56:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
@@ -28,8 +28,53 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hydrogen is &#8220;Waterstuff&#8221;</title>
+		<link>https://rosschurchley.com/2024/hydrogen-is-waterstuff/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Mon, 27 May 2024 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Language]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=349</guid>
+
+					<description><![CDATA[&#8220;Hydrogen&#8221; in German is Wasserstoff, which sounds hilarious except it&#8217;s just a literal translation of the Greek hydro-gen! Most chemical elements are more or less the same in German and English. The fun exceptions are: German also has Natrium (Sodium), Kalium (Potassium), Wofram (Tungsten), Quecksilber (Mercury), and Blei (Lead).]]></description>
+										<content:encoded><![CDATA[
+<p>&#8220;Hydrogen&#8221; in German is <em>Wasserstoff</em>, which sounds hilarious except it&#8217;s just a literal translation of the Greek hydro-gen!</p>
+
+
+
+<p>Most chemical elements are more or less the same in German and English. The fun exceptions are:</p>
+
+
+
+<ul>
+<li>Wasserstoff (Hydrogen); &#8220;water stuff&#8221; is a literal translation.</li>
+
+
+
+<li>Kohlenstoff (Carbon); &#8220;coal stuff&#8221; is a literal translation.</li>
+
+
+
+<li>Stickstoff (Nitrogen); &#8220;suffocation stuff&#8221;, apparently because it&#8217;s the non-oxygen part of air, is a German original.</li>
+
+
+
+<li>Sauerstoff (Oxygen); &#8220;sour stuff&#8221; is a literal translation.</li>
+</ul>
+
+
+
+<p>German also has Natrium (Sodium), Kalium (Potassium), Wofram (Tungsten), Quecksilber (Mercury), and Blei (Lead).</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Cricket in 600 words or less</title>
-		<link>https://rosschurchley.com/blog/2024/cricket-in-600-words-or-less/</link>
+		<link>https://rosschurchley.com/2024/cricket-in-600-words-or-less/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Mon, 20 May 2024 22:00:00 +0000</pubDate>
@@ -291,7 +336,7 @@
 			</item>
 		<item>
 		<title>Baseball</title>
-		<link>https://rosschurchley.com/photos/2024/baseball/</link>
+		<link>https://rosschurchley.com/2024/baseball/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Thu, 16 May 2024 22:00:00 +0000</pubDate>
@@ -300,8 +345,8 @@
 		<category><![CDATA[Travel]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=457</guid>
 
-					<description><![CDATA[I recently attended a Seattle Mariners game as part of a Microsoft event. It was my first time at a baseball game, so I recorded a bunch of observations about the experience. The stadium experience This was my first time attending any professional sport in person, so I didn&#8217;t have any idea what to expect. [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1920" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp" class="attachment-large size-large wp-post-image" alt="A wide-angle view of T-Mobile Stadium&#039;s baseball diamond, taken from the stands behind first base." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-2048x1365.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" />I recently attended a Seattle Mariners game as part of a Microsoft event. It was my first time at a baseball game, so I recorded a bunch of observations about the experience. The stadium experience This was my first time attending any professional sport in person, so I didn&#8217;t have any idea what to expect. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1920" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp" class="attachment-large size-large wp-post-image" alt="A wide-angle view of T-Mobile Stadium&#039;s baseball diamond, taken from the stands behind first base." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-2048x1365.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" />
 <p>I recently attended a Seattle Mariners game as part of a Microsoft event. It was my first time at a baseball game, so I recorded a bunch of observations about the experience.</p>
 
 
@@ -323,7 +368,7 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-scaled.webp"><img decoding="async" width="1920" height="1280" data-id="462" src="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-1920x1280.webp" alt="The Kansas City Royals' relief pitchers watch the game from the bullpen." class="wp-image-462" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-2048x1365.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-scaled.webp"><img loading="lazy" decoding="async" width="1920" height="1280" data-id="462" src="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-1920x1280.webp" alt="The Kansas City Royals' relief pitchers watch the game from the bullpen." class="wp-image-462" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0085-2048x1365.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" /></a></figure>
 
 
 
@@ -352,7 +397,7 @@
 
 
 
-<p>Many of the Microsoft employees at the game — including myself — are more familiar with cricket than with baseball. Cricket has a reputation in North America for being hard to understand, but when I compare my <a href="https://rosschurchley.com/blog/2024/cricket-in-600-words-or-less/">beginner&#8217;s guide to cricket</a> with our deliberations our section had to understand what was going on, I realized that baseball is <em>much</em> more complicated.</p>
+<p>Many of the Microsoft employees at the game — including myself — are more familiar with cricket than with baseball. Cricket has a reputation in North America for being hard to understand, but when I compare my <a href="https://rosschurchley.com/2024/cricket-in-600-words-or-less/">beginner&#8217;s guide to cricket</a> with our deliberations our section had to understand what was going on, I realized that baseball is <em>much</em> more complicated.</p>
 
 
 
@@ -495,15 +540,15 @@
 			</item>
 		<item>
 		<title>216</title>
-		<link>https://rosschurchley.com/blog/2023/216/</link>
+		<link>https://rosschurchley.com/2023/216/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sun, 31 Dec 2023 23:00:00 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=163</guid>
 
-					<description><![CDATA[A while ago I arbitrarily decided that I needed a favourite three-digit number (don’t ask) and ended up choosing 216. It’s a nice cube number —&#160;6×6×6&#160;— and can also be expressed as a sum of three smaller cubes: The&#160;Wikipedia article for the number&#160;has&#160;a diagram&#160;showing one way to reassemble a 6×6×6 cube into three smaller cubes, [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image.png" class="attachment-large size-large wp-post-image" alt="An exploded-view diagram of a cube broken into interior, faces, edges, and corners." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image.png 1600w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-800x450.png 800w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-768x432.png 768w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-1536x864.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />A while ago I arbitrarily decided that I needed a favourite three-digit number (don’t ask) and ended up choosing 216. It’s a nice cube number —&#160;6×6×6&#160;— and can also be expressed as a sum of three smaller cubes: The&#160;Wikipedia article for the number&#160;has&#160;a diagram&#160;showing one way to reassemble a 6×6×6 cube into three smaller cubes, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image.png" class="attachment-large size-large wp-post-image" alt="An exploded-view diagram of a cube broken into interior, faces, edges, and corners." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image.png 1600w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-800x450.png 800w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-768x432.png 768w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-1536x864.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>A while ago I arbitrarily decided that I needed a favourite three-digit number (don’t ask) and ended up choosing 216. It’s a nice cube number —&nbsp;6×6×6&nbsp;— and can also be expressed as a sum of three smaller cubes:</p>
 
 
@@ -554,7 +599,7 @@
 			</item>
 		<item>
 		<title>Cross-stitch Umbreon</title>
-		<link>https://rosschurchley.com/crafts/2023/cross-stitch-umbreon/</link>
+		<link>https://rosschurchley.com/2023/cross-stitch-umbreon/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 22:00:00 +0000</pubDate>
@@ -563,8 +608,8 @@
 		<category><![CDATA[Pokémon]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=161</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1706" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/10/cover-1706x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the moonlight Pokémon Umbreon." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/10/cover-1706x1280.webp 1706w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-2048x1536.webp 2048w" sizes="(max-width: 1706px) 100vw, 1706px" />]]></description>
+										<content:encoded><![CDATA[<img width="1706" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/10/cover-1706x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the moonlight Pokémon Umbreon." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/10/cover-1706x1280.webp 1706w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-2048x1536.webp 2048w" sizes="(max-width: 1706px) 100vw, 1706px" />
 <figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2023/10/pattern.png" alt="Cross-stitch pattern of the shiny form of the Pok&eacute;mon Umbreon"><figcaption class="thread-list"><span class="thread" data-dmc="310" title="Black" style="background-color:#000000;color:#ffffff">310</span><span class="thread" data-dmc="413" title="Pewter Gray (Dark)" style="background-color:#3E4144;color:#ffffff">413</span><span class="thread" data-dmc="414" title="Steel Gray (Dark)" style="background-color:#7C7C84;color:#ffffff">414</span><span class="thread" data-dmc="415" title="Pearl Gray" style="background-color:#BFBFC3;color:#000000">415</span><span class="thread" data-dmc="White" title="White" style="background-color:#FAFAFA;color:#000000">White</span><span class="thread" data-dmc="995" title="Electric Blue (Dark)" style="background-color:#016EA5;color:#ffffff">995</span><span class="thread" data-dmc="996" title="Electric Blue (Medium)" style="background-color:#13BCDE;color:#ffffff">996</span><span class="thread" data-dmc="3805" title="Cyclamen Pink" style="background-color:#F34188;color:#ffffff">3805</span></figcaption></figure>
 ]]></content:encoded>
 					
@@ -573,7 +618,7 @@
 			</item>
 		<item>
 		<title>Cross-stitch Primarina</title>
-		<link>https://rosschurchley.com/crafts/2023/cross-stitch-primarina/</link>
+		<link>https://rosschurchley.com/2023/cross-stitch-primarina/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 13 Oct 2023 22:00:00 +0000</pubDate>
@@ -582,8 +627,8 @@
 		<category><![CDATA[Pokémon]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=159</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/10/cover-1-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the soloist Pokémon Primarina" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/10/cover-1-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-1-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-1-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-1-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-1-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/10/cover-1-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the soloist Pokémon Primarina" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/10/cover-1-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-1-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-1-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-1-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/10/cover-1-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
 <figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2023/10/pattern-1.png" alt="Cross-stitch pattern of the Pok&eacute;mon Primarina"><figcaption class="thread-list"><span class="thread" data-dmc="824" title="Blue (V. Dark)" style="background-color:#224271;color:#ffffff">824</span><span class="thread" data-dmc="825" title="Blue (Dark)" style="background-color:#3A628C;color:#ffffff">825</span><span class="thread" data-dmc="3839" title="Lavender Blue (Medium)" style="background-color:#798FB3;color:#ffffff">3839</span><span class="thread" data-dmc="3840" title="Lavender Blue (Light)" style="background-color:#A7B2C5;color:#ffffff">3840</span><span class="thread" data-dmc="827" title="Blue (V. Light)" style="background-color:#ACD4E9;color:#000000">827</span><span class="thread" data-dmc="168" title="Pewter (V. Light)" style="background-color:#C7CDCE;color:#000000">168</span><span class="thread" data-dmc="762" title="Pearl Gray (V. Light)" style="background-color:#E2E2E7;color:#000000">762</span><span class="thread" data-dmc="White" title="White" style="background-color:#FAFAFA;color:#000000">White</span><span class="thread" data-dmc="3812" title="Sea Green (V. Dark)" style="background-color:#1C925F;color:#ffffff">3812</span><span class="thread" data-dmc="958" title="Sea Green (Dark)" style="background-color:#5BC39D;color:#ffffff">958</span><span class="thread" data-dmc="964" title="Sea Green (Light)" style="background-color:#B4F2DF;color:#000000">964</span><span class="thread" data-dmc="603" title="Cranberry" style="background-color:#EE6195;color:#ffffff">603</span></figcaption></figure>
 ]]></content:encoded>
 					
@@ -592,7 +637,7 @@
 			</item>
 		<item>
 		<title>Cross-stitch Flygon</title>
-		<link>https://rosschurchley.com/crafts/2023/cross-stitch-flygon/</link>
+		<link>https://rosschurchley.com/2023/cross-stitch-flygon/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 15 Sep 2023 22:00:00 +0000</pubDate>
@@ -601,8 +646,8 @@
 		<category><![CDATA[Pokémon]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=157</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1706" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/09/cover-1706x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the mystic Pokémon Flygon" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/09/cover-1706x1280.webp 1706w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-2048x1536.webp 2048w" sizes="(max-width: 1706px) 100vw, 1706px" />]]></description>
+										<content:encoded><![CDATA[<img width="1706" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/09/cover-1706x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the mystic Pokémon Flygon" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/09/cover-1706x1280.webp 1706w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-2048x1536.webp 2048w" sizes="(max-width: 1706px) 100vw, 1706px" />
 <figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2023/09/pattern.png" alt="Cross-stitch pattern of the Pok&eacute;mon Flygon"><figcaption class="thread-list"><span class="thread" data-dmc="3345" title="Hunter Green (Dark)" style="background-color:#2F6913;color:#ffffff">3345</span><span class="thread" data-dmc="3347" title="Yellow Green (Medium)" style="background-color:#76A451;color:#ffffff">3347</span><span class="thread" data-dmc="3348" title="Yellow Green (Light)" style="background-color:#CEEB90;color:#000000">3348</span><span class="thread" data-dmc="814" title="Garnet (Dark)" style="background-color:#79001C;color:#ffffff">814</span><span class="thread" data-dmc="498" title="Red (Dark)" style="background-color:#A4132B;color:#ffffff">498</span><span class="thread" data-dmc="3833" title="Raspberry (Light)" style="background-color:#EB6D84;color:#ffffff">3833</span></figcaption></figure>
 ]]></content:encoded>
 					
@@ -611,7 +656,7 @@
 			</item>
 		<item>
 		<title>Cross-stitch Lapras</title>
-		<link>https://rosschurchley.com/crafts/2023/cross-stitch-lapras/</link>
+		<link>https://rosschurchley.com/2023/cross-stitch-lapras/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 25 Aug 2023 22:00:00 +0000</pubDate>
@@ -620,8 +665,8 @@
 		<category><![CDATA[Pokémon]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=155</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1718" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/08/cover-1718x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the transport Pokémon Lapras." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/08/cover-1718x1280.webp 1718w, https://rosschurchley.com/wp-content/uploads/2023/08/cover-800x596.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/08/cover-768x572.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/08/cover-1536x1145.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/08/cover-2048x1526.webp 2048w" sizes="(max-width: 1718px) 100vw, 1718px" />]]></description>
+										<content:encoded><![CDATA[<img width="1718" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/08/cover-1718x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the transport Pokémon Lapras." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/08/cover-1718x1280.webp 1718w, https://rosschurchley.com/wp-content/uploads/2023/08/cover-800x596.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/08/cover-768x572.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/08/cover-1536x1145.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/08/cover-2048x1526.webp 2048w" sizes="(max-width: 1718px) 100vw, 1718px" />
 <figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2023/08/pattern.png" alt="Cross-stitch pattern of the Pok&eacute;mon Lapras"><figcaption class="thread-list"><span class="thread" data-dmc="825" title="Blue (Dark)" style="background-color:#3A628C;color:#ffffff">825</span><span class="thread" data-dmc="826" title="Blue (Medium)" style="background-color:#5785AD;color:#ffffff">826</span><span class="thread" data-dmc="809" title="Delft Blue" style="background-color:#82A8C9;color:#ffffff">809</span><span class="thread" data-dmc="842" title="Beige Brown (V. Light)" style="background-color:#D9C2A8;color:#000000">842</span><span class="thread" data-dmc="712" title="Cream" style="background-color:#FFF8E5;color:#000000">712</span><span class="thread" data-dmc="169" title="Pewter (Light)" style="background-color:#7F8887;color:#ffffff">169</span><span class="thread" data-dmc="168" title="Pewter (V. Light)" style="background-color:#C7CDCE;color:#000000">168</span><span class="thread" data-dmc="White" title="White" style="background-color:#FAFAFA;color:#000000">White</span></figcaption></figure>
 ]]></content:encoded>
 					
@@ -629,8 +674,33 @@
 		
 			</item>
 		<item>
+		<title>The flags of Australia and New Zealand</title>
+		<link>https://rosschurchley.com/2023/the-flags-of-australia-and-new-zealand/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2023 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=345</guid>
+
+					<description><![CDATA[It’s easy to confuse the flags of Australia and Aotearoa New Zealand if your eyes don’t know what to look for. I had always distinguished between the two by the colour of the stars in the Southern Cross, but there’s a much easier way to tell them apart at lower resolution: AUS has a giant [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>It’s easy to confuse the flags of Australia and Aotearoa New Zealand if your eyes don’t know what to look for. </p>
+
+
+
+<p>I had always distinguished between the two by the colour of the stars in the Southern Cross, but there’s a much easier way to tell them apart at lower resolution: AUS has a giant extra star in the lower left quadrant.</p>
+
+
+
+<p>AUS <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f1e6-1f1fa.png" alt="🇦🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>NZL <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f1f3-1f1ff.png" alt="🇳🇿" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Cosmology of Hyrule</title>
-		<link>https://rosschurchley.com/blog/2023/zelda-astronomy/</link>
+		<link>https://rosschurchley.com/2023/zelda-astronomy/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Tue, 11 Jul 2023 22:00:00 +0000</pubDate>
@@ -638,8 +708,8 @@
 		<category><![CDATA[The Legend of Zelda]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=153</guid>
 
-					<description><![CDATA[The Legend of Zelda: Tears of the Kingdom calls your attention to the sky… but there’s more weird stuff up there than just the floating islands. If you look into Hyrule’s sky at night, you’ll see the stars do not move while the moon races from one horizon to the other. This means that the cosmology of the Zelda universe [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-jpg.webp" class="attachment-large size-large wp-post-image" alt="A screenshot of Tears of the Kingdom showing Link skydiving at night with a half-moon and stars in the background." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />The Legend of Zelda: Tears of the Kingdom calls your attention to the sky… but there’s more weird stuff up there than just the floating islands. If you look into Hyrule’s sky at night, you’ll see the stars do not move while the moon races from one horizon to the other. This means that the cosmology of the Zelda universe [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-jpg.webp" class="attachment-large size-large wp-post-image" alt="A screenshot of Tears of the Kingdom showing Link skydiving at night with a half-moon and stars in the background." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/07/astronomy-of-the-wild-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p><em>The Legend of Zelda: Tears of the Kingdom</em> calls your attention to the sky… but there’s more weird stuff up there than just the floating islands.</p>
 
 
@@ -676,7 +746,7 @@
 
 
 
-<p>The strangest phenomenon I noticed is the fact that <strong>moon only appears at night</strong>. Sure, we culturally associate the moon with night, but in reality it’s out during the day half the time. This is what gives the moon <a href="https://moon.nasa.gov/moon-in-motion/phases-eclipses-supermoons/moon-phases/">its phases</a>; the closer the moon is to the sun in the sky, the less of it appears illuminated to us on Earth. If the moon always rises and sets at the same time of day, its phases cannot be explained as the reflected light of the sun!</p>
+<p>The strangest phenomenon I noticed is the fact that <strong>moon only appears at night</strong>. Sure, we culturally associate the moon with night, but in reality it’s out during the day half the time. This is what gives the moon <a href="https://science.nasa.gov/moon/moon-phases/">its phases</a>; the closer the moon is to the sun in the sky, the less of it appears illuminated to us on Earth. If the moon always rises and sets at the same time of day, its phases cannot be explained as the reflected light of the sun!</p>
 
 
 
@@ -700,7 +770,7 @@
 			</item>
 		<item>
 		<title>Buntzen Power Station</title>
-		<link>https://rosschurchley.com/blog/2023/buntzen-power-station/</link>
+		<link>https://rosschurchley.com/2023/buntzen-power-station/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Wed, 05 Jul 2023 22:00:00 +0000</pubDate>
@@ -709,8 +779,8 @@
 		<category><![CDATA[Vancouver]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=151</guid>
 
-					<description><![CDATA[I recently went for a walk in təmtəmíxʷtən (Belcarra), and when I got to… wait, what’s that weird derelict building in the distance? Is it an abandoned hotel? No, there’s no way to get there by land. An old naval fortress? No, the location doesn’t make any strategic sense. A hydroelectric dam? Where’s the water [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/07/cover-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A large rectangular concrete building sits on the water at the base of a forested mountain." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/07/cover-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />I recently went for a walk in təmtəmíxʷtən (Belcarra), and when I got to… wait, what’s that weird derelict building in the distance? Is it an abandoned hotel? No, there’s no way to get there by land. An old naval fortress? No, the location doesn’t make any strategic sense. A hydroelectric dam? Where’s the water [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/07/cover-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A large rectangular concrete building sits on the water at the base of a forested mountain." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/07/cover-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
 <p>I recently went for a walk in təmtəmíxʷtən (Belcarra), and when I got to… wait, what’s that weird derelict building in the distance?</p>
 
 
@@ -739,7 +809,7 @@
 			</item>
 		<item>
 		<title>Julius Caesar</title>
-		<link>https://rosschurchley.com/snippets/2023/julius-caesar/</link>
+		<link>https://rosschurchley.com/2023/julius-caesar/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 30 Jun 2023 22:00:00 +0000</pubDate>
@@ -770,7 +840,7 @@
 			</item>
 		<item>
 		<title>Cross-stitch Mega Mawile</title>
-		<link>https://rosschurchley.com/crafts/2023/cross-stitch-mega-mawile/</link>
+		<link>https://rosschurchley.com/2023/cross-stitch-mega-mawile/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Mon, 26 Jun 2023 22:00:00 +0000</pubDate>
@@ -779,8 +849,8 @@
 		<category><![CDATA[Pokémon]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=147</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1706" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-1706x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the mega-evolved version of the Pokémon Mawile." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-1706x1280.webp 1706w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-2048x1536.webp 2048w" sizes="(max-width: 1706px) 100vw, 1706px" />]]></description>
+										<content:encoded><![CDATA[<img width="1706" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-1706x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the mega-evolved version of the Pokémon Mawile." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-1706x1280.webp 1706w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-2048x1536.webp 2048w" sizes="(max-width: 1706px) 100vw, 1706px" />
 <figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-pattern-mawile.png" alt="Cross-stitch pattern of the mega-evolved form of the Pok&eacute;mon Mawile"><figcaption class="thread-list"><span class="thread" data-dmc="814" title="Garnet (Dark)" style="background-color:#79001C;color:#ffffff">814</span><span class="thread" data-dmc="498" title="Red (Dark)" style="background-color:#A4132B;color:#ffffff">498</span><span class="thread" data-dmc="3831" title="Raspberry (Dark)" style="background-color:#B22B54;color:#ffffff">3831</span><span class="thread" data-dmc="783" title="Topaz (Medium)" style="background-color:#DA9605;color:#ffffff">783</span><span class="thread" data-dmc="676" title="Old Gold (Light)" style="background-color:#EECA70;color:#000000">676</span><span class="thread" data-dmc="413" title="Pewter Gray (Dark)" style="background-color:#3E4144;color:#ffffff">413</span><span class="thread" data-dmc="169" title="Pewter (Light)" style="background-color:#7F8887;color:#ffffff">169</span></figcaption></figure>
 ]]></content:encoded>
 					
@@ -789,7 +859,7 @@
 			</item>
 		<item>
 		<title>Alternate periodic tables</title>
-		<link>https://rosschurchley.com/snippets/2023/alternate-periodic-tables/</link>
+		<link>https://rosschurchley.com/2023/alternate-periodic-tables/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 16 Jun 2023 22:00:00 +0000</pubDate>
@@ -798,8 +868,8 @@
 		<category><![CDATA[Physics]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=145</guid>
 
-					<description><![CDATA[The standard Periodic Table is an iconic data visualization, but it’s not the only way to represent the relationships between elements. This beautiful &#8220;ribbon&#8221; version was designed by James Hyde in the 1970s. James Franklin Hyde&#160;was a pioneer in the silicone industry, so it’s appropriate that&#160;periodic ribbon&#160;puts the element silicon in the center and highlights [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp" class="attachment-large size-large wp-post-image" alt="The periodic table of the elements presented as a colourful ribbon spiralling out from hydrogen." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-1536x1152.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />The standard Periodic Table is an iconic data visualization, but it’s not the only way to represent the relationships between elements. This beautiful &#8220;ribbon&#8221; version was designed by James Hyde in the 1970s. James Franklin Hyde&#160;was a pioneer in the silicone industry, so it’s appropriate that&#160;periodic ribbon&#160;puts the element silicon in the center and highlights [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp" class="attachment-large size-large wp-post-image" alt="The periodic table of the elements presented as a colourful ribbon spiralling out from hydrogen." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-1536x1152.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>The standard Periodic Table is an iconic data visualization, but it’s not the only way to represent the relationships between elements. <a href="https://digital.sciencehistory.org/works/8p58pf13g">This beautiful &#8220;ribbon&#8221; version</a> was designed by James Hyde in the 1970s.</p>
 
 
@@ -824,15 +894,15 @@
 			</item>
 		<item>
 		<title>No such thing as a tree</title>
-		<link>https://rosschurchley.com/snippets/2023/no-such-thing-as-a-tree/</link>
+		<link>https://rosschurchley.com/2023/no-such-thing-as-a-tree/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2023 22:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=143</guid>
 
-					<description><![CDATA[Between cabbage, lettuce, maple, and holly, two plants are in the rosid clade (related to roses) and two are in the asterid clade (related to sunflowers). Can you guess which is which? I would have guessed that the trees might be related to a woody rose bush, while the leafy greens would be closer to [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp" class="attachment-large size-large wp-post-image" alt="A two-by-two grid of plant photos. Clockwise from top left: a maple tree, a holly tree, a lettuce plant, and a cabbage plant." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Between cabbage, lettuce, maple, and holly, two plants are in the rosid clade (related to roses) and two are in the asterid clade (related to sunflowers). Can you guess which is which? I would have guessed that the trees might be related to a woody rose bush, while the leafy greens would be closer to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp" class="attachment-large size-large wp-post-image" alt="A two-by-two grid of plant photos. Clockwise from top left: a maple tree, a holly tree, a lettuce plant, and a cabbage plant." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>Between cabbage, lettuce, maple, and holly, two plants are in the rosid clade (related to roses) and two are in the asterid clade (related to sunflowers). Can you guess which is which?</p>
 
 
@@ -841,11 +911,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp" alt="A two-by-two grid of plant photos. Clockwise from top left: a maple tree, a holly tree, a lettuce plant, and a cabbage plant." class="wp-image-213" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
-
-
-
-<p>I would have guessed that the trees might be related to a woody rose bush, while the leafy greens would be closer to broad-leaved sunflowers. I would have been wrong. Plants are <em>much</em> weirder than that.</p>
+<p>I would have guessed that the trees might be related to a woody rose bush, while the leafy greens would be closer to broad-leaved sunflowers. I would have been wrong. Plants are&nbsp;<em>much</em>&nbsp;weirder than that.</p>
 
 
 
@@ -915,15 +981,15 @@
 			</item>
 		<item>
 		<title>Emoji proposals</title>
-		<link>https://rosschurchley.com/snippets/2023/emoji-proposals/</link>
+		<link>https://rosschurchley.com/2023/emoji-proposals/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Wed, 07 Jun 2023 22:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=141</guid>
 
-					<description><![CDATA[Every new emoji starts with a formal proposal justifying why it should exist. The proposal for 🫵 starts with four pages of the history of people pointing at the viewer in art. Only a few emoji are accepted every year, but anyone can submit suggestions for new emoji. For example: To address the Unicode Consortium’s&#160;emoji [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/06/emoji.webp" class="attachment-large size-large wp-post-image" alt="A variety of emoji (a few dozen in total) including faces, objects, food, and animals." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/emoji.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/emoji-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/emoji-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/emoji-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Every new emoji starts with a formal proposal justifying why it should exist. The proposal for 🫵 starts with four pages of the history of people pointing at the viewer in art. Only a few emoji are accepted every year, but anyone can submit suggestions for new emoji. For example: To address the Unicode Consortium’s&#160;emoji [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/06/emoji.webp" class="attachment-large size-large wp-post-image" alt="A variety of emoji (a few dozen in total) including faces, objects, food, and animals." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/emoji.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/emoji-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/emoji-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/emoji-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>Every new emoji starts with a formal proposal justifying why it should exist. The proposal for <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1faf5.png" alt="🫵" class="wp-smiley" style="height: 1em; max-height: 1em;" /> starts with four pages of the history of people pointing at the viewer in art.</p>
 
 
@@ -1008,7 +1074,7 @@
 			</item>
 		<item>
 		<title>Cross-stitch supplies</title>
-		<link>https://rosschurchley.com/crafts/2023/cross-stitch-supplies/</link>
+		<link>https://rosschurchley.com/2023/cross-stitch-supplies/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Thu, 25 May 2023 10:00:46 +0000</pubDate>
@@ -1016,8 +1082,8 @@
 		<category><![CDATA[Cross-stitch]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=138</guid>
 
-					<description><![CDATA[I’m getting back into cross-stitch, so I’ve updated my inventory of DMC embroidery floss colours.]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/cross-stitch-supplies.webp" class="attachment-large size-large wp-post-image" alt="A close-up photo of a plastic box filled with labeled bobbins of lots of different DMC thread colours." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/cross-stitch-supplies.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/cross-stitch-supplies-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/cross-stitch-supplies-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/cross-stitch-supplies-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />I’m getting back into cross-stitch, so I’ve updated my inventory of DMC embroidery floss colours.]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/cross-stitch-supplies.webp" class="attachment-large size-large wp-post-image" alt="A close-up photo of a plastic box filled with labeled bobbins of lots of different DMC thread colours." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/cross-stitch-supplies.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/cross-stitch-supplies-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/cross-stitch-supplies-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/cross-stitch-supplies-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>I’m getting back into cross-stitch, so I’ve updated my inventory of DMC embroidery floss colours.</p>
 
 
@@ -1034,7 +1100,7 @@
 			</item>
 		<item>
 		<title>CRC Handbook</title>
-		<link>https://rosschurchley.com/snippets/2023/crc-handbook/</link>
+		<link>https://rosschurchley.com/2023/crc-handbook/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Mon, 22 May 2023 22:00:00 +0000</pubDate>
@@ -1069,7 +1135,7 @@
 			</item>
 		<item>
 		<title>Know your watershed</title>
-		<link>https://rosschurchley.com/blog/2023/know-your-watershed/</link>
+		<link>https://rosschurchley.com/2023/know-your-watershed/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Mon, 15 May 2023 22:00:00 +0000</pubDate>
@@ -1078,8 +1144,8 @@
 		<category><![CDATA[Know your watershed]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=134</guid>
 
-					<description><![CDATA[I’m on a quest to explore the creeks and waterways of Vancouver, Burnaby, and New Westminster. First, I need to understand how the topography of my neighbourhood determines the flow of water and the formation of streams. Three main topological features define how water flows in the Vancouver-Burnaby-New West area: These features divide the Burrard [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/05/cover-2.webp" class="attachment-large size-large wp-post-image" alt="A relief map zoomed in to New Westminster, Burnaby, and Coquitlam, showing creeks draining into the Brunette River watershed." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/cover-2.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />I’m on a quest to explore the creeks and waterways of Vancouver, Burnaby, and New Westminster. First, I need to understand how the topography of my neighbourhood determines the flow of water and the formation of streams. Three main topological features define how water flows in the Vancouver-Burnaby-New West area: These features divide the Burrard [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/05/cover-2.webp" class="attachment-large size-large wp-post-image" alt="A relief map zoomed in to New Westminster, Burnaby, and Coquitlam, showing creeks draining into the Brunette River watershed." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/cover-2.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>I’m on a quest to explore the creeks and waterways of Vancouver, Burnaby, and New Westminster. First, I need to understand how the topography of my neighbourhood determines the flow of water and the formation of streams.</p>
 
 
@@ -1140,7 +1206,7 @@
 
 
 
-<p>Most of the&nbsp;<a href="http://hdl.handle.net/11272/IKHNQ">historic streams</a>&nbsp;of Vancouver have been developed over, so rainwater now is mainly conveyed through storm drains and groundwater. In contrast, Burnaby still has plenty of streams carrying rain through its watersheds.</p>
+<p>Most of the&nbsp;<a href="https://hdl.handle.net/11272/IKHNQ">historic streams</a>&nbsp;of Vancouver have been developed over, so rainwater now is mainly conveyed through storm drains and groundwater. In contrast, Burnaby still has plenty of streams carrying rain through its watersheds.</p>
 
 
 
@@ -1152,7 +1218,7 @@
 			</item>
 		<item>
 		<title>Jilg&#8217;s sidewalk</title>
-		<link>https://rosschurchley.com/snippets/2023/jilgs-sidewalk/</link>
+		<link>https://rosschurchley.com/2023/jilgs-sidewalk/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Thu, 11 May 2023 22:00:00 +0000</pubDate>
@@ -1160,8 +1226,8 @@
 		<category><![CDATA[Urbanism]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=132</guid>
 
-					<description><![CDATA[This picture illustrates the danger of poorly-designed streets, which the Swedish government set out to improve in the 1990s. It was originally created by Swedish artist Karl Jilg, who was commissioned by the Swedish Road Administration to explain new Vision Zero initiatives. The&#160;ideas&#160;behind the initiatives were that The picture is intended to turn the kinetic energy of a moving car [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp" class="attachment-large size-large wp-post-image" alt="An illustration of a city block with bottomless pits for streets." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />This picture illustrates the danger of poorly-designed streets, which the Swedish government set out to improve in the 1990s. It was originally created by Swedish artist Karl Jilg, who was commissioned by the Swedish Road Administration to explain new Vision Zero initiatives. The&#160;ideas&#160;behind the initiatives were that The picture is intended to turn the kinetic energy of a moving car [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp" class="attachment-large size-large wp-post-image" alt="An illustration of a city block with bottomless pits for streets." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>This picture illustrates the danger of poorly-designed streets, which the Swedish government set out to improve in the 1990s. It was originally created by Swedish artist <a href="http://www.jilg.com/">Karl Jilg</a>, who was commissioned by the <a href="https://en.wikipedia.org/wiki/Swedish_Road_Administration">Swedish Road Administration</a> to explain new <a href="https://en.wikipedia.org/wiki/Vision_Zero">Vision Zero</a> initiatives.</p>
 
 
@@ -1226,16 +1292,16 @@
 			</item>
 		<item>
 		<title>If you see a coyote</title>
-		<link>https://rosschurchley.com/snippets/2023/if-you-see-a-coyote/</link>
+		<link>https://rosschurchley.com/2023/if-you-see-a-coyote/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Tue, 09 May 2023 22:00:00 +0000</pubDate>
-				<category><![CDATA[Snippets]]></category>
+				<category><![CDATA[Photos]]></category>
 		<category><![CDATA[Gee that's random]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=130</guid>
 
-					<description><![CDATA[If you see a coyote in Vancouver, the officially recommended course of action is to yell &#8220;Go away coyote&#8221;.]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A sign posted by the Vancouver Parks Board at the entrance to a park." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />If you see a coyote in Vancouver, the officially recommended course of action is to yell &#8220;Go away coyote&#8221;.]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A sign posted by the Vancouver Parks Board at the entrance to a park." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
 <p>If you see a coyote in Vancouver, the officially recommended course of action is to yell &#8220;Go away coyote&#8221;.</p>
 ]]></content:encoded>
 					
@@ -1244,7 +1310,7 @@
 			</item>
 		<item>
 		<title>Cricut-made Magic: the Gathering packs</title>
-		<link>https://rosschurchley.com/crafts/2022/cricut-made-magic-the-gathering-packs/</link>
+		<link>https://rosschurchley.com/2022/cricut-made-magic-the-gathering-packs/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Thu, 01 Dec 2022 23:00:00 +0000</pubDate>
@@ -1253,8 +1319,8 @@
 		<category><![CDATA[Magic: the Gathering]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=128</guid>
 
-					<description><![CDATA[Leah and I have really gotten into Magic: the Gathering. Our favourite ways to play are&#160;sealed deck&#160;and&#160;Jumpstart, both of which involve opening new packs and making decks out of what you open. Since it would be wasteful (not to mention expensive) to buy new cards every time we play, we only buy a certain number [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/12/cover-jpg.webp" class="attachment-large size-large wp-post-image" alt="A small stack of Magic: the Gathering cards in a homemade paper packet." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2022/12/cover-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/12/cover-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/12/cover-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/12/cover-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Leah and I have really gotten into Magic: the Gathering. Our favourite ways to play are&#160;sealed deck&#160;and&#160;Jumpstart, both of which involve opening new packs and making decks out of what you open. Since it would be wasteful (not to mention expensive) to buy new cards every time we play, we only buy a certain number [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/12/cover-jpg.webp" class="attachment-large size-large wp-post-image" alt="A small stack of Magic: the Gathering cards in a homemade paper packet." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2022/12/cover-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/12/cover-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/12/cover-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/12/cover-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>Leah and I have really gotten into Magic: the Gathering. Our favourite ways to play are&nbsp;<a href="https://mtg.fandom.com/wiki/Sealed_Deck">sealed deck</a>&nbsp;and&nbsp;<a href="https://mtg.fandom.com/wiki/Jumpstart_(format)">Jumpstart</a>, both of which involve opening new packs and making decks out of what you open.</p>
 
 
@@ -1271,7 +1337,7 @@
 
 
 
-<p>We originally tried coin envelopes and a product called&nbsp;<a href="https://cardamajigs.com/collections/cubeamajigs">Cubeamajigs</a>, but neither was as nice or convenient as the side-loading papercraft boxes I made with my&nbsp;<a href="https://cricut.com/en-ca/">Cricut</a>.</p>
+<p>We originally tried coin envelopes and a product called&nbsp;<a href="https://hitpointpress.com/collections/thingamajigs">Cubeamajigs</a>, but neither was as nice or convenient as the side-loading papercraft boxes I made with my&nbsp;<a href="https://cricut.com/en-ca/">Cricut</a>.</p>
 
 
 
@@ -1283,7 +1349,7 @@
 			</item>
 		<item>
 		<title>O Canada&#8217;s copyright</title>
-		<link>https://rosschurchley.com/snippets/2022/o-canadas-copyright/</link>
+		<link>https://rosschurchley.com/2022/o-canadas-copyright/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 01 Jul 2022 22:00:00 +0000</pubDate>
@@ -1306,7 +1372,7 @@
 			</item>
 		<item>
 		<title>Scent trademarks</title>
-		<link>https://rosschurchley.com/snippets/2022/scent-trademarks/</link>
+		<link>https://rosschurchley.com/2022/scent-trademarks/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sat, 11 Jun 2022 22:00:00 +0000</pubDate>
@@ -1316,11 +1382,7 @@
 
 					<description><![CDATA[Crayola has a trademark on the smell of its crayons. The odour is described in the Canadian trademarks registry as: A unique scent of a pungent, aldehydic fragrance combined with the faint scent of a hydrocarbon wax and an earthy clay. Trademark 1986544 In Canada, a trademark can be anything that is used by by [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Crayola has a trademark on the smell of its crayons.</p>
-
-
-
-<p>The odour is described in the Canadian trademarks registry as:</p>
+<p>Crayola has a trademark on the <em>smell</em> of its crayons. The odour is described in the Canadian trademarks registry as:</p>
 
 
 
@@ -1341,379 +1403,6 @@
 
 
 <p>Unfortunately, I have not been able to find records of anyone litigating over a scent trademark.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Rule of twelfths</title>
-		<link>https://rosschurchley.com/snippets/2022/rule-of-twelfths/</link>
-		
-		<dc:creator><![CDATA[Ross]]></dc:creator>
-		<pubDate>Fri, 20 May 2022 22:00:00 +0000</pubDate>
-				<category><![CDATA[Snippets]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=126</guid>
-
-					<description><![CDATA[You can get a really good approximation of a sinusoidal curve from twelve equally-spaced line segments of slope 1/12, 2/12, 3/12, 3/12, 2/12, 1/12, -1/12, -2/12, -3/12, -3/12, -2/12, and -1/12, respectively. This approximation, known as the rule of twelfths, rounds √3≈5/3​ but otherwise uses exact values along the curve. I learned about the rule of twelfths from [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>You can get a really good approximation of a sinusoidal curve from twelve equally-spaced line segments of slope 1/12, 2/12, 3/12, 3/12, 2/12, 1/12, -1/12, -2/12, -3/12, -3/12, -2/12, and -1/12, respectively.</p>
-
-
-
-<p>This approximation, known as the <a href="https://en.wikipedia.org/wiki/Rule_of_twelfths">rule of twelfths</a>, rounds √3≈5/3​ but otherwise uses exact values along the curve.</p>
-
-
-
-<p>I learned about the rule of twelfths from a kayaking instructor and guide, who used it to estimate the tides. In locations and seasons with a&nbsp;<a href="https://oceanservice.noaa.gov/education/tutorial_tides/tides07_cycles.html">semidiurnal tide pattern</a>, the period of the tide is roughly 12 hours, and the rule of twelfths tells you what the water will be doing in each hour.</p>
-
-
-
-<p>For example, if you know that the difference between low and high tide is 3 feet, then you can quickly estimate that it the tide will rise by about 3 inches in the first hour, 6 inches in the second, 9 inches in the third and fourth, 6 inches in the fifth hour, and 3 inches in the last hour before high tide.</p>
-
-
-
-<span id="more-126"></span>
-
-
-
-<figure class="wp-block-wp-chrosyblocks-vega-chart"><div class="chart" data-vega-spec="{
-  &quot;$schema&quot;: &quot;https://vega.github.io/schema/vega-lite/v5.json&quot;,
-  &quot;layer&quot;: [
-    {
-      &quot;data&quot;: {
-        &quot;sequence&quot;: { &quot;start&quot;: 0, &quot;stop&quot;: 12.1, &quot;step&quot;: 0.1, &quot;as&quot;: &quot;x&quot; }
-      },
-      &quot;transform&quot;: [
-        { &quot;calculate&quot;: &quot;(12 - 12*cos(datum.x * 2*PI / 12))/2&quot;, &quot;as&quot;: &quot;cos(x)&quot; },
-        { &quot;fold&quot;: [&quot;cos(x)&quot;] }
-      ],
-      &quot;mark&quot;: { &quot;type&quot;: &quot;line&quot; },
-      &quot;encoding&quot;: {
-        &quot;x&quot;: { &quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;x&quot; },
-        &quot;y&quot;: { &quot;field&quot;: &quot;value&quot;, &quot;type&quot;: &quot;quantitative&quot; }
-      }
-    },
-    {
-      &quot;data&quot;: { &quot;values&quot;: [
-        { &quot;x&quot;: 0, &quot;value&quot;: 0 },
-        { &quot;x&quot;: 1, &quot;value&quot;: 1 },
-        { &quot;x&quot;: 2, &quot;value&quot;: 3 },
-        { &quot;x&quot;: 3, &quot;value&quot;: 6 },
-        { &quot;x&quot;: 4, &quot;value&quot;: 9 },
-        { &quot;x&quot;: 5, &quot;value&quot;: 11 },
-        { &quot;x&quot;: 6, &quot;value&quot;: 12 },
-        { &quot;x&quot;: 7, &quot;value&quot;: 11 },
-        { &quot;x&quot;: 8, &quot;value&quot;: 9 },
-        { &quot;x&quot;: 9, &quot;value&quot;: 6 },
-        { &quot;x&quot;: 10, &quot;value&quot;: 3 },
-        { &quot;x&quot;: 11, &quot;value&quot;: 1 },
-        { &quot;x&quot;: 12, &quot;value&quot;: 0 }
-      ] },
-      &quot;mark&quot;: { &quot;type&quot;: &quot;line&quot;, &quot;interpolate&quot;: &quot;linear&quot;, &quot;point&quot;: true },
-      &quot;encoding&quot;: {
-        &quot;x&quot;: { &quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;x&quot; },
-        &quot;y&quot;: { &quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;value&quot; }
-      }
-    }
-  ],
-  &quot;encoding&quot;: {
-    &quot;x&quot;: {
-      &quot;axis&quot;: {
-        &quot;grid&quot;: true,
-        &quot;tickCount&quot;: 12,
-        &quot;labelExpr&quot;: &quot;datum.label + '/12'&quot;
-      }
-    },
-    &quot;y&quot;: {
-      &quot;axis&quot;: {
-        &quot;grid&quot;: true,
-        &quot;tickCount&quot;: 12,
-        &quot;labelExpr&quot;: &quot;datum.label + '/12'&quot;
-      }
-    },
-    &quot;color&quot;: {
-      &quot;field&quot;: &quot;key&quot;,
-      &quot;type&quot;: &quot;nominal&quot;,
-      &quot;title&quot;: null,
-      &quot;legend&quot;: null
-    }
-  }
-}" data-vega-data="{}"></div><figcaption>The rule of twelfths approximates points on&nbsp;(1−cos(2πx))/2.</figcaption></figure>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Legends: a Pokémon-themed cryptic crossword</title>
-		<link>https://rosschurchley.com/blog/2022/legends-a-pokemon-themed-cryptic-crossword/</link>
-		
-		<dc:creator><![CDATA[Ross]]></dc:creator>
-		<pubDate>Sat, 05 Mar 2022 23:00:00 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[Pokémon]]></category>
-		<category><![CDATA[Puzzles]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=319</guid>
-
-					<description><![CDATA[Recently I&#8217;ve been spending my spare time doing two things: solving cryptic crosswords and playing Pokémon Legends: Arceus. The next logical step, then, is to try my hand at compiling my own cryptic crossword themed after the game! If you haven&#8217;t tried one before, a cryptic crossword is a crossword puzzle in which each clue [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Recently I&#8217;ve been spending my spare time doing two things: solving cryptic crosswords and playing <em>Pokémon Legends: Arceus</em>. The next logical step, then, is to try my hand at compiling my own cryptic crossword themed after the game!</p>
-
-
-
-<span id="more-319"></span>
-
-
-
-<p>If you haven&#8217;t tried one before, a <a href="https://en.wikipedia.org/wiki/Cryptic_crossword">cryptic crossword</a> is a crossword puzzle in which each clue is itself a word puzzle. A cryptic clue is usually misleading if taken at face value, but conceals a definition and a secondary indication (usually wordplay) of the correct answer. For example:</p>
-
-
-
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>A gym leader in Cinnabar was inflamed (5)</summary>
-<p>The answer is <strong>RAGED</strong>, meaning &#8220;was inflamed&#8221;.</p>
-
-
-
-<p>At first reading, it seems like this clue refers to the fiery Cinnabar Island Gym Leader <a href="https://bulbapedia.bulbagarden.net/wiki/Blaine">Blaine</a> from Pokémon Red and Blue, but the hidden real definition is only the last two words, &#8220;was inflamed&#8221;.</p>
-
-
-
-<p>The remainder of the clue is wordplay that hints at the answer: &#8220;Cinnabar&#8221; means RED and &#8220;gym leader&#8221; can be interpreted as &#8220;the first letter of gym&#8221;, so &#8220;A gym leader in Cinnabar&#8221; reduces to &#8220;A G in RED&#8221; — hence, RAGED.</p>
-</details>
-
-
-
-<p>Cryptic clues can be even more complicated and include anagrams, homophones, obscure abbreviations, and all sorts of other devices. Or they can be as simple as a bad pun.</p>
-
-
-
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Feet passed down through generations? (7)</summary>
-<p>The answer is <strong>LEGENDS</strong>, which are &#8220;passed down through generations&#8221;. What do feet have to do with anything? Well, they&#8217;re LEG ENDS, of course&#8230;</p>
-</details>
-
-
-
-<p>You&#8217;ll need to be a Pokémon fan to appreciate all of the surface readings in this puzzle, but don&#8217;t worry if you aren&#8217;t — none of the clues require any specific knowledge of Pokémon to solve. Once you&#8217;re done, you can go to page 2 to check the solutions and see how you did. Enjoy!</p>
-
-
-
-<figure class="wp-block-wp-chrosyblocks-crossword"><div class="crossword" data-puzzle="{
-  &quot;across&quot;: {
-    &quot;7&quot;: {
-      &quot;answer&quot;: &quot;BARBELL&quot;,
-      &quot;clue&quot;: &quot;Angry Bibarel destroys one-pound weight (7)&quot;,
-      &quot;row&quot;: 1,
-      &quot;col&quot;: 0
-    },
-    &quot;8&quot;: {
-      &quot;answer&quot;: &quot;AILMENT&quot;,
-      &quot;clue&quot;: &quot;Received draught intended for negative condition (7)&quot;,
-      &quot;row&quot;: 1,
-      &quot;col&quot;: 8
-    },
-    &quot;10&quot;: {
-      &quot;answer&quot;: &quot;GOODNATURED&quot;,
-      &quot;clue&quot;: &quot;Jolly well suited ultimately to go after flora and fauna (4-7)&quot;,
-      &quot;row&quot;: 3,
-      &quot;col&quot;: 2
-    },
-    &quot;12&quot;: {
-      &quot;answer&quot;: &quot;KIND&quot;,
-      &quot;clue&quot;: &quot;Type disadvantage primarily follows lineage (4)&quot;,
-      &quot;row&quot;: 5,
-      &quot;col&quot;: 0
-    },
-    &quot;14&quot;: {
-      &quot;answer&quot;: &quot;ALPHA&quot;,
-      &quot;clue&quot;: &quot;Dominant peak of area (5)&quot;,
-      &quot;row&quot;: 5,
-      &quot;col&quot;: 5
-    },
-    &quot;16&quot;: {
-      &quot;answer&quot;: &quot;GRIT&quot;,
-      &quot;clue&quot;: &quot;Stony resolve (4)&quot;,
-      &quot;row&quot;: 5,
-      &quot;col&quot;: 11
-    },
-    &quot;17&quot;: {
-      &quot;answer&quot;: &quot;NOTCHES&quot;,
-      &quot;clue&quot;: &quot;Cuts tumblestone to catch child? (7)&quot;,
-      &quot;row&quot;: 7,
-      &quot;col&quot;: 0
-    },
-    &quot;18&quot;: {
-      &quot;answer&quot;: &quot;AMNESIA&quot;,
-      &quot;clue&quot;: &quot;Memory loss means a name is confused (7)&quot;,
-      &quot;row&quot;: 7,
-      &quot;col&quot;: 8
-    },
-    &quot;20&quot;: {
-      &quot;answer&quot;: &quot;WARY&quot;,
-      &quot;clue&quot;: &quot;Cautious of battle decision (4)&quot;,
-      &quot;row&quot;: 9,
-      &quot;col&quot;: 0
-    },
-    &quot;22&quot;: {
-      &quot;answer&quot;: &quot;START&quot;,
-      &quot;clue&quot;: &quot;Spookiest artifact conceals origin (5)&quot;,
-      &quot;row&quot;: 9,
-      &quot;col&quot;: 5
-    },
-    &quot;23&quot;: {
-      &quot;answer&quot;: &quot;EPEE&quot;,
-      &quot;clue&quot;: &quot;Sword repeats point about Pok\u00e9mon starter (4)&quot;,
-      &quot;row&quot;: 9,
-      &quot;col&quot;: 11
-    },
-    &quot;27&quot;: {
-      &quot;answer&quot;: &quot;CRYSTALBALL&quot;,
-      &quot;clue&quot;: &quot;Lustrous Globe (7,4)&quot;,
-      &quot;row&quot;: 11,
-      &quot;col&quot;: 2
-    },
-    &quot;30&quot;: {
-      &quot;answer&quot;: &quot;EDITION&quot;,
-      &quot;clue&quot;: &quot;Version exclusives? To begin with, supplement lacks announcement (7)&quot;,
-      &quot;row&quot;: 13,
-      &quot;col&quot;: 0
-    },
-    &quot;31&quot;: {
-      &quot;answer&quot;: &quot;PHONIER&quot;,
-      &quot;clue&quot;: &quot;Phione evolution rumour: tip is more fraudulent (7)&quot;,
-      &quot;row&quot;: 13,
-      &quot;col&quot;: 8
-    }
-  },
-  &quot;down&quot;: {
-    &quot;1&quot;: {
-      &quot;answer&quot;: &quot;ARAGON&quot;,
-      &quot;clue&quot;: &quot;A dragon without a leader makes historic country (6)&quot;,
-      &quot;row&quot;: 0,
-      &quot;col&quot;: 2
-    },
-    &quot;2&quot;: {
-      &quot;answer&quot;: &quot;RECON&quot;,
-      &quot;clue&quot;: &quot;Another trick for gathering information? (5)&quot;,
-      &quot;row&quot;: 0,
-      &quot;col&quot;: 4
-    },
-    &quot;3&quot;: {
-      &quot;answer&quot;: &quot;CLAN&quot;,
-      &quot;clue&quot;: &quot;Family heads to calm lightning-affected nobles (4)&quot;,
-      &quot;row&quot;: 0,
-      &quot;col&quot;: 6
-    },
-    &quot;4&quot;: {
-      &quot;answer&quot;: &quot;EAST&quot;,
-      &quot;clue&quot;: &quot;Beasts short of coasts where the sun rises (4)&quot;,
-      &quot;row&quot;: 0,
-      &quot;col&quot;: 8
-    },
-    &quot;5&quot;: {
-      &quot;answer&quot;: &quot;ULTRA&quot;,
-      &quot;clue&quot;: &quot;Greater part of beautiful tradition (5)&quot;,
-      &quot;row&quot;: 0,
-      &quot;col&quot;: 10
-    },
-    &quot;6&quot;: {
-      &quot;answer&quot;: &quot;SENDER&quot;,
-      &quot;clue&quot;: &quot;One who posts mission in southeast river (6)&quot;,
-      &quot;row&quot;: 0,
-      &quot;col&quot;: 12
-    },
-    &quot;7&quot;: {
-      &quot;answer&quot;: &quot;BLACKANDWHITE&quot;,
-      &quot;clue&quot;: &quot;Sharply divided about old-fashioned graphics (5,3,5)&quot;,
-      &quot;row&quot;: 1,
-      &quot;col&quot;: 0
-    },
-    &quot;9&quot;: {
-      &quot;answer&quot;: &quot;TIMETRAVELLER&quot;,
-      &quot;clue&quot;: &quot;Person from the future crafts rare item to level, disregarding zero electricity (4,7)&quot;,
-      &quot;row&quot;: 1,
-      &quot;col&quot;: 14
-    },
-    &quot;11&quot;: {
-      &quot;answer&quot;: &quot;AMPS&quot;,
-      &quot;clue&quot;: &quot;Current maps inaccurate (4)&quot;,
-      &quot;row&quot;: 3,
-      &quot;col&quot;: 7
-    },
-    &quot;13&quot;: {
-      &quot;answer&quot;: &quot;DECOY&quot;,
-      &quot;clue&quot;: &quot;Distraction from the last month expressing dismay (5)&quot;,
-      &quot;row&quot;: 5,
-      &quot;col&quot;: 3
-    },
-    &quot;14&quot;: {
-      &quot;answer&quot;: &quot;ABETS&quot;,
-      &quot;clue&quot;: &quot;Everyone entering STAB moves helps (5)&quot;,
-      &quot;row&quot;: 5,
-      &quot;col&quot;: 5
-    },
-    &quot;15&quot;: {
-      &quot;answer&quot;: &quot;ADMIT&quot;,
-      &quot;clue&quot;: &quot;Random rifts drop odd characters to accept (5)&quot;,
-      &quot;row&quot;: 5,
-      &quot;col&quot;: 9
-    },
-    &quot;16&quot;: {
-      &quot;answer&quot;: &quot;GEESE&quot;,
-      &quot;clue&quot;: &quot;Birds glide vacantly around — look up! (5)&quot;,
-      &quot;row&quot;: 5,
-      &quot;col&quot;: 11
-    },
-    &quot;19&quot;: {
-      &quot;answer&quot;: &quot;DATA&quot;,
-      &quot;clue&quot;: &quot;Information vaguely written up (4)&quot;,
-      &quot;row&quot;: 8,
-      &quot;col&quot;: 7
-    },
-    &quot;21&quot;: {
-      &quot;answer&quot;: &quot;RECOIL&quot;,
-      &quot;clue&quot;: &quot;Concerning loop leading to self-inflicted damage (6)&quot;,
-      &quot;row&quot;: 9,
-      &quot;col&quot;: 2
-    },
-    &quot;24&quot;: {
-      &quot;answer&quot;: &quot;PALLID&quot;,
-      &quot;clue&quot;: &quot;Friend cap lacks intensity (6)&quot;,
-      &quot;row&quot;: 9,
-      &quot;col&quot;: 12
-    },
-    &quot;25&quot;: {
-      &quot;answer&quot;: &quot;KYRIE&quot;,
-      &quot;clue&quot;: &quot;Sacred words from the end of legendary shield-bearer (5)&quot;,
-      &quot;row&quot;: 10,
-      &quot;col&quot;: 4
-    },
-    &quot;26&quot;: {
-      &quot;answer&quot;: &quot;TALON&quot;,
-      &quot;clue&quot;: &quot;No getting up after taking half of Metal Claw (5)&quot;,
-      &quot;row&quot;: 10,
-      &quot;col&quot;: 10
-    },
-    &quot;28&quot;: {
-      &quot;answer&quot;: &quot;TING&quot;,
-      &quot;clue&quot;: &quot;Metallic noise and lossless glint? Variant! (4)&quot;,
-      &quot;row&quot;: 11,
-      &quot;col&quot;: 6
-    },
-    &quot;29&quot;: {
-      &quot;answer&quot;: &quot;LOPE&quot;,
-      &quot;clue&quot;: &quot;Run from training under little officer (4)&quot;,
-      &quot;row&quot;: 11,
-      &quot;col&quot;: 8
-    }
-  }
-}"></div></figure>
-
-
 ]]></content:encoded>
 					
 		

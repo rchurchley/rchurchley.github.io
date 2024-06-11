@@ -12,13 +12,13 @@
 	<atom:link href="https://rosschurchley.com/tag/law/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Tue, 21 May 2024 04:10:19 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 02 Jun 2024 07:18:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>O Canada&#8217;s copyright</title>
-		<link>https://rosschurchley.com/snippets/2022/o-canadas-copyright/</link>
+		<link>https://rosschurchley.com/2022/o-canadas-copyright/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 01 Jul 2022 22:00:00 +0000</pubDate>
@@ -52,7 +52,7 @@
 			</item>
 		<item>
 		<title>Scent trademarks</title>
-		<link>https://rosschurchley.com/snippets/2022/scent-trademarks/</link>
+		<link>https://rosschurchley.com/2022/scent-trademarks/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sat, 11 Jun 2022 22:00:00 +0000</pubDate>
@@ -62,11 +62,7 @@
 
 					<description><![CDATA[Crayola has a trademark on the smell of its crayons. The odour is described in the Canadian trademarks registry as: A unique scent of a pungent, aldehydic fragrance combined with the faint scent of a hydrocarbon wax and an earthy clay. Trademark 1986544 In Canada, a trademark can be anything that is used by by [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Crayola has a trademark on the smell of its crayons.</p>
-
-
-
-<p>The odour is described in the Canadian trademarks registry as:</p>
+<p>Crayola has a trademark on the <em>smell</em> of its crayons. The odour is described in the Canadian trademarks registry as:</p>
 
 
 

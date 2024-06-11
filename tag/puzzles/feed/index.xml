@@ -12,13 +12,13 @@
 	<atom:link href="https://rosschurchley.com/tag/puzzles/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Tue, 21 May 2024 08:22:24 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 07:52:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
@@ -29,17 +29,17 @@
 </image> 
 	<item>
 		<title>Legends: a Pokémon-themed cryptic crossword</title>
-		<link>https://rosschurchley.com/blog/2022/legends-a-pokemon-themed-cryptic-crossword/</link>
+		<link>https://rosschurchley.com/2022/legends-a-pokemon-themed-cryptic-crossword/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sat, 05 Mar 2022 23:00:00 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
+				<category><![CDATA[Projects]]></category>
 		<category><![CDATA[Pokémon]]></category>
 		<category><![CDATA[Puzzles]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=319</guid>
 
-					<description><![CDATA[Recently I&#8217;ve been spending my spare time doing two things: solving cryptic crosswords and playing Pokémon Legends: Arceus. The next logical step, then, is to try my hand at compiling my own cryptic crossword themed after the game! If you haven&#8217;t tried one before, a cryptic crossword is a crossword puzzle in which each clue [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword.webp" class="attachment-large size-large wp-post-image" alt="Official Pokémon Legends art of Mount Coronet, overlaid into a crossword grid." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Recently I&#8217;ve been spending my spare time doing two things: solving cryptic crosswords and playing Pokémon Legends: Arceus. The next logical step, then, is to try my hand at compiling my own cryptic crossword themed after the game! If you haven&#8217;t tried one before, a cryptic crossword is a crossword puzzle in which each clue [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword.webp" class="attachment-large size-large wp-post-image" alt="Official Pokémon Legends art of Mount Coronet, overlaid into a crossword grid." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>Recently I&#8217;ve been spending my spare time doing two things: solving cryptic crosswords and playing <em>Pokémon Legends: Arceus</em>. The next logical step, then, is to try my hand at compiling my own cryptic crossword themed after the game!</p>
 
 

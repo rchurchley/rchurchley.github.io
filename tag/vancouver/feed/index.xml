@@ -12,13 +12,13 @@
 	<atom:link href="https://rosschurchley.com/tag/vancouver/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Tue, 21 May 2024 04:06:23 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Jun 2024 07:59:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Buntzen Power Station</title>
-		<link>https://rosschurchley.com/blog/2023/buntzen-power-station/</link>
+		<link>https://rosschurchley.com/2023/buntzen-power-station/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Wed, 05 Jul 2023 22:00:00 +0000</pubDate>
@@ -38,8 +38,8 @@
 		<category><![CDATA[Vancouver]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=151</guid>
 
-					<description><![CDATA[I recently went for a walk in təmtəmíxʷtən (Belcarra), and when I got to… wait, what’s that weird derelict building in the distance? Is it an abandoned hotel? No, there’s no way to get there by land. An old naval fortress? No, the location doesn’t make any strategic sense. A hydroelectric dam? Where’s the water [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/07/cover-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A large rectangular concrete building sits on the water at the base of a forested mountain." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2023/07/cover-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />I recently went for a walk in təmtəmíxʷtən (Belcarra), and when I got to… wait, what’s that weird derelict building in the distance? Is it an abandoned hotel? No, there’s no way to get there by land. An old naval fortress? No, the location doesn’t make any strategic sense. A hydroelectric dam? Where’s the water [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/07/cover-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A large rectangular concrete building sits on the water at the base of a forested mountain." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2023/07/cover-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/07/cover-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
 <p>I recently went for a walk in təmtəmíxʷtən (Belcarra), and when I got to… wait, what’s that weird derelict building in the distance?</p>
 
 
@@ -60,7 +60,33 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1192" height="944" src="https://rosschurchley.com/wp-content/uploads/2024/05/historic.png" alt="A black-and-white photo of a large but narrow concrete building at the bottom of a steep hill on the water." class="wp-image-199" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/historic.png 1192w, https://rosschurchley.com/wp-content/uploads/2024/05/historic-758x600.png 758w, https://rosschurchley.com/wp-content/uploads/2024/05/historic-768x608.png 768w" sizes="(max-width: 1192px) 100vw, 1192px" /><figcaption class="wp-element-caption">Buntzen station #2 under construction in 1913. (<a href="https://searcharchives.vancouver.ca/view-of-partially-constructed-buntzen-lake-power-plant-number-two-from-indian-arm">James Matthews/Vancouver Archives</a>)</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1192" height="944" src="https://rosschurchley.com/wp-content/uploads/2024/05/historic.png" alt="A black-and-white photo of a large but narrow concrete building at the bottom of a steep hill on the water." class="wp-image-199" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/historic.png 1192w, https://rosschurchley.com/wp-content/uploads/2024/05/historic-758x600.png 758w, https://rosschurchley.com/wp-content/uploads/2024/05/historic-768x608.png 768w" sizes="(max-width: 1192px) 100vw, 1192px" /><figcaption class="wp-element-caption">Buntzen station #2 under construction in 1913. (<a href="https://searcharchives.vancouver.ca/view-of-partially-constructed-buntzen-lake-power-plant-number-two-from-indian-arm">James Matthews/Vancouver Archives</a>)</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Vancouver land use</title>
+		<link>https://rosschurchley.com/2016/vancouver-land-use/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2016 23:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Vancouver]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=291</guid>
+
+					<description><![CDATA[Jens von Bergmann has run the numbers on land use in various municipalities in Metro Vancouver. The City of Vancouver in particular has lot of land tied up in streets and detached housing. Use CoV land single-family detached houses and duplexes 34.0% roads and right-of-way 28.1% recreation, open space, and natural areas 15.2% commercial 3.9% [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://doodles.mountainmath.ca/posts/2016-02-29-land-use/index.html">Jens von Bergmann</a> has run the numbers on land use in various municipalities in Metro Vancouver. The City of Vancouver in particular has <em>lot</em> of land tied up in streets and detached housing.</p>
+
+
+
+<figure class="wp-block-table"><table><thead><tr><th>Use</th><th>CoV land</th></tr></thead><tbody><tr><td>single-family detached houses and duplexes</td><td>34.0%</td></tr><tr><td>roads and right-of-way</td><td>28.1%</td></tr><tr><td>recreation, open space, and natural areas</td><td>15.2%</td></tr><tr><td>commercial</td><td>3.9%</td></tr><tr><td>low-rise apartments (residential or mixed-use)</td><td>4.1%</td></tr><tr><td>high-rise apartments (residential or mixed-use)</td><td>1.9%</td></tr></tbody></table></figure>
+
+
+
+<p>Because the City of Vancouver has so little area left undeveloped, any proposals for new housing, schools, parks, stores, and so forth will displace some existing use of the land.</p>
 ]]></content:encoded>
 					
 		

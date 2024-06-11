@@ -12,13 +12,13 @@
 	<atom:link href="https://rosschurchley.com/tag/gee-thats-random/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Tue, 07 May 2024 04:45:18 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 02 Jun 2024 07:50:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
@@ -29,16 +29,16 @@
 </image> 
 	<item>
 		<title>If you see a coyote</title>
-		<link>https://rosschurchley.com/snippets/2023/if-you-see-a-coyote/</link>
+		<link>https://rosschurchley.com/2023/if-you-see-a-coyote/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Tue, 09 May 2023 22:00:00 +0000</pubDate>
-				<category><![CDATA[Snippets]]></category>
+				<category><![CDATA[Photos]]></category>
 		<category><![CDATA[Gee that's random]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=130</guid>
 
-					<description><![CDATA[If you see a coyote in Vancouver, the officially recommended course of action is to yell &#8220;Go away coyote&#8221;.]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A sign posted by the Vancouver Parks Board at the entrance to a park." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />If you see a coyote in Vancouver, the officially recommended course of action is to yell &#8220;Go away coyote&#8221;.]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A sign posted by the Vancouver Parks Board at the entrance to a park." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
 <p>If you see a coyote in Vancouver, the officially recommended course of action is to yell &#8220;Go away coyote&#8221;.</p>
 ]]></content:encoded>
 					

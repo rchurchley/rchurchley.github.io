@@ -12,13 +12,13 @@
 	<atom:link href="https://rosschurchley.com/category/snippets/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Sat, 25 May 2024 23:40:05 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 07:43:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
@@ -28,8 +28,78 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hydrogen is &#8220;Waterstuff&#8221;</title>
+		<link>https://rosschurchley.com/2024/hydrogen-is-waterstuff/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Mon, 27 May 2024 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Language]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=349</guid>
+
+					<description><![CDATA[&#8220;Hydrogen&#8221; in German is Wasserstoff, which sounds hilarious except it&#8217;s just a literal translation of the Greek hydro-gen! Most chemical elements are more or less the same in German and English. The fun exceptions are: German also has Natrium (Sodium), Kalium (Potassium), Wofram (Tungsten), Quecksilber (Mercury), and Blei (Lead).]]></description>
+										<content:encoded><![CDATA[
+<p>&#8220;Hydrogen&#8221; in German is <em>Wasserstoff</em>, which sounds hilarious except it&#8217;s just a literal translation of the Greek hydro-gen!</p>
+
+
+
+<p>Most chemical elements are more or less the same in German and English. The fun exceptions are:</p>
+
+
+
+<ul>
+<li>Wasserstoff (Hydrogen); &#8220;water stuff&#8221; is a literal translation.</li>
+
+
+
+<li>Kohlenstoff (Carbon); &#8220;coal stuff&#8221; is a literal translation.</li>
+
+
+
+<li>Stickstoff (Nitrogen); &#8220;suffocation stuff&#8221;, apparently because it&#8217;s the non-oxygen part of air, is a German original.</li>
+
+
+
+<li>Sauerstoff (Oxygen); &#8220;sour stuff&#8221; is a literal translation.</li>
+</ul>
+
+
+
+<p>German also has Natrium (Sodium), Kalium (Potassium), Wofram (Tungsten), Quecksilber (Mercury), and Blei (Lead).</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The flags of Australia and New Zealand</title>
+		<link>https://rosschurchley.com/2023/the-flags-of-australia-and-new-zealand/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2023 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=345</guid>
+
+					<description><![CDATA[It’s easy to confuse the flags of Australia and Aotearoa New Zealand if your eyes don’t know what to look for. I had always distinguished between the two by the colour of the stars in the Southern Cross, but there’s a much easier way to tell them apart at lower resolution: AUS has a giant [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>It’s easy to confuse the flags of Australia and Aotearoa New Zealand if your eyes don’t know what to look for. </p>
+
+
+
+<p>I had always distinguished between the two by the colour of the stars in the Southern Cross, but there’s a much easier way to tell them apart at lower resolution: AUS has a giant extra star in the lower left quadrant.</p>
+
+
+
+<p>AUS <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f1e6-1f1fa.png" alt="🇦🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>NZL <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f1f3-1f1ff.png" alt="🇳🇿" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Julius Caesar</title>
-		<link>https://rosschurchley.com/snippets/2023/julius-caesar/</link>
+		<link>https://rosschurchley.com/2023/julius-caesar/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 30 Jun 2023 22:00:00 +0000</pubDate>
@@ -60,7 +130,7 @@
 			</item>
 		<item>
 		<title>Alternate periodic tables</title>
-		<link>https://rosschurchley.com/snippets/2023/alternate-periodic-tables/</link>
+		<link>https://rosschurchley.com/2023/alternate-periodic-tables/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 16 Jun 2023 22:00:00 +0000</pubDate>
@@ -69,8 +139,8 @@
 		<category><![CDATA[Physics]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=145</guid>
 
-					<description><![CDATA[The standard Periodic Table is an iconic data visualization, but it’s not the only way to represent the relationships between elements. This beautiful &#8220;ribbon&#8221; version was designed by James Hyde in the 1970s. James Franklin Hyde&#160;was a pioneer in the silicone industry, so it’s appropriate that&#160;periodic ribbon&#160;puts the element silicon in the center and highlights [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp" class="attachment-large size-large wp-post-image" alt="The periodic table of the elements presented as a colourful ribbon spiralling out from hydrogen." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-1536x1152.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />The standard Periodic Table is an iconic data visualization, but it’s not the only way to represent the relationships between elements. This beautiful &#8220;ribbon&#8221; version was designed by James Hyde in the 1970s. James Franklin Hyde&#160;was a pioneer in the silicone industry, so it’s appropriate that&#160;periodic ribbon&#160;puts the element silicon in the center and highlights [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp" class="attachment-large size-large wp-post-image" alt="The periodic table of the elements presented as a colourful ribbon spiralling out from hydrogen." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-1536x1152.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>The standard Periodic Table is an iconic data visualization, but it’s not the only way to represent the relationships between elements. <a href="https://digital.sciencehistory.org/works/8p58pf13g">This beautiful &#8220;ribbon&#8221; version</a> was designed by James Hyde in the 1970s.</p>
 
 
@@ -87,7 +157,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1392" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1392x1280.webp" alt="A different periodic table of the elements in the shape of a spiral centered around hydrogen." class="wp-image-184" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1392x1280.webp 1392w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-653x600.webp 653w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-768x706.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1536x1412.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-2048x1883.webp 2048w" sizes="(max-width: 1392px) 100vw, 1392px" /><figcaption class="wp-element-caption">Benfey&#8217;s periodic snail of the elements. (<a href="https://digital.sciencehistory.org/works/9p290b30x">Theodor Benfey / Science History Institute</a>)</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1392" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1392x1280.webp" alt="A different periodic table of the elements in the shape of a spiral centered around hydrogen." class="wp-image-184" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1392x1280.webp 1392w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-653x600.webp 653w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-768x706.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1536x1412.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-2048x1883.webp 2048w" sizes="(max-width: 1392px) 100vw, 1392px" /><figcaption class="wp-element-caption">Benfey&#8217;s periodic snail of the elements. (<a href="https://digital.sciencehistory.org/works/9p290b30x">Theodor Benfey / Science History Institute</a>)</figcaption></figure>
 ]]></content:encoded>
 					
 		
@@ -95,15 +165,15 @@
 			</item>
 		<item>
 		<title>No such thing as a tree</title>
-		<link>https://rosschurchley.com/snippets/2023/no-such-thing-as-a-tree/</link>
+		<link>https://rosschurchley.com/2023/no-such-thing-as-a-tree/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2023 22:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=143</guid>
 
-					<description><![CDATA[Between cabbage, lettuce, maple, and holly, two plants are in the rosid clade (related to roses) and two are in the asterid clade (related to sunflowers). Can you guess which is which? I would have guessed that the trees might be related to a woody rose bush, while the leafy greens would be closer to [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp" class="attachment-large size-large wp-post-image" alt="A two-by-two grid of plant photos. Clockwise from top left: a maple tree, a holly tree, a lettuce plant, and a cabbage plant." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Between cabbage, lettuce, maple, and holly, two plants are in the rosid clade (related to roses) and two are in the asterid clade (related to sunflowers). Can you guess which is which? I would have guessed that the trees might be related to a woody rose bush, while the leafy greens would be closer to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp" class="attachment-large size-large wp-post-image" alt="A two-by-two grid of plant photos. Clockwise from top left: a maple tree, a holly tree, a lettuce plant, and a cabbage plant." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>Between cabbage, lettuce, maple, and holly, two plants are in the rosid clade (related to roses) and two are in the asterid clade (related to sunflowers). Can you guess which is which?</p>
 
 
@@ -112,11 +182,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp" alt="A two-by-two grid of plant photos. Clockwise from top left: a maple tree, a holly tree, a lettuce plant, and a cabbage plant." class="wp-image-213" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
-
-
-
-<p>I would have guessed that the trees might be related to a woody rose bush, while the leafy greens would be closer to broad-leaved sunflowers. I would have been wrong. Plants are <em>much</em> weirder than that.</p>
+<p>I would have guessed that the trees might be related to a woody rose bush, while the leafy greens would be closer to broad-leaved sunflowers. I would have been wrong. Plants are&nbsp;<em>much</em>&nbsp;weirder than that.</p>
 
 
 
@@ -166,7 +232,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1280" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/plants-1280x1280.webp" alt="A family tree of various plants." class="wp-image-214" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/plants-1280x1280.webp 1280w, https://rosschurchley.com/wp-content/uploads/2024/05/plants-600x600.webp 600w, https://rosschurchley.com/wp-content/uploads/2024/05/plants-150x150.webp 150w, https://rosschurchley.com/wp-content/uploads/2024/05/plants-768x768.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/plants-1536x1536.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/plants-2048x2048.webp 2048w" sizes="(max-width: 1280px) 100vw, 1280px" /><figcaption class="wp-element-caption">If you shuffled all the plants on this taxonomy tree, I would not be able to tell the difference.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1280" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/plants-1280x1280.webp" alt="A family tree of various plants." class="wp-image-214" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/plants-1280x1280.webp 1280w, https://rosschurchley.com/wp-content/uploads/2024/05/plants-600x600.webp 600w, https://rosschurchley.com/wp-content/uploads/2024/05/plants-150x150.webp 150w, https://rosschurchley.com/wp-content/uploads/2024/05/plants-768x768.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/plants-1536x1536.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/plants-2048x2048.webp 2048w" sizes="(max-width: 1280px) 100vw, 1280px" /><figcaption class="wp-element-caption">If you shuffled all the plants on this taxonomy tree, I would not be able to tell the difference.</figcaption></figure>
 
 
 
@@ -186,15 +252,15 @@
 			</item>
 		<item>
 		<title>Emoji proposals</title>
-		<link>https://rosschurchley.com/snippets/2023/emoji-proposals/</link>
+		<link>https://rosschurchley.com/2023/emoji-proposals/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Wed, 07 Jun 2023 22:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=141</guid>
 
-					<description><![CDATA[Every new emoji starts with a formal proposal justifying why it should exist. The proposal for 🫵 starts with four pages of the history of people pointing at the viewer in art. Only a few emoji are accepted every year, but anyone can submit suggestions for new emoji. For example: To address the Unicode Consortium’s&#160;emoji [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/06/emoji.webp" class="attachment-large size-large wp-post-image" alt="A variety of emoji (a few dozen in total) including faces, objects, food, and animals." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/emoji.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/emoji-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/emoji-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/emoji-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Every new emoji starts with a formal proposal justifying why it should exist. The proposal for 🫵 starts with four pages of the history of people pointing at the viewer in art. Only a few emoji are accepted every year, but anyone can submit suggestions for new emoji. For example: To address the Unicode Consortium’s&#160;emoji [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/06/emoji.webp" class="attachment-large size-large wp-post-image" alt="A variety of emoji (a few dozen in total) including faces, objects, food, and animals." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/emoji.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/emoji-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/emoji-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/emoji-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>Every new emoji starts with a formal proposal justifying why it should exist. The proposal for <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1faf5.png" alt="🫵" class="wp-smiley" style="height: 1em; max-height: 1em;" /> starts with four pages of the history of people pointing at the viewer in art.</p>
 
 
@@ -279,7 +345,7 @@
 			</item>
 		<item>
 		<title>CRC Handbook</title>
-		<link>https://rosschurchley.com/snippets/2023/crc-handbook/</link>
+		<link>https://rosschurchley.com/2023/crc-handbook/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Mon, 22 May 2023 22:00:00 +0000</pubDate>
@@ -314,7 +380,7 @@
 			</item>
 		<item>
 		<title>Jilg&#8217;s sidewalk</title>
-		<link>https://rosschurchley.com/snippets/2023/jilgs-sidewalk/</link>
+		<link>https://rosschurchley.com/2023/jilgs-sidewalk/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Thu, 11 May 2023 22:00:00 +0000</pubDate>
@@ -322,8 +388,8 @@
 		<category><![CDATA[Urbanism]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=132</guid>
 
-					<description><![CDATA[This picture illustrates the danger of poorly-designed streets, which the Swedish government set out to improve in the 1990s. It was originally created by Swedish artist Karl Jilg, who was commissioned by the Swedish Road Administration to explain new Vision Zero initiatives. The&#160;ideas&#160;behind the initiatives were that The picture is intended to turn the kinetic energy of a moving car [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp" class="attachment-large size-large wp-post-image" alt="An illustration of a city block with bottomless pits for streets." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />This picture illustrates the danger of poorly-designed streets, which the Swedish government set out to improve in the 1990s. It was originally created by Swedish artist Karl Jilg, who was commissioned by the Swedish Road Administration to explain new Vision Zero initiatives. The&#160;ideas&#160;behind the initiatives were that The picture is intended to turn the kinetic energy of a moving car [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp" class="attachment-large size-large wp-post-image" alt="An illustration of a city block with bottomless pits for streets." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>This picture illustrates the danger of poorly-designed streets, which the Swedish government set out to improve in the 1990s. It was originally created by Swedish artist <a href="http://www.jilg.com/">Karl Jilg</a>, who was commissioned by the <a href="https://en.wikipedia.org/wiki/Swedish_Road_Administration">Swedish Road Administration</a> to explain new <a href="https://en.wikipedia.org/wiki/Vision_Zero">Vision Zero</a> initiatives.</p>
 
 
@@ -387,26 +453,8 @@
 		
 			</item>
 		<item>
-		<title>If you see a coyote</title>
-		<link>https://rosschurchley.com/snippets/2023/if-you-see-a-coyote/</link>
-		
-		<dc:creator><![CDATA[Ross]]></dc:creator>
-		<pubDate>Tue, 09 May 2023 22:00:00 +0000</pubDate>
-				<category><![CDATA[Snippets]]></category>
-		<category><![CDATA[Gee that's random]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=130</guid>
-
-					<description><![CDATA[If you see a coyote in Vancouver, the officially recommended course of action is to yell &#8220;Go away coyote&#8221;.]]></description>
-										<content:encoded><![CDATA[
-<p>If you see a coyote in Vancouver, the officially recommended course of action is to yell &#8220;Go away coyote&#8221;.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>O Canada&#8217;s copyright</title>
-		<link>https://rosschurchley.com/snippets/2022/o-canadas-copyright/</link>
+		<link>https://rosschurchley.com/2022/o-canadas-copyright/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 01 Jul 2022 22:00:00 +0000</pubDate>
@@ -429,7 +477,7 @@
 			</item>
 		<item>
 		<title>Scent trademarks</title>
-		<link>https://rosschurchley.com/snippets/2022/scent-trademarks/</link>
+		<link>https://rosschurchley.com/2022/scent-trademarks/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sat, 11 Jun 2022 22:00:00 +0000</pubDate>
@@ -439,11 +487,7 @@
 
 					<description><![CDATA[Crayola has a trademark on the smell of its crayons. The odour is described in the Canadian trademarks registry as: A unique scent of a pungent, aldehydic fragrance combined with the faint scent of a hydrocarbon wax and an earthy clay. Trademark 1986544 In Canada, a trademark can be anything that is used by by [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Crayola has a trademark on the smell of its crayons.</p>
-
-
-
-<p>The odour is described in the Canadian trademarks registry as:</p>
+<p>Crayola has a trademark on the <em>smell</em> of its crayons. The odour is described in the Canadian trademarks registry as:</p>
 
 
 
@@ -471,28 +515,20 @@
 			</item>
 		<item>
 		<title>Rule of twelfths</title>
-		<link>https://rosschurchley.com/snippets/2022/rule-of-twelfths/</link>
+		<link>https://rosschurchley.com/2022/rule-of-twelfths/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 20 May 2022 22:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=126</guid>
 
-					<description><![CDATA[You can get a really good approximation of a sinusoidal curve from twelve equally-spaced line segments of slope 1/12, 2/12, 3/12, 3/12, 2/12, 1/12, -1/12, -2/12, -3/12, -3/12, -2/12, and -1/12, respectively. This approximation, known as the rule of twelfths, rounds √3≈5/3​ but otherwise uses exact values along the curve. I learned about the rule of twelfths from [&#8230;]]]></description>
+					<description><![CDATA[You can get a really good approximation of a sinusoidal curve from twelve equally-spaced line segments of slope 1/12, 2/12, 3/12, 3/12, 2/12, 1/12, -1/12, -2/12, -3/12, -3/12, -2/12, and -1/12, respectively. This approximation, known as the&#160;rule of twelfths, rounds&#160;√3≈5/3​&#160;but otherwise uses exact values along the curve. I learned about the rule of twelfths from [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>You can get a really good approximation of a sinusoidal curve from twelve equally-spaced line segments of slope 1/12, 2/12, 3/12, 3/12, 2/12, 1/12, -1/12, -2/12, -3/12, -3/12, -2/12, and -1/12, respectively.</p>
 
 
 
-<p>This approximation, known as the <a href="https://en.wikipedia.org/wiki/Rule_of_twelfths">rule of twelfths</a>, rounds √3≈5/3​ but otherwise uses exact values along the curve.</p>
-
-
-
-<p>I learned about the rule of twelfths from a kayaking instructor and guide, who used it to estimate the tides. In locations and seasons with a&nbsp;<a href="https://oceanservice.noaa.gov/education/tutorial_tides/tides07_cycles.html">semidiurnal tide pattern</a>, the period of the tide is roughly 12 hours, and the rule of twelfths tells you what the water will be doing in each hour.</p>
-
-
-
-<p>For example, if you know that the difference between low and high tide is 3 feet, then you can quickly estimate that it the tide will rise by about 3 inches in the first hour, 6 inches in the second, 9 inches in the third and fourth, 6 inches in the fifth hour, and 3 inches in the last hour before high tide.</p>
+<p>This approximation, known as the&nbsp;<a href="https://en.wikipedia.org/wiki/Rule_of_twelfths">rule of twelfths</a>, rounds&nbsp;√3≈5/3​&nbsp;but otherwise uses exact values along the curve.</p>
 
 
 
@@ -566,7 +602,11 @@
 
 
 
-<p></p>
+<p>I learned about the rule of twelfths from a kayaking instructor and guide, who used it to estimate the tides. In locations and seasons with a&nbsp;<a href="https://oceanservice.noaa.gov/education/tutorial_tides/tides07_cycles.html">semidiurnal tide pattern</a>, the period of the tide is roughly 12 hours, and the rule of twelfths tells you what the water will be doing in each hour.</p>
+
+
+
+<p>For example, if you know that the difference between low and high tide is 3 feet, then you can quickly estimate that it the tide will rise by about 3 inches in the first hour, 6 inches in the second, 9 inches in the third and fourth, 6 inches in the fifth hour, and 3 inches in the last hour before high tide.</p>
 ]]></content:encoded>
 					
 		
@@ -574,7 +614,7 @@
 			</item>
 		<item>
 		<title>Turkey times</title>
-		<link>https://rosschurchley.com/snippets/2021/turkey-times/</link>
+		<link>https://rosschurchley.com/2021/turkey-times/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sat, 25 Dec 2021 23:00:00 +0000</pubDate>
@@ -607,16 +647,79 @@
 		
 			</item>
 		<item>
+		<title>Alberta has no rats</title>
+		<link>https://rosschurchley.com/2021/alberta-has-no-rats/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Mon, 08 Nov 2021 23:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=307</guid>
+
+					<description><![CDATA[Since the &#8217;50s, Alberta has engaged in a deliberate effort to prevent rats from entering the province. Fortunately, rats can&#8217;t survive in the wild in Alberta, so they have pest inspectors regularly check every premise within a 29 x 600 km control zone from Montana to Cold Lake. Pet rats are illegal. The rat-free status [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Since the &#8217;50s, Alberta has engaged in a deliberate effort to prevent rats from entering the province. Fortunately, rats can&#8217;t survive in the wild in Alberta, so they <a href="https://www.alberta.ca/history-of-rat-control-in-alberta">have pest inspectors regularly check every premise</a> within a 29 x 600 km control zone from Montana to Cold Lake. Pet rats are illegal.</p>
+
+
+
+<p>The rat-free status of Alberta led to a Wikipedia edit war over whether the province should appear on <a href="https://commons.wikimedia.org/w/index.php?title=File:Brown_rat_distribution.png#filehistory">a map of the brown rat&#8217;s habitat</a>. At some point it was decided to remove the map entirely from the English-language entry for <em>Rattus norvegicus</em>, but its presence on other Wikimedia projects means the edit war still rages on to this day.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Yes, prime mouser</title>
+		<link>https://rosschurchley.com/2021/yes-prime-mouser/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Mon, 08 Nov 2021 23:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=309</guid>
+
+					<description><![CDATA[<img width="1920" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/06/Larry_Chief_Mouser-1920x1280.webp" class="attachment-large size-large wp-post-image" alt="A tabby cat with a Union Jack bow tie sits on the Cabinet room table." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/06/Larry_Chief_Mouser-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/06/Larry_Chief_Mouser-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/06/Larry_Chief_Mouser-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/06/Larry_Chief_Mouser-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/06/Larry_Chief_Mouser-jpg.webp 2000w" sizes="(max-width: 1920px) 100vw, 1920px" />The official title of Chief Mouser to the Cabinet Office is held by a cat in charge of keeping mice under control at the UK Prime Minister&#8217;s office at 10 Downing Street. The current incumbent is Larry. It was once commonplace to employ cats as mousers, so Larry is not unique; the UK Post Office [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1920" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/06/Larry_Chief_Mouser-1920x1280.webp" class="attachment-large size-large wp-post-image" alt="A tabby cat with a Union Jack bow tie sits on the Cabinet room table." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/06/Larry_Chief_Mouser-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/06/Larry_Chief_Mouser-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/06/Larry_Chief_Mouser-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/06/Larry_Chief_Mouser-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/06/Larry_Chief_Mouser-jpg.webp 2000w" sizes="(max-width: 1920px) 100vw, 1920px" />
+<p>The official title of <a href="https://en.wikipedia.org/wiki/Chief_Mouser_to_the_Cabinet_Office">Chief Mouser to the Cabinet Office</a> is held by a cat in charge of keeping mice under control at the UK Prime Minister&#8217;s office at 10 Downing Street. The current incumbent is <a href="https://en.wikipedia.org/wiki/Larry_(cat)">Larry</a>.</p>
+
+
+
+<p>It was once commonplace to employ cats as mousers, so Larry is not unique; the UK Post Office employed a cat named <a href="https://en.wikipedia.org/wiki/Tibs_the_Great">Tibs the Great</a> for many years and Canada&#8217;s Parliament had its own <a href="https://en.wikipedia.org/wiki/Parliament_Hill_cat_colony">cat colony</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Vessel trackers</title>
+		<link>https://rosschurchley.com/2021/vessel-trackers/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Mon, 29 Mar 2021 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=305</guid>
+
+					<description><![CDATA[Vessel Finder is a map showing the current location of container ships, cruise ships, fishing boats, and other nautical vessels. It aggregates data from automatic identification systems which all sufficiently large boats are required to be fitted with. This website was all over the news this week because of the ship stuck in the Suez [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.vesselfinder.com/">Vessel Finder</a> is a map showing the current location of container ships, cruise ships, fishing boats, and other nautical vessels. It aggregates data from <a href="https://en.wikipedia.org/wiki/Automatic_identification_system">automatic identification systems</a> which all sufficiently large boats are required to be fitted with.</p>
+
+
+
+<p>This website was all over the news this week because of the ship <a href="https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction">stuck in the Suez Canal</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>General particulars</title>
-		<link>https://rosschurchley.com/snippets/2019/general-particulars/</link>
+		<link>https://rosschurchley.com/2019/general-particulars/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Fri, 15 Nov 2019 23:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=89</guid>
 
-					<description><![CDATA[&#8220;General particulars&#8221; is an excellent phrase that deserves to catch on more widely than its current context of legally-mandated notices on boats. (Boats are required by international law to have a wheelhouse poster listing their &#8220;general particulars&#8221;, i.e., a list of statistics, properties, and other bits of information necessary to get a basic view of the vessel.)]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2019/11/general-particulars-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="The general particulars chart of the BC Ferry the Queen of Surrey." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2019/11/general-particulars-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2019/11/general-particulars-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2019/11/general-particulars-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2019/11/general-particulars-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2019/11/general-particulars-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />&#8220;General particulars&#8221; is an excellent phrase that deserves to catch on more widely than its current context of legally-mandated notices on boats. (Boats are required by international law to have a wheelhouse poster listing their &#8220;general particulars&#8221;, i.e., a list of statistics, properties, and other bits of information necessary to get a basic view of the vessel.)]]></description>
+										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2019/11/general-particulars-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="The general particulars chart of the BC Ferry the Queen of Surrey." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2019/11/general-particulars-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2019/11/general-particulars-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2019/11/general-particulars-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2019/11/general-particulars-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2019/11/general-particulars-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
 <p>&#8220;General particulars&#8221; is an excellent phrase that deserves to catch on more widely than its current context of legally-mandated notices on boats.</p>
 
 
@@ -629,7 +732,7 @@
 			</item>
 		<item>
 		<title>Sunflowers are false flowers</title>
-		<link>https://rosschurchley.com/snippets/2019/sunflowers-are-false-flowers/</link>
+		<link>https://rosschurchley.com/2019/sunflowers-are-false-flowers/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Tue, 20 Aug 2019 22:00:00 +0000</pubDate>
@@ -650,7 +753,7 @@
 			</item>
 		<item>
 		<title>BC licence plates</title>
-		<link>https://rosschurchley.com/snippets/2018/bc-licence-plates/</link>
+		<link>https://rosschurchley.com/2018/bc-licence-plates/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sat, 01 Sep 2018 22:00:00 +0000</pubDate>
@@ -672,7 +775,7 @@
 
 
 
-<p>Regardless of which, if any of these stories is the correct one, the alphabet was broken into two blocks of ten letters with the first block&nbsp;comprising A, B, C, D, E, F, G, H, J, and K with “I” excluded as it too closely resembled the number one</p>
+<p>Regardless of which, if any of these stories is the correct one, the alphabet was broken into two blocks of ten letters with the first block comprising A, B, C, D, E, F, G, H, J, and K with “I” excluded as it too closely resembled the number one.</p>
 <cite><a href="https://www.bcpl8s.ca/Passenger-1970-1972.html" data-type="link" data-id="https://www.bcpl8s.ca/Passenger-1970-1972.html">Christopher Garrish</a></cite></blockquote>
 
 
@@ -698,8 +801,61 @@
 		
 			</item>
 		<item>
+		<title>The renaming of Kulshan</title>
+		<link>https://rosschurchley.com/2017/the-renaming-of-kulshan/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Mon, 25 Dec 2017 23:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=295</guid>
+
+					<description><![CDATA[Mount Baker was named by George Vancouver after his third lieutenant, who was the first on his ship to see it. Although the name is better than a few others in the Pacific Northwest, being the first person to see a giant mountain isn&#8217;t a particularly notable claim to fame. Especially when you have to [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://en.wikipedia.org/wiki/Mount_Baker">Mount Baker</a> was named by George Vancouver after his third lieutenant, who was the first on his ship to see it.</p>
+
+
+
+<p>Although the name is better than a few others in the Pacific Northwest, being the first person to see a giant mountain isn&#8217;t a particularly notable claim to fame. Especially when you have to ignore not only tens of thousands of people who lived there but also the Spaniards who had <a href="https://text-message.blogs.archives.gov/2017/10/12/225-years-ago-spanish-explorations-of-the-pacific-northwest-and-the-first-spanish-settlement-in-washington-state-nunez-gaona-neah-bay-1792-part-ii-spanish-explorations-of-the-pacific-northwest-a/">gotten there the year prior</a>.</p>
+
+
+
+<span id="more-295"></span>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2017/12/kulshan-carmelo.webp" alt="A mountain labeled &quot;La gran montaña de Carmelo&quot; drawn on a historic map" class="wp-image-736" srcset="https://rosschurchley.com/wp-content/uploads/2017/12/kulshan-carmelo.webp 1600w, https://rosschurchley.com/wp-content/uploads/2017/12/kulshan-carmelo-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2017/12/kulshan-carmelo-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2017/12/kulshan-carmelo-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">The mountain drawn on an early Spanish map of the Juan de Fuca Strait.</figcaption></figure>
+
+
+
+<p>The mountain appears as <em>la gran montaña del Carmelo</em> on <a href="https://doi.org/10.58066/a0dr-8a54">a map</a> drawn by Gonzalo Lopez de Haro, first pilot on Manuel Quimper’s six-week expedition to the Juan de Fuca strait. The Spanish name is apparently a reference to a religious order whose white cloaks resembled the snow-capped peak. Who knows, if the <a href="https://en.wikipedia.org/wiki/Nootka_Crisis">Nootka Crisis</a> had been resolved differently, it&#8217;s entirely possible that Europeans would have ended up calling it Monte Carmelo.</p>
+
+
+
+<p>Instead, the name Mount Baker stuck after Vancouver described it in his published memoir.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>About this time a very high conspicuous craggy mountain … presented itself, towering above the clouds: as low down as they allowed it to be visible it was covered with snow; and south of it, was a long ridge of very rugged snowy mountains, much less elevated, which seemed to stretch to a considerable distance … the high distant land formed, as already observed, like detached islands, amongst which the lofty mountain, discovered in the afternoon by the third lieutenant, and in compliment to him called by me Mount Baker, rose a very conspicuous object … apparently at a very remote distance.</p>
+<cite><a href="https://archive.org/details/voyageofdiscover01vanc">George Vancouver</a></cite></blockquote>
+
+
+
+<p>Vancouver&#8217;s diary mentions encounters with different indigenous groups of the area, some friendly and some indifferent,<sup data-fn="0937946a-e2f5-41a5-a34d-1a7e0e7ece3c" class="fn"><a href="#0937946a-e2f5-41a5-a34d-1a7e0e7ece3c" id="0937946a-e2f5-41a5-a34d-1a7e0e7ece3c-link">1</a></sup> but he never stuck around in the same place long enough to learn their names or pick up their languages.<sup data-fn="a1b0c471-c99e-4b0f-96d6-d75194ae94e2" class="fn"><a href="#a1b0c471-c99e-4b0f-96d6-d75194ae94e2" id="a1b0c471-c99e-4b0f-96d6-d75194ae94e2-link">2</a></sup> If he had, he might have recognized Mount Baker by the name <em>kwelshan</em>, <a href="http://arcadianabe.blogspot.com/2012/12/koma-kulshan-mysterious-mountain-moniker.html">the term used</a> by the Lhaq&#8217;temish (Lummi) people around Bellingham and the San Juan Islands, or <em>swáʔlәx̣</em>, <a href="https://lingpapers.sites.olt.ubc.ca/#icsnl-xxxii-1997-25">reportedly used</a> by the nəxʷsƛ̕áy̕əm̕ (Klallam) people on the Olympic Peninsula.</p>
+
+
+
+<p>The mountain itself is surrounded by the traditional lands of the Nooksack and Upper Skagit peoples. The Nooksack use <em>kwelshán</em> for the high open slopes of the mountain and <em>kweq’ smánit</em> for the glacier-covered summit.</p>
+
+
+<ol class="wp-block-footnotes"><li id="0937946a-e2f5-41a5-a34d-1a7e0e7ece3c">George Vancouver recorded people who &#8220;seemed to view us with the utmost indifference and unconcern… as if such vessels had been familiar to them, and unworthy of their attention&#8221;, but didn&#8217;t note the contradiction between this and his racistly-worded claim that he had &#8220;advanced further up this inlet than… any other person from the civilized world&#8221;. <a href="#0937946a-e2f5-41a5-a34d-1a7e0e7ece3c-link" aria-label="Jump to footnote reference 1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li><li id="a1b0c471-c99e-4b0f-96d6-d75194ae94e2">Vancouver claimed that his crew had &#8220;some knowledge of&#8221; <a href="https://en.wikipedia.org/wiki/Nuu-chah-nulth_language">nuučaan̓uɫ</a> from the Island&#8217;s west coast, but that&#8217;s from a <a href="https://en.wikipedia.org/wiki/Wakashan_languages">different language family</a> from the <a href="https://en.wikipedia.org/wiki/Salishan_languages">Salishan languages</a> spoken around the strait. <a href="#a1b0c471-c99e-4b0f-96d6-d75194ae94e2-link" aria-label="Jump to footnote reference 2"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li></ol>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>The bee delay</title>
-		<link>https://rosschurchley.com/snippets/2017/the-bee-delay/</link>
+		<link>https://rosschurchley.com/2017/the-bee-delay/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Thu, 02 Feb 2017 23:00:00 +0000</pubDate>
@@ -730,95 +886,154 @@
 		
 			</item>
 		<item>
-		<title>Image evolution</title>
-		<link>https://rosschurchley.com/snippets/2012/image-evolution/</link>
+		<title>Vancouver land use</title>
+		<link>https://rosschurchley.com/2016/vancouver-land-use/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
-		<pubDate>Sat, 01 Sep 2012 22:00:00 +0000</pubDate>
+		<pubDate>Tue, 01 Mar 2016 23:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=271</guid>
+		<category><![CDATA[Vancouver]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=291</guid>
 
-					<description><![CDATA[Image Evolution is a very interesting Javascript tool based on Roger Johansson&#8217;s Evo-Lisa idea. It uses a genetic algorithm to represent images as a collection of overlapping polygons. We start from [a set of random] polygons that are invisible. In each optimization step we randomly modify one parameter (like color components or polygon vertices) and [&#8230;]]]></description>
+					<description><![CDATA[Jens von Bergmann has run the numbers on land use in various municipalities in Metro Vancouver. The City of Vancouver in particular has lot of land tied up in streets and detached housing. Use CoV land single-family detached houses and duplexes 34.0% roads and right-of-way 28.1% recreation, open space, and natural areas 15.2% commercial 3.9% [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p><a href="https://alteredqualia.com/visualization/evolve/">Image Evolution</a> is a very interesting Javascript tool based on Roger Johansson&#8217;s Evo-Lisa idea. It uses a genetic algorithm to represent images as a collection of overlapping polygons.</p>
+<p><a href="https://doodles.mountainmath.ca/posts/2016-02-29-land-use/index.html">Jens von Bergmann</a> has run the numbers on land use in various municipalities in Metro Vancouver. The City of Vancouver in particular has <em>lot</em> of land tied up in streets and detached housing.</p>
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>We start from [a set of random] polygons that are invisible. In each optimization step we randomly modify one parameter (like color components or polygon vertices) and check whether such new variant looks more like the original image. If it is, we keep it, and continue to mutate this one instead</p>
-<cite>Altered Qualia</cite></blockquote>
+<figure class="wp-block-table"><table><thead><tr><th>Use</th><th>CoV land</th></tr></thead><tbody><tr><td>single-family detached houses and duplexes</td><td>34.0%</td></tr><tr><td>roads and right-of-way</td><td>28.1%</td></tr><tr><td>recreation, open space, and natural areas</td><td>15.2%</td></tr><tr><td>commercial</td><td>3.9%</td></tr><tr><td>low-rise apartments (residential or mixed-use)</td><td>4.1%</td></tr><tr><td>high-rise apartments (residential or mixed-use)</td><td>1.9%</td></tr></tbody></table></figure>
 
 
 
-<p>Just feed it an image and hit start, and a random collection of coloured polygons will gradually evolve into a cool abstract rendition of your picture.</p>
+<p>Because the City of Vancouver has so little area left undeveloped, any proposals for new housing, schools, parks, stores, and so forth will displace some existing use of the land.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>The snake fight portion of your thesis defence</title>
-		<link>https://rosschurchley.com/snippets/2012/the-snake-fight-portion-of-your-thesis-defence/</link>
+		<title>Etymology of peas</title>
+		<link>https://rosschurchley.com/2015/etymology-of-peas/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
-		<pubDate>Thu, 02 Aug 2012 22:00:00 +0000</pubDate>
+		<pubDate>Thu, 01 Oct 2015 22:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=18</guid>
+		<category><![CDATA[Language]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=287</guid>
 
-					<description><![CDATA[I defend my thesis in two weeks, but I’ll be prepared for the snake fight portion thanks to McSweeney’s guide. Do I have to kill the snake? University guidelines state that you have to “defeat” the snake. There are many ways to accomplish this. Lots of students choose to wrestle the snake. Some construct decoys [&#8230;]]]></description>
+					<description><![CDATA[The word pea was originally pease in the singular and peasen in the plural. Eventually, speakers understandably interpreted the -s in pease as the plural suffix rather than just a sound in the original Latin pisum/pisa and Greek πίσον, and the English singular pea was born. For example, a 15th-century cookbook has the following recipe [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>I defend my thesis in two weeks, but I’ll be prepared for the snake fight portion thanks to <a href="https://www.mcsweeneys.net/articles/faq-the-snake-fight-portion-of-your-thesis-defense" data-type="link" data-id="https://www.mcsweeneys.net/articles/faq-the-snake-fight-portion-of-your-thesis-defense">McSweeney’s guide</a>.</p>
+<p>The word <a href="https://en.wikipedia.org/wiki/Pea"><em>pea</em></a> was originally <em>pease</em> in the singular and <em>peasen</em> in the plural. Eventually, speakers understandably interpreted the <em>-s</em> in <em>pease</em> as the plural suffix rather than just a sound in the original <a href="https://www.etymonline.com/word/pea" data-type="link" data-id="https://www.etymonline.com/word/pea">Latin <em>pisum/pisa</em> and Greek <em>πίσον</em></a>, and the English singular <em>pea</em> was born.</p>
+
+
+
+<span id="more-287"></span>
+
+
+
+<p>For example, a 15th-century cookbook has the following recipe for what we would today call pea soup:</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>Do I have to kill the snake?</strong></p>
+<p>Take grene <strong>pesyn</strong>, an washe hem clene an caste hem on a potte, an boyle hem tyl þey breste, an þanne take hem vppe of þe potte, an put hem with brothe yn a-noþer potte, and lete hem kele; þan draw hem þorw a straynowre in-to a fayre potte, an þan take oynonys, and screde hem in to or þre, an take hole wortys and boyle hem in fayre water: and take hem vppe, an ley hem on a fayre bord, an cytte on .iij. or iiij., an ley hem to þe oynonys in þe potte, to þe drawyd <strong>pesyn</strong>; an let hem boyle tyl þey ben tendyr; an þanne tak fayre oyle and frye hem, or ellys sum fresche broþe of sum maner fresche fysshe, an caste þer-to, an Safron, an salt a quantyte, and serue it forth.</p>
+<cite><a href="https://quod.lib.umich.edu/c/cme/CookBk/">Harleian manuscript 279</a></cite></blockquote>
 
 
 
-<p>University guidelines state that you have to “defeat” the snake. There are many ways to accomplish this. Lots of students choose to wrestle the snake. Some construct decoys and elaborate traps to confuse and then ensnare the snake. One student brought a flute and played a song to lull the snake to sleep. Then he threw the snake out a window.</p>
+<p><em>Pease</em> also functioned as a mass noun, like <em>bread</em> or <em>oatmeal</em>.</p>
 
 
 
-<p><strong>Are the snakes big?</strong></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>Yisterday I ete cale and <strong>pes</strong>, &amp; to-day I eete <strong>pes</strong> &amp; cale, &amp; to-morn I mon eate <strong>pess</strong> with cale, &amp; after to-morn I mon eate cale with <strong>pease</strong>.</p>
+<cite><a href="https://name.umdl.umich.edu/AlphTales">Alphabet of Tales</a></cite></blockquote>
 
 
 
-<p>We have lots of different snakes. The quality of your work determines which snake you will fight. The better your thesis is, the smaller the snake will be.</p>
-<cite>Luke Burns</cite></blockquote>
+<p>Unfortunately, the above quote is taken from a religious anecdote promoting a moderate and uniform diet, and not a hilariously sarcastic comment by a medieval peasant.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>The mouse problem</title>
-		<link>https://rosschurchley.com/snippets/2010/the-mouse-problem/</link>
+		<title>Pianos do not sing</title>
+		<link>https://rosschurchley.com/2015/pianos-do-not-sing/</link>
 		
 		<dc:creator><![CDATA[Ross]]></dc:creator>
-		<pubDate>Thu, 01 Apr 2010 22:00:00 +0000</pubDate>
+		<pubDate>Wed, 02 Sep 2015 10:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=14</guid>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=283</guid>
 
-					<description><![CDATA[The UK House of Lords recently debated a pest control problem in a scene straight out of a sitcom: My Lords, I do not actually deal with the economy. I am glad to say that that would be above my pay grade, whereas trying to deal with the mice is probably just about right for [&#8230;]]]></description>
+					<description><![CDATA[Rupa Marya v. Warner Chappell Music was fought over the copyright status of the song &#8220;Happy Birthday to You&#8220;. A key factor in the order for summary judgement came in this all-time great quote: Obviously, pianos do not sing. At the time of lawsuit, Warner was collecting royalties — around $2 million a year — [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>The UK House of Lords <a href="https://parliamentlive.tv/event/index/1b964668-9c77-4190-8693-dab8f51fa39f?in=15:07:44">recently debated</a> a pest control problem in a scene straight out of a sitcom:</p>
+<p><em>Rupa Marya v. Warner Chappell Music</em> was fought over the copyright status of the song &#8220;<a href="https://en.wikipedia.org/wiki/Happy_Birthday_to_You">Happy Birthday to You</a>&#8220;. A key factor in the order for summary judgement came in this all-time great quote:</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>My Lords, I do not actually deal with the economy. I am glad to say that that would be above my pay grade, whereas trying to deal with the mice is probably just about right for me.</p>
-<cite>The Chairman of Committees</cite></blockquote>
+<p>Obviously, pianos do not sing.</p>
+</blockquote>
 
 
 
-<p>Another choice quote now immortalized in <a href="https://hansard.parliament.uk//Lords/2010-03-03/debates/10030366000716/PalaceOfWestminsterPestControl" data-type="link" data-id="https://hansard.parliament.uk//Lords/2010-03-03/debates/10030366000716/PalaceOfWestminsterPestControl">Hansard</a>:</p>
+<span id="more-283"></span>
+
+
+
+<p>At the time of lawsuit, Warner was collecting royalties — around $2 million a year — for &#8220;Happy Birthday to You&#8221; despite the fact that the melody<sup data-fn="2732db1e-a16a-48f1-8f6b-48de02c94470" class="fn"><a href="#2732db1e-a16a-48f1-8f6b-48de02c94470" id="2732db1e-a16a-48f1-8f6b-48de02c94470-link">1</a></sup> was in the American public domain. They claimed that the lyrics were still under copyright and that they owned the rights to them.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="866" height="297" src="https://rosschurchley.com/wp-content/uploads/2015/09/happy-birthday-music.webp" alt="Sheet music for Happy Birthday to You" class="wp-image-688" srcset="https://rosschurchley.com/wp-content/uploads/2015/09/happy-birthday-music.webp 866w, https://rosschurchley.com/wp-content/uploads/2015/09/happy-birthday-music-800x274.webp 800w, https://rosschurchley.com/wp-content/uploads/2015/09/happy-birthday-music-768x263.webp 768w" sizes="(max-width: 866px) 100vw, 866px" /></figure>
+
+
+
+<p>Although Warner had acquired <em>some</em> &#8220;Happy Birthday&#8221;-related rights, it wasn&#8217;t clear what those rights covered since the original transfer agreements had been lost. This presented some difficulty for Warner&#8217;s argument, which required them to prove that their rights included the lyrics specifically. Since the agreement had been described as covering &#8220;piano arrangements&#8221;, the judge reasoned:</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>I invited Members of the House to telephone when they saw mice. The trouble is that when the person at the other end of the helpline goes to check this out, very often the mouse has gone elsewhere.</p>
-<cite>The Chairman of Committees</cite></blockquote>
+<p>Obviously, pianos do not sing. Thus, it is not logical to infer that rights to &#8220;piano arrangements&#8221; would include rights to any lyrics or words at all.</p>
+<cite><a href="https://www.courtlistener.com/docket/4150219/rupa-marya-v-warner-chappell-music-inc/">George H King</a></cite></blockquote>
+
+
+
+<p>The final ruling was that Warner could not prove that it owned the copyright to the &#8220;Happy Birthday to You&#8221; lyrics, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1111624#">assuming they were still under copyright at all</a>. Settlement terms following the summary judgement definitively assigned the song to the American public domain.</p>
+
+
+
+<p>As far as I can tell, the European copyright to both the &#8220;Happy Birthday&#8221; lyrics and melody would have been still valid, albeit with disputed ownership, until it expired in 2017. Meanwhile here in Canada, the song had already passed to the public domain in 1997.</p>
+
+
+<ol class="wp-block-footnotes"><li id="2732db1e-a16a-48f1-8f6b-48de02c94470">The song was originally published as &#8220;Good Morning to All&#8221; with different lyrics. <a href="#2732db1e-a16a-48f1-8f6b-48de02c94470-link" aria-label="Jump to footnote reference 1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li></ol>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rubber duck problem solving</title>
+		<link>https://rosschurchley.com/2014/rubber-duck-problem-solving/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2014 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=281</guid>
+
+					<description><![CDATA[Rubber duck problem solving describes the phenomenon where you realize the solution to a problem in the middle of explaining it to someone else. The name stems from apocryphal stories in which stumped engineers are advised to get help from inanimate objects, including a literal rubber duck. The technique works because communication forces us to [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging">Rubber duck problem solving</a> describes the phenomenon where you realize the solution to a problem in the middle of explaining it to someone else. The name stems from apocryphal stories in which stumped engineers are advised to get help from inanimate objects, including a literal rubber duck.</p>
+
+
+
+<p>The technique works because communication forces us to arrange our thoughts and prevents us from taking shortcuts that would leave our audience behind. As one developer explains:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>When you force yourself to verbalize something, you take poorly formed mind-stuff and slot it into discretely packaged concepts (words) whose meanings are agreed upon by other humans. This alone adds an important layer of organization to your thinking by taking non-verbal soup and giving it shape.</p>
+<cite><a href="https://web.archive.org/web/20220105214013/https://triplebyte.com/blog/my-guide-for-rubber-duck-debugging-a-better-process-with-no-rubber-ducks">Joseph Pacheco</a></cite></blockquote>
 ]]></content:encoded>
 					
 		
