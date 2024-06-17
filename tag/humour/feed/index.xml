@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Humour &#8211; Ross Churchley</title>
+	<atom:link href="https://rosschurchley.com/tag/humour/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rosschurchley.com/</link>
+	<description>A commonplace book by Ross Churchley</description>
+	<lastBuildDate>Fri, 14 Jun 2024 04:41:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
+	<title>Humour &#8211; Ross Churchley</title>
+	<link>https://rosschurchley.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>No pen testing at Muji</title>
+		<link>https://rosschurchley.com/2021/no-pen-testing-at-muji/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sat, 29 May 2021 22:00:00 +0000</pubDate>
+				<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=355</guid>
+
+					<description><![CDATA[<img width="800" height="600" src="https://rosschurchley.com/wp-content/uploads/2024/05/No-pen-testing-at-Muji-jpg.webp" class="attachment-large size-large wp-post-image" alt="A sign reads &quot;No Pen Testing&quot; in Muji&#039;s stationary section." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/No-pen-testing-at-Muji-jpg.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/No-pen-testing-at-Muji-768x576.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />Muji apparently doesn&#8217;t have a bug bounty program.]]></description>
+										<content:encoded><![CDATA[<img width="800" height="600" src="https://rosschurchley.com/wp-content/uploads/2024/05/No-pen-testing-at-Muji-jpg.webp" class="attachment-large size-large wp-post-image" alt="A sign reads &quot;No Pen Testing&quot; in Muji&#039;s stationary section." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/No-pen-testing-at-Muji-jpg.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/No-pen-testing-at-Muji-768x576.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />
+<p>Muji <a href="https://en.wikipedia.org/wiki/Penetration_test">apparently</a> doesn&#8217;t have a <a href="https://en.wikipedia.org/wiki/Bug_bounty_program">bug bounty program</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Emoji math</title>
+		<link>https://rosschurchley.com/2017/emoji-math/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 03 May 2017 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=800</guid>
+
+					<description><![CDATA[😖 + 👻 = 🤧]]></description>
+										<content:encoded><![CDATA[
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f616.png" alt="😖" class="wp-smiley" style="height: 1em; max-height: 1em;" /> + <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /> = <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f927.png" alt="🤧" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The bee delay</title>
+		<link>https://rosschurchley.com/2017/the-bee-delay/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Thu, 02 Feb 2017 23:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Humour]]></category>
+		<category><![CDATA[Sports]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=39</guid>
+
+					<description><![CDATA[I love the dry humour in cricket commentary. This episode describes what happened when bees swarmed the pitch in South Africa’s third ODI against Sri Lanka. At first they deployed a man with a stick. The groundsman approached one buzzing batch, decided his mode of attack would not work, and returned defeated. Eventually a professional was summoned. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>I love the dry humour in cricket commentary. <a href="https://www.espncricinfo.com/story/wanderers-scrambles-to-find-plan-bee-1080873">This episode</a> describes what happened when bees swarmed the pitch in South Africa’s third ODI against Sri Lanka.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>At first they deployed a man with a stick. The groundsman approached one buzzing batch, decided his mode of attack would not work, and returned defeated.</p>
+
+
+
+<p>Eventually a professional was summoned. One man lived out what must be the dreams of many aspiring beekeepers in South Africa, when he walked to the middle of a packed Wanderers stadium in his trademark baggy whites, nervelessly placed down his plastic box full of honeycomb, and masterfully opened up the lid. Before long he had ensnared his quarry, probably to wild cheers and fans offering to give him their numbers.</p>
+
+
+
+<p>All up, the bees had spent about 65 minutes in the middle, which many noted, was more time than some Sri Lanka batsmen had managed.</p>
+<cite>Andrew Fidel Fernando</cite></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Natural born citizen</title>
+		<link>https://rosschurchley.com/2016/natural-born-citizen/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2016 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=802</guid>
+
+					<description><![CDATA[US CONSTITUTION: No person except a natural born citizen shall be eligible for president. MACDUFF: 😢]]></description>
+										<content:encoded><![CDATA[
+<p>US CONSTITUTION: No person except a natural born citizen shall be eligible for president.</p>
+
+
+
+<p>MACDUFF: <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f622.png" alt="😢" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pokémon urban planning</title>
+		<link>https://rosschurchley.com/2016/pokemon-urban-planning/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Thu, 04 Aug 2016 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=359</guid>
+
+					<description><![CDATA[Urban planning oddities in Pokémon:]]></description>
+										<content:encoded><![CDATA[
+<p>Urban planning oddities in Pokémon:</p>
+
+
+
+<ul>
+<li>Kanto Route 17: because a steep hill is the perfect place for a Cycling Road.</li>
+
+
+
+<li>Cave lighting and sliding block puzzles are an essential part of a transportation network.</li>
+
+
+
+<li>Hospital-adjacent land is considered prime real estate.</li>
+
+
+
+<li>Thirsty guards are a major source of traffic bottlenecks.</li>
+
+
+
+<li>A nonprofit society needing funding convinced Lavender Town council to rezone their memorial tower for radio use.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The snake fight portion of your thesis defence</title>
+		<link>https://rosschurchley.com/2012/the-snake-fight-portion-of-your-thesis-defence/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Thu, 02 Aug 2012 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=18</guid>
+
+					<description><![CDATA[I defend my thesis in two weeks, but I’ll be prepared for the snake fight portion thanks to McSweeney’s guide. Do I have to kill the snake? University guidelines state that you have to “defeat” the snake. There are many ways to accomplish this. Lots of students choose to wrestle the snake. Some construct decoys [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>I defend my thesis in two weeks, but I’ll be prepared for the snake fight portion thanks to McSweeney’s guide.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>Do I have to kill the snake?</strong></p>
+
+
+
+<p>University guidelines state that you have to “defeat” the snake. There are many ways to accomplish this. Lots of students choose to wrestle the snake. Some construct decoys and elaborate traps to confuse and then ensnare the snake. One student brought a flute and played a song to lull the snake to sleep. Then he threw the snake out a window.</p>
+
+
+
+<p><strong>Are the snakes big?</strong></p>
+
+
+
+<p>We have lots of different snakes. The quality of your work determines which snake you will fight. The better your thesis is, the smaller the snake will be.</p>
+<cite><a href="https://www.mcsweeneys.net/articles/faq-the-snake-fight-portion-of-your-thesis-defense">Luke Burn</a>s</cite></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hotel lobby</title>
+		<link>https://rosschurchley.com/2011/hotel-lobby/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2011 15:24:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=794</guid>
+
+					<description><![CDATA[I was recently told that European hotels are subject to a reduced VAT rate. They must have a big lobby.]]></description>
+										<content:encoded><![CDATA[
+<p>I was recently told that European hotels are subject to a reduced VAT rate. They must have a big lobby.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The mouse problem</title>
+		<link>https://rosschurchley.com/2010/the-mouse-problem/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Thu, 01 Apr 2010 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=14</guid>
+
+					<description><![CDATA[The UK House of Lords recently debated a pest control problem in a scene straight out of a sitcom: My Lords, I do not actually deal with the economy. I am glad to say that that would be above my pay grade, whereas trying to deal with the mice is probably just about right for [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The UK House of Lords <a href="https://parliamentlive.tv/event/index/1b964668-9c77-4190-8693-dab8f51fa39f?in=15:07:44">recently debated</a> a pest control problem in a scene straight out of a sitcom:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>My Lords, I do not actually deal with the economy. I am glad to say that that would be above my pay grade, whereas trying to deal with the mice is probably just about right for me.</p>
+<cite>The Chairman of Committees</cite></blockquote>
+
+
+
+<p>Another choice quote now immortalized in <a href="https://hansard.parliament.uk/Lords/2010-03-03/debates/10030366000716/PalaceOfWestminsterPestControl" type="link" id="https://hansard.parliament.uk//Lords/2010-03-03/debates/10030366000716/PalaceOfWestminsterPestControl">Hansard</a>:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>I invited Members of the House to telephone when they saw mice. The trouble is that when the person at the other end of the helpline goes to check this out, very often the mouse has gone elsewhere.</p>
+<cite>The Chairman of Committees</cite></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fine ants</title>
+		<link>https://rosschurchley.com/2008/fine-ants/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 01 Oct 2008 22:00:00 +0000</pubDate>
+				<category><![CDATA[Comics]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=375</guid>
+
+					<description><![CDATA[<img width="728" height="420" src="https://rosschurchley.com/wp-content/uploads/2024/05/011-fine-ants.png" class="attachment-large size-large wp-post-image" alt="An ant in a top hat and monocle holds a cup of tea and cries &#039;We&#039;re out of cream!&#039; The caption reads &#039;Fine ants crisis&#039;" decoding="async" />]]></description>
+										<content:encoded><![CDATA[<img width="728" height="420" src="https://rosschurchley.com/wp-content/uploads/2024/05/011-fine-ants.png" class="attachment-large size-large wp-post-image" alt="An ant in a top hat and monocle holds a cup of tea and cries &#039;We&#039;re out of cream!&#039; The caption reads &#039;Fine ants crisis&#039;" decoding="async" loading="lazy" />]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Elect Ron</title>
+		<link>https://rosschurchley.com/2008/elect-ron/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2008 22:00:00 +0000</pubDate>
+				<category><![CDATA[Comics]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=377</guid>
+
+					<description><![CDATA[<img width="585" height="337" src="https://rosschurchley.com/wp-content/uploads/2008/09/007-elect-ron.png" class="attachment-large size-large wp-post-image" alt="An election campaign sign reads &#039;Elect Ron: a beta particle for a beta future&#039;" decoding="async" loading="lazy" />]]></description>
+										<content:encoded><![CDATA[<img width="585" height="337" src="https://rosschurchley.com/wp-content/uploads/2008/09/007-elect-ron.png" class="attachment-large size-large wp-post-image" alt="An election campaign sign reads &#039;Elect Ron: a beta particle for a beta future&#039;" decoding="async" loading="lazy" />]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Plato Bismol</title>
+		<link>https://rosschurchley.com/2008/plato-bismol/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2008 22:00:00 +0000</pubDate>
+				<category><![CDATA[Comics]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=373</guid>
+
+					<description><![CDATA[<img width="940" height="363" src="https://rosschurchley.com/wp-content/uploads/2024/05/003-plato-bismol1.png" class="attachment-large size-large wp-post-image" alt="An ad for the fictional product Plato Bismol, with the tagline &#039;For irregular polyhedra&#039;" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/003-plato-bismol1.png 940w, https://rosschurchley.com/wp-content/uploads/2024/05/003-plato-bismol1-800x309.png 800w, https://rosschurchley.com/wp-content/uploads/2024/05/003-plato-bismol1-768x297.png 768w" sizes="(max-width: 940px) 100vw, 940px" />]]></description>
+										<content:encoded><![CDATA[<img width="940" height="363" src="https://rosschurchley.com/wp-content/uploads/2024/05/003-plato-bismol1.png" class="attachment-large size-large wp-post-image" alt="An ad for the fictional product Plato Bismol, with the tagline &#039;For irregular polyhedra&#039;" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/003-plato-bismol1.png 940w, https://rosschurchley.com/wp-content/uploads/2024/05/003-plato-bismol1-800x309.png 800w, https://rosschurchley.com/wp-content/uploads/2024/05/003-plato-bismol1-768x297.png 768w" sizes="(max-width: 940px) 100vw, 940px" />]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Shapes in the plane</title>
+		<link>https://rosschurchley.com/2008/shapes-in-the-plane/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 21 May 2008 22:00:00 +0000</pubDate>
+				<category><![CDATA[Comics]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=388</guid>
+
+					<description><![CDATA[<img width="585" height="801" src="https://rosschurchley.com/wp-content/uploads/2024/05/167-shapes.png" class="attachment-large size-large wp-post-image" alt="A mock movie poster for Shapes in the Plane, with the tagline &#039;Fear is constructible with a ruler and straightedge&#039;" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/167-shapes.png 585w, https://rosschurchley.com/wp-content/uploads/2024/05/167-shapes-438x600.png 438w" sizes="(max-width: 585px) 100vw, 585px" />]]></description>
+										<content:encoded><![CDATA[<img width="585" height="801" src="https://rosschurchley.com/wp-content/uploads/2024/05/167-shapes.png" class="attachment-large size-large wp-post-image" alt="A mock movie poster for Shapes in the Plane, with the tagline &#039;Fear is constructible with a ruler and straightedge&#039;" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/167-shapes.png 585w, https://rosschurchley.com/wp-content/uploads/2024/05/167-shapes-438x600.png 438w" sizes="(max-width: 585px) 100vw, 585px" />]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Geology costume contest</title>
+		<link>https://rosschurchley.com/2007/geology-costume-contest/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 07 Nov 2007 23:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=339</guid>
+
+					<description><![CDATA[Did you hear the one about the geology costume contest? The gneiss guise finished last.]]></description>
+										<content:encoded><![CDATA[
+<p>Did you hear the one about the geology costume contest?</p>
+
+
+
+<p>The gneiss guise finished last.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tanning</title>
+		<link>https://rosschurchley.com/2007/tanning/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 04 Jul 2007 22:00:00 +0000</pubDate>
+				<category><![CDATA[Comics]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=386</guid>
+
+					<description><![CDATA[<img width="1024" height="500" src="https://rosschurchley.com/wp-content/uploads/2024/05/055-jpg.webp" class="attachment-large size-large wp-post-image" alt="A beachgoer lies on a towel next a chalkboard with the expression sin/cos. The caption explains that both are &#039;tanning&#039;." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/055-jpg.webp 1024w, https://rosschurchley.com/wp-content/uploads/2024/05/055-800x391.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/055-768x375.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" />]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="500" src="https://rosschurchley.com/wp-content/uploads/2024/05/055-jpg.webp" class="attachment-large size-large wp-post-image" alt="A beachgoer lies on a towel next a chalkboard with the expression sin/cos. The caption explains that both are &#039;tanning&#039;." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/055-jpg.webp 1024w, https://rosschurchley.com/wp-content/uploads/2024/05/055-800x391.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/055-768x375.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" />]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Beware of Pi</title>
+		<link>https://rosschurchley.com/2007/beware-of-pi/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 18 Apr 2007 22:00:00 +0000</pubDate>
+				<category><![CDATA[Comics]]></category>
+		<category><![CDATA[Humour]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=382</guid>
+
+					<description><![CDATA[<img width="1024" height="500" src="https://rosschurchley.com/wp-content/uploads/2024/05/031-jpg.webp" class="attachment-large size-large wp-post-image" alt="A monster shaped like the Greek letter pi." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/031-jpg.webp 1024w, https://rosschurchley.com/wp-content/uploads/2024/05/031-800x391.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/031-768x375.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" />]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="500" src="https://rosschurchley.com/wp-content/uploads/2024/05/031-jpg.webp" class="attachment-large size-large wp-post-image" alt="A monster shaped like the Greek letter pi." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/031-jpg.webp 1024w, https://rosschurchley.com/wp-content/uploads/2024/05/031-800x391.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/031-768x375.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" />]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

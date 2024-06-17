@@ -12,7 +12,7 @@
 	<atom:link href="https://rosschurchley.com/tag/geography/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Tue, 11 Jun 2024 06:27:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Jun 2024 04:20:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The flags of Australia and New Zealand</title>
+		<link>https://rosschurchley.com/2023/the-flags-of-australia-and-new-zealand/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2023 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Geography]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=345</guid>
+
+					<description><![CDATA[It’s easy to confuse the flags of Australia and Aotearoa New Zealand if your eyes don’t know what to look for. I had always distinguished between the two by the colour of the stars in the Southern Cross, but there’s a much easier way to tell them apart at lower resolution: AUS has a giant [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>It’s easy to confuse the flags of Australia and Aotearoa New Zealand if your eyes don’t know what to look for. </p>
+
+
+
+<p>I had always distinguished between the two by the colour of the stars in the Southern Cross, but there’s a much easier way to tell them apart at lower resolution: AUS has a giant extra star in the lower left quadrant.</p>
+
+
+
+<p>AUS <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f1e6-1f1fa.png" alt="🇦🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>NZL <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f1f3-1f1ff.png" alt="🇳🇿" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Know your watershed</title>
 		<link>https://rosschurchley.com/2023/know-your-watershed/</link>
 		
@@ -323,6 +349,62 @@ function pointToLayer (feature, latlng) {
 
 <p>The line about falling asleep is, of course, a request for the romantic interest to skip their usual afternoon nap, since China Airlines flight 124 arrives at 11:35am.</p>
 ]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The renaming of Kulshan</title>
+		<link>https://rosschurchley.com/2017/the-renaming-of-kulshan/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Mon, 25 Dec 2017 23:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Geography]]></category>
+		<category><![CDATA[History]]></category>
+		<category><![CDATA[Language]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=295</guid>
+
+					<description><![CDATA[Mount Baker was named by George Vancouver after his third lieutenant, who was the first on his ship to see it. Although the name is better than a few others in the Pacific Northwest, being the first person to see a giant mountain isn&#8217;t a particularly notable claim to fame. Especially when you have to [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://en.wikipedia.org/wiki/Mount_Baker">Mount Baker</a> was named by George Vancouver after his third lieutenant, who was the first on his ship to see it.</p>
+
+
+
+<p>Although the name is better than a few others in the Pacific Northwest, being the first person to see a giant mountain isn&#8217;t a particularly notable claim to fame. Especially when you have to ignore not only tens of thousands of people who lived there but also the Spaniards who had <a href="https://text-message.blogs.archives.gov/2017/10/12/225-years-ago-spanish-explorations-of-the-pacific-northwest-and-the-first-spanish-settlement-in-washington-state-nunez-gaona-neah-bay-1792-part-ii-spanish-explorations-of-the-pacific-northwest-a/">gotten there the year prior</a>.</p>
+
+
+
+<span id="more-295"></span>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2017/12/kulshan-carmelo.webp" alt="A mountain labeled &quot;La gran montaña de Carmelo&quot; drawn on a historic map" class="wp-image-736" srcset="https://rosschurchley.com/wp-content/uploads/2017/12/kulshan-carmelo.webp 1600w, https://rosschurchley.com/wp-content/uploads/2017/12/kulshan-carmelo-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2017/12/kulshan-carmelo-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2017/12/kulshan-carmelo-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">The mountain drawn on an early Spanish map of the Juan de Fuca Strait.</figcaption></figure>
+
+
+
+<p>The mountain appears as <em>la gran montaña del Carmelo</em> on <a href="https://doi.org/10.58066/a0dr-8a54">a map</a> drawn by Gonzalo Lopez de Haro, first pilot on Manuel Quimper’s six-week expedition to the Juan de Fuca strait. The Spanish name is apparently a reference to a religious order whose white cloaks resembled the snow-capped peak. Who knows, if the <a href="https://en.wikipedia.org/wiki/Nootka_Crisis">Nootka Crisis</a> had been resolved differently, it&#8217;s entirely possible that Europeans would have ended up calling it Monte Carmelo.</p>
+
+
+
+<p>Instead, the name Mount Baker stuck after Vancouver described it in his published memoir.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>About this time a very high conspicuous craggy mountain … presented itself, towering above the clouds: as low down as they allowed it to be visible it was covered with snow; and south of it, was a long ridge of very rugged snowy mountains, much less elevated, which seemed to stretch to a considerable distance … the high distant land formed, as already observed, like detached islands, amongst which the lofty mountain, discovered in the afternoon by the third lieutenant, and in compliment to him called by me Mount Baker, rose a very conspicuous object … apparently at a very remote distance.</p>
+<cite><a href="https://archive.org/details/voyageofdiscover01vanc">George Vancouver</a></cite></blockquote>
+
+
+
+<p>Vancouver&#8217;s diary mentions encounters with different indigenous groups of the area, some friendly and some indifferent,<sup data-fn="0937946a-e2f5-41a5-a34d-1a7e0e7ece3c" class="fn"><a href="#0937946a-e2f5-41a5-a34d-1a7e0e7ece3c" id="0937946a-e2f5-41a5-a34d-1a7e0e7ece3c-link">1</a></sup> but he never stuck around in the same place long enough to learn their names or pick up their languages.<sup data-fn="a1b0c471-c99e-4b0f-96d6-d75194ae94e2" class="fn"><a href="#a1b0c471-c99e-4b0f-96d6-d75194ae94e2" id="a1b0c471-c99e-4b0f-96d6-d75194ae94e2-link">2</a></sup> If he had, he might have recognized Mount Baker by the name <em>kwelshan</em>, <a href="http://arcadianabe.blogspot.com/2012/12/koma-kulshan-mysterious-mountain-moniker.html">the term used</a> by the Lhaq&#8217;temish (Lummi) people around Bellingham and the San Juan Islands, or <em>swáʔlәx̣</em>, <a href="https://lingpapers.sites.olt.ubc.ca/#icsnl-xxxii-1997-25">reportedly used</a> by the nəxʷsƛ̕áy̕əm̕ (Klallam) people on the Olympic Peninsula.</p>
+
+
+
+<p>The mountain itself is surrounded by the traditional lands of the Nooksack and Upper Skagit peoples. The Nooksack use <em>kwelshán</em> for the high open slopes of the mountain and <em>kweq’ smánit</em> for the glacier-covered summit.</p>
+
+
+<ol class="wp-block-footnotes"><li id="0937946a-e2f5-41a5-a34d-1a7e0e7ece3c">George Vancouver recorded people who &#8220;seemed to view us with the utmost indifference and unconcern… as if such vessels had been familiar to them, and unworthy of their attention&#8221;, but didn&#8217;t note the contradiction between this and his racistly-worded claim that he had &#8220;advanced further up this inlet than… any other person from the civilized world&#8221;. <a href="#0937946a-e2f5-41a5-a34d-1a7e0e7ece3c-link" aria-label="Jump to footnote reference 1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li><li id="a1b0c471-c99e-4b0f-96d6-d75194ae94e2">Vancouver claimed that his crew had &#8220;some knowledge of&#8221; <a href="https://en.wikipedia.org/wiki/Nuu-chah-nulth_language">nuučaan̓uɫ</a> from the Island&#8217;s west coast, but that&#8217;s from a <a href="https://en.wikipedia.org/wiki/Wakashan_languages">different language family</a> from the <a href="https://en.wikipedia.org/wiki/Salishan_languages">Salishan languages</a> spoken around the strait. <a href="#a1b0c471-c99e-4b0f-96d6-d75194ae94e2-link" aria-label="Jump to footnote reference 2"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li></ol>]]></content:encoded>
 					
 		
 		

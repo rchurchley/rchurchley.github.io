@@ -12,7 +12,7 @@
 	<atom:link href="https://rosschurchley.com/tag/vancouver/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Sun, 09 Jun 2024 07:59:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Jun 2024 04:23:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Vancouver train stations</title>
+		<link>https://rosschurchley.com/2023/vancouver-train-stations/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 01:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Vancouver]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=810</guid>
+
+					<description><![CDATA[Today I learned the reason why Vancouver has two impressive-looking historic train stations: they were built by two different companies to serve as the terminus of two different railways. Waterfront station was built in 1914 for the Canadian Pacific Railway, while Pacific Central Station was built a few years later for the Canadian Northern Railway. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Today I learned the reason why Vancouver has two impressive-looking historic train stations: they were built by two different companies to serve as the terminus of two different railways.</p>
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/Waterfront_station_(Vancouver)">Waterfront station</a> was built in 1914 for the <a href="https://en.wikipedia.org/wiki/Canadian_Pacific_Railway">Canadian Pacific Railway</a>, while <a href="https://en.wikipedia.org/wiki/Pacific_Central_Station">Pacific Central Station</a> was built a few years later for the <a href="https://en.wikipedia.org/wiki/Canadian_Northern_Railway">Canadian Northern Railway</a>.<sup data-fn="93b38774-a02a-411e-b8a5-c0dc9674c4e5" class="fn"><a href="#93b38774-a02a-411e-b8a5-c0dc9674c4e5" id="93b38774-a02a-411e-b8a5-c0dc9674c4e5-link">1</a></sup></p>
+
+
+
+<p>Anyways, neither station is currently used by the company that built it, with Waterfront Station serving as the regional public transit hub and Pacific Central Station used by Via Rail, Amtrak, and various intercity bus companies.</p>
+
+
+<ol class="wp-block-footnotes"><li id="93b38774-a02a-411e-b8a5-c0dc9674c4e5">Canadian Northern was nationalized as Canadian National Railways, then privatized as CN, and now apparently <a href="https://www.sec.gov/Archives/edgar/data/16868/000110465922064857/tm2216989d1_sc13da.htm">Bill Gates is the company&#8217;s largest shareholder</a>? I did not expect that. <a href="#93b38774-a02a-411e-b8a5-c0dc9674c4e5-link" aria-label="Jump to footnote reference 1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li></ol>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Buntzen Power Station</title>
 		<link>https://rosschurchley.com/2023/buntzen-power-station/</link>
 		
@@ -73,6 +101,7 @@
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Tue, 01 Mar 2016 23:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Urban planning]]></category>
 		<category><![CDATA[Vancouver]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=291</guid>
 

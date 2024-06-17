@@ -12,7 +12,7 @@
 	<atom:link href="https://rosschurchley.com/tag/law/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Sun, 02 Jun 2024 07:18:36 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Jun 2024 04:16:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -84,6 +84,62 @@
 
 <p>Unfortunately, I have not been able to find records of anyone litigating over a scent trademark.</p>
 ]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pianos do not sing</title>
+		<link>https://rosschurchley.com/2015/pianos-do-not-sing/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2015 10:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Law]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=283</guid>
+
+					<description><![CDATA[Rupa Marya v. Warner Chappell Music was fought over the copyright status of the song &#8220;Happy Birthday to You&#8220;. A key factor in the order for summary judgement came in this all-time great quote: Obviously, pianos do not sing. At the time of lawsuit, Warner was collecting royalties — around $2 million a year — [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><em>Rupa Marya v. Warner Chappell Music</em> was fought over the copyright status of the song &#8220;<a href="https://en.wikipedia.org/wiki/Happy_Birthday_to_You">Happy Birthday to You</a>&#8220;. A key factor in the order for summary judgement came in this all-time great quote:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>Obviously, pianos do not sing.</p>
+</blockquote>
+
+
+
+<span id="more-283"></span>
+
+
+
+<p>At the time of lawsuit, Warner was collecting royalties — around $2 million a year — for &#8220;Happy Birthday to You&#8221; despite the fact that the melody<sup data-fn="2732db1e-a16a-48f1-8f6b-48de02c94470" class="fn"><a href="#2732db1e-a16a-48f1-8f6b-48de02c94470" id="2732db1e-a16a-48f1-8f6b-48de02c94470-link">1</a></sup> was in the American public domain. They claimed that the lyrics were still under copyright and that they owned the rights to them.</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="866" height="297" src="https://rosschurchley.com/wp-content/uploads/2015/09/happy-birthday-music.webp" alt="Sheet music for Happy Birthday to You" class="wp-image-688" srcset="https://rosschurchley.com/wp-content/uploads/2015/09/happy-birthday-music.webp 866w, https://rosschurchley.com/wp-content/uploads/2015/09/happy-birthday-music-800x274.webp 800w, https://rosschurchley.com/wp-content/uploads/2015/09/happy-birthday-music-768x263.webp 768w" sizes="(max-width: 866px) 100vw, 866px" /></figure>
+
+
+
+<p>Although Warner had acquired <em>some</em> &#8220;Happy Birthday&#8221;-related rights, it wasn&#8217;t clear what those rights covered since the original transfer agreements had been lost. This presented some difficulty for Warner&#8217;s argument, which required them to prove that their rights included the lyrics specifically. Since the agreement had been described as covering &#8220;piano arrangements&#8221;, the judge reasoned:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>Obviously, pianos do not sing. Thus, it is not logical to infer that rights to &#8220;piano arrangements&#8221; would include rights to any lyrics or words at all.</p>
+<cite><a href="https://www.courtlistener.com/docket/4150219/rupa-marya-v-warner-chappell-music-inc/">George H King</a></cite></blockquote>
+
+
+
+<p>The final ruling was that Warner could not prove that it owned the copyright to the &#8220;Happy Birthday to You&#8221; lyrics, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1111624#">assuming they were still under copyright at all</a>. Settlement terms following the summary judgement definitively assigned the song to the American public domain.</p>
+
+
+
+<p>As far as I can tell, the European copyright to both the &#8220;Happy Birthday&#8221; lyrics and melody would have been still valid, albeit with disputed ownership, until it expired in 2017. Meanwhile here in Canada, the song had already passed to the public domain in 1997.</p>
+
+
+<ol class="wp-block-footnotes"><li id="2732db1e-a16a-48f1-8f6b-48de02c94470">The song was originally published as &#8220;Good Morning to All&#8221; with different lyrics. <a href="#2732db1e-a16a-48f1-8f6b-48de02c94470-link" aria-label="Jump to footnote reference 1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li></ol>]]></content:encoded>
 					
 		
 		

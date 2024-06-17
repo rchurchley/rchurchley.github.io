@@ -12,7 +12,7 @@
 	<atom:link href="https://rosschurchley.com/tag/math/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Tue, 11 Jun 2024 07:57:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Jun 2024 04:17:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,166 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>216</title>
+		<link>https://rosschurchley.com/2023/216/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2023 23:00:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Math]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=163</guid>
+
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image.png" class="attachment-large size-large wp-post-image" alt="An exploded-view diagram of a cube broken into interior, faces, edges, and corners." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image.png 1600w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-800x450.png 800w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-768x432.png 768w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-1536x864.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />A while ago I arbitrarily decided that I needed a favourite three-digit number (don’t ask) and ended up choosing 216. It’s a nice cube number —&#160;6×6×6&#160;— and can also be expressed as a sum of three smaller cubes: The&#160;Wikipedia article for the number&#160;has&#160;a diagram&#160;showing one way to reassemble a 6×6×6 cube into three smaller cubes, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image.png" class="attachment-large size-large wp-post-image" alt="An exploded-view diagram of a cube broken into interior, faces, edges, and corners." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image.png 1600w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-800x450.png 800w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-768x432.png 768w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-1536x864.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
+<p>A while ago I arbitrarily decided that I needed a favourite three-digit number (don’t ask) and ended up choosing 216. It’s a nice cube number —&nbsp;6×6×6&nbsp;— and can also be expressed as a sum of three smaller cubes:</p>
+
+
+
+<div class="wp-block-katex-display-block katex-eq" data-katex-display="true"><pre>6^3 = 5^3 + 4^3 + 3^3</pre></div>
+
+
+
+<span id="more-163"></span>
+
+
+
+<p>The&nbsp;<a href="https://en.wikipedia.org/wiki/216_(number)">Wikipedia article for the number</a>&nbsp;has&nbsp;<a href="https://commons.wikimedia.org/wiki/File:Plato_number.svg">a diagram</a>&nbsp;showing one way to reassemble a 6×6×6 cube into three smaller cubes, but I’ve been playing around looking for other, more aesthetically pleasing methods. Here’s one I found.</p>
+
+
+
+<p>First, we break the 6×6×6 cube into its 4×4×4 interior, six 4×4×1 faces, twelve 4×1×1 edges, and eight 1×1×1 corners<sup data-fn="3dde39ee-627c-411e-9090-1effecda7ff5" class="fn"><a href="#3dde39ee-627c-411e-9090-1effecda7ff5" id="3dde39ee-627c-411e-9090-1effecda7ff5-link">1</a></sup>: i.e.,</p>
+
+
+
+<div class="wp-block-katex-display-block katex-eq" data-katex-display="true"><pre>6^3 = 4^3 + 6\cdot 4^2 + 12\cdot 4^1 + 8 \cdot 4^0</pre></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async"  src="https://rosschurchley.com/wp-content/uploads/2024/05/216.svg" alt="An exploded-view diagram of a cube separated into an interior, faces, edges, and corners." class="wp-image-208"/><figcaption class="wp-element-caption">Decomposing the cube according to its polytope boundaries.</figcaption></figure>
+
+
+
+<p>The 4×4×1 faces can be combined with seven of the edges and one of the corners to build a 5×5×5 cube. The remaining five edges can be split into ten 2×1×1 chunks and arranged with the remaining seven corners to form a 3×3×3 cube.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async"  src="https://rosschurchley.com/wp-content/uploads/2024/05/rearrange.svg" alt="An exploded-view diagram of a 3×3×3 cube and a 5×5×5 cube using the pieces of the 6×6×6 cube from before." class="wp-image-209"/><figcaption class="wp-element-caption">Rearranging the pieces into smaller cubes.</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async"  src="https://rosschurchley.com/wp-content/uploads/2024/05/cubes.svg" alt="The unexploded view of the 3×3×3, 4×4×4, and 5×5×5 cubes made from the pieces of the 6×6×6 cube." class="wp-image-210"/><figcaption class="wp-element-caption">The final three cubes.</figcaption></figure>
+
+
+
+<p>There are many more ways to construct three cubes from the pieces of a 6×6×6 cube. What’s your favourite?</p>
+
+
+<ol class="wp-block-footnotes"><li id="3dde39ee-627c-411e-9090-1effecda7ff5">As an aside, this decomposition can be done with any size cube and even in any number of dimensions. An <em>n</em>-dimensional <a href="https://en.wikipedia.org/wiki/Hypercube">hypercube</a> of size <em>x</em>≥2 breaks into <em>k</em>-dimensional <a href="https://en.wikipedia.org/wiki/Polytope">polytope</a> boundary chunks as <em>x</em><sup><em>n</em></sup><strong> </strong>=<strong> </strong>∑​<strong> </strong>2<sup><em>n</em>−<em>k</em></sup><strong> </strong>C(<em>n</em>,<strong> </strong><em>k</em>)<strong> </strong>(<em>x</em>−2)<sup><em>k</em></sup> , where C(<em>n</em>,<strong> </strong><em>k</em>) is the <a href="https://en.wikipedia.org/wiki/Binomial_coefficient">binomial coefficient</a>. <a href="#3dde39ee-627c-411e-9090-1effecda7ff5-link" aria-label="Jump to footnote reference 1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li></ol>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rule of twelfths</title>
+		<link>https://rosschurchley.com/2022/rule-of-twelfths/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Fri, 20 May 2022 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Math]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=126</guid>
+
+					<description><![CDATA[You can get a really good approximation of a sinusoidal curve from twelve equally-spaced line segments of slope 1/12, 2/12, 3/12, 3/12, 2/12, 1/12, -1/12, -2/12, -3/12, -3/12, -2/12, and -1/12, respectively. This approximation, known as the&#160;rule of twelfths, rounds&#160;√3≈5/3​&#160;but otherwise uses exact values along the curve. I learned about the rule of twelfths from [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>You can get a really good approximation of a sinusoidal curve from twelve equally-spaced line segments of slope 1/12, 2/12, 3/12, 3/12, 2/12, 1/12, -1/12, -2/12, -3/12, -3/12, -2/12, and -1/12, respectively.</p>
+
+
+
+<p>This approximation, known as the&nbsp;<a href="https://en.wikipedia.org/wiki/Rule_of_twelfths">rule of twelfths</a>, rounds&nbsp;√3≈5/3​&nbsp;but otherwise uses exact values along the curve.</p>
+
+
+
+<span id="more-126"></span>
+
+
+
+<figure class="wp-block-wp-chrosyblocks-vega-chart"><div class="chart" data-vega-spec="{
+  &quot;$schema&quot;: &quot;https://vega.github.io/schema/vega-lite/v5.json&quot;,
+  &quot;layer&quot;: [
+    {
+      &quot;data&quot;: {
+        &quot;sequence&quot;: { &quot;start&quot;: 0, &quot;stop&quot;: 12.1, &quot;step&quot;: 0.1, &quot;as&quot;: &quot;x&quot; }
+      },
+      &quot;transform&quot;: [
+        { &quot;calculate&quot;: &quot;(12 - 12*cos(datum.x * 2*PI / 12))/2&quot;, &quot;as&quot;: &quot;cos(x)&quot; },
+        { &quot;fold&quot;: [&quot;cos(x)&quot;] }
+      ],
+      &quot;mark&quot;: { &quot;type&quot;: &quot;line&quot; },
+      &quot;encoding&quot;: {
+        &quot;x&quot;: { &quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;x&quot; },
+        &quot;y&quot;: { &quot;field&quot;: &quot;value&quot;, &quot;type&quot;: &quot;quantitative&quot; }
+      }
+    },
+    {
+      &quot;data&quot;: { &quot;values&quot;: [
+        { &quot;x&quot;: 0, &quot;value&quot;: 0 },
+        { &quot;x&quot;: 1, &quot;value&quot;: 1 },
+        { &quot;x&quot;: 2, &quot;value&quot;: 3 },
+        { &quot;x&quot;: 3, &quot;value&quot;: 6 },
+        { &quot;x&quot;: 4, &quot;value&quot;: 9 },
+        { &quot;x&quot;: 5, &quot;value&quot;: 11 },
+        { &quot;x&quot;: 6, &quot;value&quot;: 12 },
+        { &quot;x&quot;: 7, &quot;value&quot;: 11 },
+        { &quot;x&quot;: 8, &quot;value&quot;: 9 },
+        { &quot;x&quot;: 9, &quot;value&quot;: 6 },
+        { &quot;x&quot;: 10, &quot;value&quot;: 3 },
+        { &quot;x&quot;: 11, &quot;value&quot;: 1 },
+        { &quot;x&quot;: 12, &quot;value&quot;: 0 }
+      ] },
+      &quot;mark&quot;: { &quot;type&quot;: &quot;line&quot;, &quot;interpolate&quot;: &quot;linear&quot;, &quot;point&quot;: true },
+      &quot;encoding&quot;: {
+        &quot;x&quot;: { &quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;x&quot; },
+        &quot;y&quot;: { &quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;value&quot; }
+      }
+    }
+  ],
+  &quot;encoding&quot;: {
+    &quot;x&quot;: {
+      &quot;axis&quot;: {
+        &quot;grid&quot;: true,
+        &quot;tickCount&quot;: 12,
+        &quot;labelExpr&quot;: &quot;datum.label + '/12'&quot;
+      }
+    },
+    &quot;y&quot;: {
+      &quot;axis&quot;: {
+        &quot;grid&quot;: true,
+        &quot;tickCount&quot;: 12,
+        &quot;labelExpr&quot;: &quot;datum.label + '/12'&quot;
+      }
+    },
+    &quot;color&quot;: {
+      &quot;field&quot;: &quot;key&quot;,
+      &quot;type&quot;: &quot;nominal&quot;,
+      &quot;title&quot;: null,
+      &quot;legend&quot;: null
+    }
+  }
+}" data-vega-data="{}"></div><figcaption>The rule of twelfths approximates points on&nbsp;(1−cos(2πx))/2.</figcaption></figure>
+
+
+
+<p>I learned about the rule of twelfths from a kayaking instructor and guide, who used it to estimate the tides. In locations and seasons with a&nbsp;<a href="https://oceanservice.noaa.gov/education/tutorial_tides/tides07_cycles.html">semidiurnal tide pattern</a>, the period of the tide is roughly 12 hours, and the rule of twelfths tells you what the water will be doing in each hour.</p>
+
+
+
+<p>For example, if you know that the difference between low and high tide is 3 feet, then you can quickly estimate that it the tide will rise by about 3 inches in the first hour, 6 inches in the second, 9 inches in the third and fourth, 6 inches in the fifth hour, and 3 inches in the last hour before high tide.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>How to catch legendary Pokémon (in practice)</title>
 		<link>https://rosschurchley.com/2018/how-to-catch-legendary-pokemon-with-electrical-networks/</link>
 		
@@ -38,8 +198,8 @@
 		<category><![CDATA[Pokémon]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=301</guid>
 
-					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou.webp" class="attachment-large size-large wp-post-image" alt="The roaming Pokémon Raikou, depicted in the style of the cover Bonato and Nowakowski&#039;s Cops and Robbers textbook." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou.webp 1600w, https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Pokémon Gold and Silver&#8216;s roaming legendary beasts move randomly from route to route instead of sticking to a fixed habitat. By analyzing their behaviour using the math of random walks on graphs, I can finally answer a question that&#8217;s bugged me since childhood: what&#8217;s the best strategy to find a roaming Pokémon as quickly as [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou.webp" class="attachment-large size-large wp-post-image" alt="The roaming Pokémon Raikou, depicted in the style of the cover Bonato and Nowakowski&#039;s Cops and Robbers textbook." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou.webp 1600w, https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou.webp" class="attachment-large size-large wp-post-image" alt="The roaming Pokémon Raikou, depicted in the style of the cover Bonato and Nowakowski&#039;s Cops and Robbers textbook." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou.webp 1600w, https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Pokémon Gold and Silver&#8216;s roaming legendary beasts move randomly from route to route instead of sticking to a fixed habitat. By analyzing their behaviour using the math of random walks on graphs, I can finally answer a question that&#8217;s bugged me since childhood: what&#8217;s the best strategy to find a roaming Pokémon as quickly as [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou.webp" class="attachment-large size-large wp-post-image" alt="The roaming Pokémon Raikou, depicted in the style of the cover Bonato and Nowakowski&#039;s Cops and Robbers textbook." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou.webp 1600w, https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/12/how-to-catch-legendary-pokemon-raikou-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p><em>Pokémon Gold</em> and <em>Silver</em>&#8216;s roaming legendary beasts move randomly from route to route instead of sticking to a fixed habitat. By analyzing their behaviour using the math of random walks on graphs, I can finally answer a question that&#8217;s bugged me since childhood: what&#8217;s the best strategy to find a roaming Pokémon as quickly as possible?</p>
 
 
@@ -402,6 +562,72 @@ def hitting_time(routes, u, v):
 		
 			</item>
 		<item>
+		<title>A brickwork fractal</title>
+		<link>https://rosschurchley.com/2018/a-brickwork-fractal/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sun, 04 Feb 2018 23:00:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Math]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=299</guid>
+
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal.webp" class="attachment-large size-large wp-post-image" alt="A tiling made from 1×1, 2×2, and 1×2 bricks, with no four meeting at the same point." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal.webp 1600w, https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Brick pavements and tatami mats are traditionally laid out so that no four meet at a single point to form a ┼ shape. Only a few ┼-free patterns can be made using 1×1 and 1×2 tiles, but the addition of 2×2 tiles provides a lot more creative flexibility. When I discussed tatami tilings with my [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal.webp" class="attachment-large size-large wp-post-image" alt="A tiling made from 1×1, 2×2, and 1×2 bricks, with no four meeting at the same point." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal.webp 1600w, https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
+<p>Brick pavements and tatami mats are traditionally laid out so that no four meet at a single point to form a ┼ shape. Only a few ┼-free patterns can be made using 1×1 and 1×2 tiles, but the addition of 2×2 tiles provides a <em>lot</em> more creative flexibility.</p>
+
+
+
+<span id="more-299"></span>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="256" src="https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-yaletown-bricks.webp" alt="Bricks laid out in various traditional patterns." class="wp-image-686" srcset="https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-yaletown-bricks.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-yaletown-bricks-768x246.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Three ┼-free brickwork sections laid out in the stretcher bond, herringbone, and pinwheel patterns, respectively.</figcaption></figure>
+
+
+
+<p>When I discussed <a href="https://rosschurchley.com/2013/tatami-tilings/">tatami tilings</a> with my relative <a href="https://www.jolinton.co.uk/">Oliver Linton</a>, he suggested applying similar rules to other brick sizes to make beautiful tiling patterns. The tatami condition alone does not provide enough of a constraint to mathematically analyze tilings with arbitrary shapes and sizes, but it is a good starting point when looking for interesting patterns.</p>
+
+
+
+<p>With the addition of 2&#215;2 square tiles, it&#8217;s possible to construct rectangular blocks that fit together to tesselate the plane while preserving the four-corner rule.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="630" height="280" src="https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-boundaries-wall.svg" alt="A stretcher bond pattern, with the outline of each brick made of 1×2 and 2×2 tiles." class="wp-image-687"/><figcaption class="wp-element-caption">Copies of the same rectangular block can cover the plane without four-corner intersections.</figcaption></figure>
+
+
+
+<p>This opens the door to self-similar tilings, which I&#8217;m very interested in! The goal is to use 1×1, 1×2, and 2×2 tiles to construct <em>n</em>×<em>n</em>, <em>n</em>×2<em>n</em>, and 2<em>n</em>×2<em>n</em> blocks which can be put together in the exact same way to make increasingly intricate <em>nᵏ</em>×<em>nᵏ</em> tilings that maintain the tatami condition.</p>
+
+
+
+<p>The simplest non-trivial example I could find involves a set of 5×5, 10×10, and two 5×10 rectangular tilings.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="802" height="288" src="https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-tiles.svg" alt="Two square and two 1×2 rectangular shapes covered by 1×1, 1×2, and 2×2 tiles satisfying the tatami condition." class="wp-image-697"/><figcaption class="wp-element-caption">Four tilings of rectangles with the same aspect ratios as the bricks they comprise.</figcaption></figure>
+
+
+
+<p>Starting with any of these four layouts, we can replace each of the 1×1, 2×2, and 1×2 bricks with a corresponding 5×5, 10×10, or 5×10 rectangular tiling in the correct orientation. (This will produce a few four-corner intersections, but we can fix these by merging adjacent pairs of 1×2 bricks.)</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1312" height="502" src="https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-iteration.svg" alt="Square and rectangular patterns made of square and rectangular tiles in tatami arrangements." class="wp-image-685"/><figcaption class="wp-element-caption">The first recursive iteration of our tiling sequence.</figcaption></figure>
+
+
+
+<p>Repeatedly performing this operation gives an infinite sequence of tilings, but can we say they converge to anything? A tiling <em>T</em> can be identified with its outline ∂<em>T</em> (i.e. the set of points on boundaries between two or more tiles). Note that if a point is in ∂<em><em>Tᵢ</em></em>, then it will be in every subsequent ∂<em>Tⱼ</em> unless it is one of the few bricks merged in ∂<em>Tᵢ</em>₊₁. So we might sensibly define the limiting object of the tiling sequence <em><em>Tᵢ</em></em> as the union ⋃ᵢ (∂<em>Tᵢ</em> ∩ ∂<em>Tᵢ</em>₊₁). This self-similar dense path-connected set satisfies the topological equivalent of the &#8220;four corners rule&#8221; — a pretty interesting list of mathematical properties!</p>
+
+
+
+<p>The same strategy could be applied to other sets of (2<em>n</em>+1)×(2<em>n</em>+1), (4<em>n</em>+2)×(4<em>n</em>+2), and (2<em>n</em>+1)×(4<em>n</em>+2) tiles with similar boundaries. What&#8217;s the prettiest brickwork fractal you can find?</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>A submodular measure and approximate Gomory-Hu theorem for packing odd trails</title>
 		<link>https://rosschurchley.com/2018/a-submodular-measure-and-approximate-gomory-hu-theorem-for-packing-odd-trails/</link>
 		
@@ -545,7 +771,7 @@ def hitting_time(routes, u, v):
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/tatami-patterns.webp" alt="Two traditional tatami layouts." class="wp-image-622" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/tatami-patterns.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/tatami-patterns-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/tatami-patterns-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/tatami-patterns-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">Two traditional tatami layouts. The layout on the left follows the no-four-corners rule of <em>shūgishiki</em>. The grid layout on the right is a <em>bushūgishiki</em>, a &#8220;layout for sad occasions&#8221;.</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/tatami-patterns.webp" alt="Two traditional tatami layouts." class="wp-image-622" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/tatami-patterns.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/tatami-patterns-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/tatami-patterns-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/tatami-patterns-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">Two traditional tatami layouts. The layout on the left follows the no-four-corners rule of <em>shūgishiki</em>. The grid layout on the right is a <em>bushūgishiki</em>, a &#8220;layout for sad occasions&#8221;.</figcaption></figure>
 
 
 

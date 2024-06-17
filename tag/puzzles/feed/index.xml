@@ -12,7 +12,7 @@
 	<atom:link href="https://rosschurchley.com/tag/puzzles/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Tue, 11 Jun 2024 07:52:02 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Jun 2024 07:07:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,527 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Connections: the crossword</title>
+		<link>https://rosschurchley.com/2024/connections-crossword/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sun, 16 Jun 2024 07:13:14 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Puzzles]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=848</guid>
+
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/06/cover.png" class="attachment-large size-large wp-post-image" alt="A mock NYT Connections puzzle solution whose answers are related to crosswords or puzzles in some way." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2024/06/cover.png 1600w, https://rosschurchley.com/wp-content/uploads/2024/06/cover-800x450.png 800w, https://rosschurchley.com/wp-content/uploads/2024/06/cover-768x432.png 768w, https://rosschurchley.com/wp-content/uploads/2024/06/cover-1536x864.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />My daily routine nowadays includes two word puzzles: the Puzzmo/AVCX crossword and the The New York Times&#8217; new game Connections. That&#8217;s inspired me to see if I could create a hybrid of the two. Here&#8217;s what I came up with. The following is a normal American-style crossword puzzle — no cryptic clues this time — [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/06/cover.png" class="attachment-large size-large wp-post-image" alt="A mock NYT Connections puzzle solution whose answers are related to crosswords or puzzles in some way." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2024/06/cover.png 1600w, https://rosschurchley.com/wp-content/uploads/2024/06/cover-800x450.png 800w, https://rosschurchley.com/wp-content/uploads/2024/06/cover-768x432.png 768w, https://rosschurchley.com/wp-content/uploads/2024/06/cover-1536x864.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
+<p>My daily routine nowadays includes two word puzzles: the <a href="https://www.puzzmo.com/">Puzzmo</a>/<a href="https://avxwords.com/">AVCX</a> crossword and the <em>The New York Times&#8217;</em> new game <a href="https://en.wikipedia.org/wiki/The_New_York_Times_Connections">Connections</a>. That&#8217;s inspired me to see if I could create a hybrid of the two.</p>
+
+
+
+<span id="more-848"></span>
+
+
+
+<p>Here&#8217;s what I came up with. The following is a normal American-style <a href="https://en.wikipedia.org/wiki/Crossword">crossword puzzle</a> — no cryptic clues <a href="https://rosschurchley.com/2022/legends-a-pokemon-themed-cryptic-crossword/">this time</a> — with 24 seven-letter answers. Once you&#8217;re done solving the crossword, write down the seven-letter entries and see if you can group them into six categories of four words each, like a jumbo-sized version of Connections. Good luck!</p>
+
+
+
+<figure class="wp-block-wp-chrosyblocks-crossword"><div class="crossword" data-puzzle="{
+  &quot;across&quot;: {
+    &quot;1&quot;: {
+      &quot;answer&quot;: &quot;ARSENIC&quot;,
+      &quot;clue&quot;: &quot;Deadly poison — but an essential trace mineral in rats, goats, and birds&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 0
+    },
+    &quot;7&quot;: {
+      &quot;answer&quot;: &quot;VARIOUS&quot;,
+      &quot;clue&quot;: &quot;_______ artists (compilation album credit)&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 8
+    },
+    &quot;13&quot;: {
+      &quot;answer&quot;: &quot;VIP&quot;,
+      &quot;clue&quot;: &quot;One given special treatment&quot;,
+      &quot;row&quot;: 1,
+      &quot;col&quot;: 0
+    },
+    &quot;14&quot;: {
+      &quot;answer&quot;: &quot;HCL&quot;,
+      &quot;clue&quot;: &quot;Chemical symbol for stomach acid&quot;,
+      &quot;row&quot;: 1,
+      &quot;col&quot;: 4
+    },
+    &quot;15&quot;: {
+      &quot;answer&quot;: &quot;IRE&quot;,
+      &quot;clue&quot;: &quot;Anger&quot;,
+      &quot;row&quot;: 1,
+      &quot;col&quot;: 8
+    },
+    &quot;16&quot;: {
+      &quot;answer&quot;: &quot;INK&quot;,
+      &quot;clue&quot;: &quot;Substance used by squid to get away&quot;,
+      &quot;row&quot;: 1,
+      &quot;col&quot;: 12
+    },
+    &quot;17&quot;: {
+      &quot;answer&quot;: &quot;OOF&quot;,
+      &quot;clue&quot;: &quot;On a beach vacation, in Microsoft-speak&quot;,
+      &quot;row&quot;: 2,
+      &quot;col&quot;: 0
+    },
+    &quot;18&quot;: {
+      &quot;answer&quot;: &quot;SEAWEED&quot;,
+      &quot;clue&quot;: &quot;Nori&quot;,
+      &quot;row&quot;: 2,
+      &quot;col&quot;: 4
+    },
+    &quot;20&quot;: {
+      &quot;answer&quot;: &quot;LIE&quot;,
+      &quot;clue&quot;: &quot;Alternative fact&quot;,
+      &quot;row&quot;: 2,
+      &quot;col&quot;: 12
+    },
+    &quot;21&quot;: {
+      &quot;answer&quot;: &quot;IOT&quot;,
+      &quot;clue&quot;: &quot;Acronym describing toasters with network connections&quot;,
+      &quot;row&quot;: 3,
+      &quot;col&quot;: 6
+    },
+    &quot;22&quot;: {
+      &quot;answer&quot;: &quot;ADJ&quot;,
+      &quot;clue&quot;: &quot;Desc. word&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 0
+    },
+    &quot;25&quot;: {
+      &quot;answer&quot;: &quot;ARMENIA&quot;,
+      &quot;clue&quot;: &quot;Childhood home of Yuri Oganessian, namesake of element 118&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 4
+    },
+    &quot;29&quot;: {
+      &quot;answer&quot;: &quot;ETC&quot;,
+      &quot;clue&quot;: &quot;And so on...&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 12
+    },
+    &quot;31&quot;: {
+      &quot;answer&quot;: &quot;DAU&quot;,
+      &quot;clue&quot;: &quot;Performance metric at the heart of the Musk vs Twitter lawsuit&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 0
+    },
+    &quot;32&quot;: {
+      &quot;answer&quot;: &quot;CUE&quot;,
+      &quot;clue&quot;: &quot;Prompt&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 4
+    },
+    &quot;33&quot;: {
+      &quot;answer&quot;: &quot;ALP&quot;,
+      &quot;clue&quot;: &quot;French mountain&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 8
+    },
+    &quot;34&quot;: {
+      &quot;answer&quot;: &quot;CSH&quot;,
+      &quot;clue&quot;: &quot;UNIX program that first used ~ for the home directory&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 12
+    },
+    &quot;35&quot;: {
+      &quot;answer&quot;: &quot;ORDERED&quot;,
+      &quot;clue&quot;: &quot;Gave a command&quot;,
+      &quot;row&quot;: 6,
+      &quot;col&quot;: 0
+    },
+    &quot;37&quot;: {
+      &quot;answer&quot;: &quot;MERCURY&quot;,
+      &quot;clue&quot;: &quot;Sailor Scout (the intellectual one)&quot;,
+      &quot;row&quot;: 6,
+      &quot;col&quot;: 8
+    },
+    &quot;39&quot;: {
+      &quot;answer&quot;: &quot;OXY&quot;,
+      &quot;clue&quot;: &quot;Chemical prefix from the Greek for \&quot;sharp\&quot;&quot;,
+      &quot;row&quot;: 7,
+      &quot;col&quot;: 2
+    },
+    &quot;40&quot;: {
+      &quot;answer&quot;: &quot;ITA&quot;,
+      &quot;clue&quot;: &quot;Country home to 59 UNESCO World Heritage Sites (abbr.)&quot;,
+      &quot;row&quot;: 7,
+      &quot;col&quot;: 10
+    },
+    &quot;41&quot;: {
+      &quot;answer&quot;: &quot;CAMELID&quot;,
+      &quot;clue&quot;: &quot;Dromedary, llama, or alpaca&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 0
+    },
+    &quot;45&quot;: {
+      &quot;answer&quot;: &quot;DICEDUP&quot;,
+      &quot;clue&quot;: &quot;Prepared onions (5, 2)&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 8
+    },
+    &quot;49&quot;: {
+      &quot;answer&quot;: &quot;ADA&quot;,
+      &quot;clue&quot;: &quot;English mathematician who was Lord Byron's only legitimate child&quot;,
+      &quot;row&quot;: 9,
+      &quot;col&quot;: 0
+    },
+    &quot;50&quot;: {
+      &quot;answer&quot;: &quot;ISE&quot;,
+      &quot;clue&quot;: &quot;HTTP Error 500 acronym&quot;,
+      &quot;row&quot;: 9,
+      &quot;col&quot;: 4
+    },
+    &quot;51&quot;: {
+      &quot;answer&quot;: &quot;ECO&quot;,
+      &quot;clue&quot;: &quot;Green prefix&quot;,
+      &quot;row&quot;: 9,
+      &quot;col&quot;: 8
+    },
+    &quot;52&quot;: {
+      &quot;answer&quot;: &quot;OSU&quot;,
+      &quot;clue&quot;: &quot;Greeting heard in a dojo&quot;,
+      &quot;row&quot;: 9,
+      &quot;col&quot;: 12
+    },
+    &quot;53&quot;: {
+      &quot;answer&quot;: &quot;LOT&quot;,
+      &quot;clue&quot;: &quot;Batch&quot;,
+      &quot;row&quot;: 10,
+      &quot;col&quot;: 0
+    },
+    &quot;54&quot;: {
+      &quot;answer&quot;: &quot;COCONUT&quot;,
+      &quot;clue&quot;: &quot;Falling item responsible for 2.5% of trauma admissions to a Papua New Guinea hospital&quot;,
+      &quot;row&quot;: 10,
+      &quot;col&quot;: 4
+    },
+    &quot;56&quot;: {
+      &quot;answer&quot;: &quot;RAM&quot;,
+      &quot;clue&quot;: &quot;Bash&quot;,
+      &quot;row&quot;: 10,
+      &quot;col&quot;: 12
+    },
+    &quot;57&quot;: {
+      &quot;answer&quot;: &quot;IBM&quot;,
+      &quot;clue&quot;: &quot;Company that introduced the floppy disk&quot;,
+      &quot;row&quot;: 11,
+      &quot;col&quot;: 6
+    },
+    &quot;58&quot;: {
+      &quot;answer&quot;: &quot;ION&quot;,
+      &quot;clue&quot;: &quot;Charged particle&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 0
+    },
+    &quot;61&quot;: {
+      &quot;answer&quot;: &quot;SIMCARD&quot;,
+      &quot;clue&quot;: &quot;Chip needed for cell service (3, 4)&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 4
+    },
+    &quot;65&quot;: {
+      &quot;answer&quot;: &quot;OAK&quot;,
+      &quot;clue&quot;: &quot;Pokémon professor&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 12
+    },
+    &quot;67&quot;: {
+      &quot;answer&quot;: &quot;UNO&quot;,
+      &quot;clue&quot;: &quot;Game with a reverse card&quot;,
+      &quot;row&quot;: 13,
+      &quot;col&quot;: 0
+    },
+    &quot;68&quot;: {
+      &quot;answer&quot;: &quot;ESA&quot;,
+      &quot;clue&quot;: &quot;Operator of the Guiana Space Center&quot;,
+      &quot;row&quot;: 13,
+      &quot;col&quot;: 4
+    },
+    &quot;69&quot;: {
+      &quot;answer&quot;: &quot;RAI&quot;,
+      &quot;clue&quot;: &quot;Micronesian stones whose owners are recorded in oral history&quot;,
+      &quot;row&quot;: 13,
+      &quot;col&quot;: 8
+    },
+    &quot;70&quot;: {
+      &quot;answer&quot;: &quot;CGI&quot;,
+      &quot;clue&quot;: &quot;Special effects&quot;,
+      &quot;row&quot;: 13,
+      &quot;col&quot;: 12
+    },
+    &quot;71&quot;: {
+      &quot;answer&quot;: &quot;MEDICAL&quot;,
+      &quot;clue&quot;: &quot;_______ condition (abnormal state of health)&quot;,
+      &quot;row&quot;: 14,
+      &quot;col&quot;: 0
+    },
+    &quot;72&quot;: {
+      &quot;answer&quot;: &quot;KRYPTON&quot;,
+      &quot;clue&quot;: &quot;Superman's birthplace&quot;,
+      &quot;row&quot;: 14,
+      &quot;col&quot;: 8
+    }
+  },
+  &quot;down&quot;: {
+    &quot;1&quot;: {
+      &quot;answer&quot;: &quot;AVOCADO&quot;,
+      &quot;clue&quot;: &quot;Food planted by Mesoamericans since at least 6500 BCE — and probably not by giant ground sloths&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 0
+    },
+    &quot;2&quot;: {
+      &quot;answer&quot;: &quot;RIO&quot;,
+      &quot;clue&quot;: &quot;Spanish river&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 1
+    },
+    &quot;3&quot;: {
+      &quot;answer&quot;: &quot;SPF&quot;,
+      &quot;clue&quot;: &quot;Important number on a beach vacation&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 2
+    },
+    &quot;4&quot;: {
+      &quot;answer&quot;: &quot;NHS&quot;,
+      &quot;clue&quot;: &quot;Single payer in Scotland&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 4
+    },
+    &quot;5&quot;: {
+      &quot;answer&quot;: &quot;ICE&quot;,
+      &quot;clue&quot;: &quot;Technically, it's a mineral found in glaciers&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 5
+    },
+    &quot;6&quot;: {
+      &quot;answer&quot;: &quot;CLAIMED&quot;,
+      &quot;clue&quot;: &quot;Alleged&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 6
+    },
+    &quot;7&quot;: {
+      &quot;answer&quot;: &quot;VIETNAM&quot;,
+      &quot;clue&quot;: &quot;Country that produces a third of the world's black pepper&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 8
+    },
+    &quot;8&quot;: {
+      &quot;answer&quot;: &quot;ARE&quot;,
+      &quot;clue&quot;: &quot;_______ we there yet?&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 9
+    },
+    &quot;9&quot;: {
+      &quot;answer&quot;: &quot;RED&quot;,
+      &quot;clue&quot;: &quot;Angry?&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 10
+    },
+    &quot;10&quot;: {
+      &quot;answer&quot;: &quot;OIL&quot;,
+      &quot;clue&quot;: &quot;Substance used on squid that got caught&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 12
+    },
+    &quot;11&quot;: {
+      &quot;answer&quot;: &quot;UNI&quot;,
+      &quot;clue&quot;: &quot;Prefix with cycle or verse&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 13
+    },
+    &quot;12&quot;: {
+      &quot;answer&quot;: &quot;SKETCHY&quot;,
+      &quot;clue&quot;: &quot;Questionable&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 14
+    },
+    &quot;19&quot;: {
+      &quot;answer&quot;: &quot;WOE&quot;,
+      &quot;clue&quot;: &quot;Sorrow&quot;,
+      &quot;row&quot;: 2,
+      &quot;col&quot;: 7
+    },
+    &quot;23&quot;: {
+      &quot;answer&quot;: &quot;DAR&quot;,
+      &quot;clue&quot;: &quot;Cricket umpire Aleem&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 1
+    },
+    &quot;24&quot;: {
+      &quot;answer&quot;: &quot;JUDOMAT&quot;,
+      &quot;clue&quot;: &quot;Tatami found in a dojo (4, 3)&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 2
+    },
+    &quot;25&quot;: {
+      &quot;answer&quot;: &quot;ACRYLIC&quot;,
+      &quot;clue&quot;: &quot;One of several polymers used in paint, fibre, or plexiglass&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 4
+    },
+    &quot;26&quot;: {
+      &quot;answer&quot;: &quot;RUE&quot;,
+      &quot;clue&quot;: &quot;Regret&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 5
+    },
+    &quot;27&quot;: {
+      &quot;answer&quot;: &quot;ILE&quot;,
+      &quot;clue&quot;: &quot;French island&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 9
+    },
+    &quot;28&quot;: {
+      &quot;answer&quot;: &quot;APRICOT&quot;,
+      &quot;clue&quot;: &quot;Orange cousin of the plum, and the national fruit of 29-across&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 10
+    },
+    &quot;29&quot;: {
+      &quot;answer&quot;: &quot;ECUADOR&quot;,
+      &quot;clue&quot;: &quot;Country that maintains the Galápagos National Park and Marine Reserve&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 12
+    },
+    &quot;30&quot;: {
+      &quot;answer&quot;: &quot;TSR&quot;,
+      &quot;clue&quot;: &quot;Original publisher of Dungeons &amp; Dragons&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 13
+    },
+    &quot;36&quot;: {
+      &quot;answer&quot;: &quot;EXE&quot;,
+      &quot;clue&quot;: &quot;File extension for Windows programs&quot;,
+      &quot;row&quot;: 6,
+      &quot;col&quot;: 3
+    },
+    &quot;38&quot;: {
+      &quot;answer&quot;: &quot;CTE&quot;,
+      &quot;clue&quot;: &quot;Possible 71-across for repeated victims of 54-across&quot;,
+      &quot;row&quot;: 6,
+      &quot;col&quot;: 11
+    },
+    &quot;41&quot;: {
+      &quot;answer&quot;: &quot;CALCIUM&quot;,
+      &quot;clue&quot;: &quot;Vitamin essential to the development of healthy bones and limestone caves&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 0
+    },
+    &quot;42&quot;: {
+      &quot;answer&quot;: &quot;ADO&quot;,
+      &quot;clue&quot;: &quot;Much _______ about nothing (Shakespearean double-entendre)&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 1
+    },
+    &quot;43&quot;: {
+      &quot;answer&quot;: &quot;ISO&quot;,
+      &quot;clue&quot;: &quot;Organization whose publications cover film sensitivity, A4 paper, and a standard cup of tea&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 5
+    },
+    &quot;44&quot;: {
+      &quot;answer&quot;: &quot;DECIMAL&quot;,
+      &quot;clue&quot;: &quot;Base ten&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 6
+    },
+    &quot;45&quot;: {
+      &quot;answer&quot;: &quot;DENMARK&quot;,
+      &quot;clue&quot;: &quot;Something is rotten in the state of _______ (according to Marcellus)&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 8
+    },
+    &quot;46&quot;: {
+      &quot;answer&quot;: &quot;ICU&quot;,
+      &quot;clue&quot;: &quot;Hospital wing tracing its roots to Florence Nightingale&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 9
+    },
+    &quot;47&quot;: {
+      &quot;answer&quot;: &quot;USA&quot;,
+      &quot;clue&quot;: &quot;Country whose biomes include tundra, taiga, and tropical rainforest&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 13
+    },
+    &quot;48&quot;: {
+      &quot;answer&quot;: &quot;PUMPKIN&quot;,
+      &quot;clue&quot;: &quot;One of the three sisters of Haudenosaunee agriculture and cuisine&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 14
+    },
+    &quot;55&quot;: {
+      &quot;answer&quot;: &quot;OBC&quot;,
+      &quot;clue&quot;: &quot;Letters received with a dogwood medal by David Suzuki, Joy Kogawa, and Raffi&quot;,
+      &quot;row&quot;: 10,
+      &quot;col&quot;: 7
+    },
+    &quot;59&quot;: {
+      &quot;answer&quot;: &quot;ONE&quot;,
+      &quot;clue&quot;: &quot;Legendre's constant&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 1
+    },
+    &quot;60&quot;: {
+      &quot;answer&quot;: &quot;NOD&quot;,
+      &quot;clue&quot;: &quot;Silently give assent&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 2
+    },
+    &quot;61&quot;: {
+      &quot;answer&quot;: &quot;SEC&quot;,
+      &quot;clue&quot;: &quot;Short SI unit (approx. half the period of a one-meter pendulum)&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 4
+    },
+    &quot;62&quot;: {
+      &quot;answer&quot;: &quot;ISA&quot;,
+      &quot;clue&quot;: &quot;Hyponymic relationship (2, 1)&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 5
+    },
+    &quot;63&quot;: {
+      &quot;answer&quot;: &quot;RAR&quot;,
+      &quot;clue&quot;: &quot;File compression format frequently opened with trial-version software&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 9
+    },
+    &quot;64&quot;: {
+      &quot;answer&quot;: &quot;DIY&quot;,
+      &quot;clue&quot;: &quot;Describes projects for amateurs&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 10
+    },
+    &quot;65&quot;: {
+      &quot;answer&quot;: &quot;OCT&quot;,
+      &quot;clue&quot;: &quot;National Pizza Month, for short&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 12
+    },
+    &quot;66&quot;: {
+      &quot;answer&quot;: &quot;AGO&quot;,
+      &quot;clue&quot;: &quot;In the past&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 13
+    }
+  }
+}"></div></figure>
+
+
+
+<p>Answers (and a bit of trivia) can be found on the following page.</p>
+
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Legends: a Pokémon-themed cryptic crossword</title>
 		<link>https://rosschurchley.com/2022/legends-a-pokemon-themed-cryptic-crossword/</link>
 		
@@ -38,8 +559,8 @@
 		<category><![CDATA[Puzzles]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=319</guid>
 
-					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword.webp" class="attachment-large size-large wp-post-image" alt="Official Pokémon Legends art of Mount Coronet, overlaid into a crossword grid." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Recently I&#8217;ve been spending my spare time doing two things: solving cryptic crosswords and playing Pokémon Legends: Arceus. The next logical step, then, is to try my hand at compiling my own cryptic crossword themed after the game! If you haven&#8217;t tried one before, a cryptic crossword is a crossword puzzle in which each clue [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword.webp" class="attachment-large size-large wp-post-image" alt="Official Pokémon Legends art of Mount Coronet, overlaid into a crossword grid." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword.webp" class="attachment-large size-large wp-post-image" alt="Official Pokémon Legends art of Mount Coronet, overlaid into a crossword grid." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Recently I&#8217;ve been spending my spare time doing two things: solving cryptic crosswords and playing Pokémon Legends: Arceus. The next logical step, then, is to try my hand at compiling my own cryptic crossword themed after the game! If you haven&#8217;t tried one before, a cryptic crossword is a crossword puzzle in which each clue [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword.webp" class="attachment-large size-large wp-post-image" alt="Official Pokémon Legends art of Mount Coronet, overlaid into a crossword grid." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/03/legends-cryptic-crossword-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
 <p>Recently I&#8217;ve been spending my spare time doing two things: solving cryptic crosswords and playing <em>Pokémon Legends: Arceus</em>. The next logical step, then, is to try my hand at compiling my own cryptic crossword themed after the game!</p>
 
 

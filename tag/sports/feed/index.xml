@@ -12,7 +12,7 @@
 	<atom:link href="https://rosschurchley.com/tag/sports/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Tue, 11 Jun 2024 07:56:41 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Jun 2024 04:25:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -500,6 +500,7 @@
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Thu, 02 Feb 2017 23:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Humour]]></category>
 		<category><![CDATA[Sports]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=39</guid>
 

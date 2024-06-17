@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Urban planning &#8211; Ross Churchley</title>
+	<atom:link href="https://rosschurchley.com/tag/urban-planning/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rosschurchley.com/</link>
+	<description>A commonplace book by Ross Churchley</description>
+	<lastBuildDate>Fri, 14 Jun 2024 04:41:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>https://rosschurchley.com/wp-content/uploads/2024/05/android-chrome-512x512-1-150x150.png</url>
+	<title>Urban planning &#8211; Ross Churchley</title>
+	<link>https://rosschurchley.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vancouver land use</title>
+		<link>https://rosschurchley.com/2016/vancouver-land-use/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2016 23:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Urban planning]]></category>
+		<category><![CDATA[Vancouver]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=291</guid>
+
+					<description><![CDATA[Jens von Bergmann has run the numbers on land use in various municipalities in Metro Vancouver. The City of Vancouver in particular has lot of land tied up in streets and detached housing. Use CoV land single-family detached houses and duplexes 34.0% roads and right-of-way 28.1% recreation, open space, and natural areas 15.2% commercial 3.9% [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://doodles.mountainmath.ca/posts/2016-02-29-land-use/index.html">Jens von Bergmann</a> has run the numbers on land use in various municipalities in Metro Vancouver. The City of Vancouver in particular has <em>lot</em> of land tied up in streets and detached housing.</p>
+
+
+
+<figure class="wp-block-table"><table><thead><tr><th>Use</th><th>CoV land</th></tr></thead><tbody><tr><td>single-family detached houses and duplexes</td><td>34.0%</td></tr><tr><td>roads and right-of-way</td><td>28.1%</td></tr><tr><td>recreation, open space, and natural areas</td><td>15.2%</td></tr><tr><td>commercial</td><td>3.9%</td></tr><tr><td>low-rise apartments (residential or mixed-use)</td><td>4.1%</td></tr><tr><td>high-rise apartments (residential or mixed-use)</td><td>1.9%</td></tr></tbody></table></figure>
+
+
+
+<p>Because the City of Vancouver has so little area left undeveloped, any proposals for new housing, schools, parks, stores, and so forth will displace some existing use of the land.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sim Parking Lot</title>
+		<link>https://rosschurchley.com/2013/sim-parking-lot/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Fri, 31 May 2013 22:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Urban planning]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=20</guid>
+
+					<description><![CDATA[This Atlantic interview with SimCity designer Stone Librande has stuck with me. We were originally just going to model real cities, but we quickly realized there were way too many parking lots in the real world and that [SimCity] was going to be really boring if it was proportional in terms of parking lots. Stone Librande While doing research [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>This <a href="https://www.theatlantic.com/technology/archive/2013/05/the-philosophy-of-simcity-an-interview-with-the-games-lead-designer/275724/">Atlantic interview</a> with <em>SimCity</em> designer Stone Librande has stuck with me.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>We were originally just going to model real cities, but we quickly realized there were way too many parking lots in the real world and that [SimCity] was going to be really boring if it was proportional in terms of parking lots.</p>
+<cite>Stone Librande</cite></blockquote>
+
+
+
+<span id="more-20"></span>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2013/05/superstore-jpeg.webp" alt="A large parking lot, perhaps two-thirds full of cars." class="wp-image-596" srcset="https://rosschurchley.com/wp-content/uploads/2013/05/superstore-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2013/05/superstore-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2013/05/superstore-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2013/05/superstore-1536x1152.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">One portion of the Superstore parking lot in South Vancouver. (Apple Maps)</figcaption></figure>
+
+
+
+<p>While doing research for the game, Librande was faced with quantifying our land use decisions.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>When I started measuring out our local grocery store, which I don’t think of as being that big, I was blown away by how much more space was parking lot rather than actual store.</p>
+</blockquote>
+
+
+
+<p>For example, here in Vancouver the&nbsp;<a href="https://vancouver.ca/your-government/parking-bylaw.aspx">parking bylaw</a>&nbsp;requires one 14m² parking space for every 20m² of supermarket floor space. Adding the necessary lanes to allow cars to get in and out, this law practically guarantees that grocery stores will be more parking lot than store.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway.webp" alt="A parking lot taking up 60% or so of a supermarket's land parcel." class="wp-image-33" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">A typical Safeway in Vancouver&#8217;s Collingwood neighbourhood. (Apple Maps)</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

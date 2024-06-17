@@ -12,7 +12,7 @@
 	<atom:link href="https://rosschurchley.com/category/blog/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Tue, 11 Jun 2024 19:42:10 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Jun 2024 04:27:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -296,6 +296,7 @@
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sun, 31 Dec 2023 23:00:00 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Math]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=163</guid>
 
 					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image.png" class="attachment-large size-large wp-post-image" alt="An exploded-view diagram of a cube broken into interior, faces, edges, and corners." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image.png 1600w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-800x450.png 800w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-768x432.png 768w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-1536x864.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />A while ago I arbitrarily decided that I needed a favourite three-digit number (don’t ask) and ended up choosing 216. It’s a nice cube number —&#160;6×6×6&#160;— and can also be expressed as a sum of three smaller cubes: The&#160;Wikipedia article for the number&#160;has&#160;a diagram&#160;showing one way to reassemble a 6×6×6 cube into three smaller cubes, [&#8230;]]]></description>
@@ -764,6 +765,7 @@ function pointToLayer (feature, latlng) {
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sun, 17 May 2020 22:00:00 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Language]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=303</guid>
 
 					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2020/05/twitter-280.webp" class="attachment-large size-large wp-post-image" alt="Birds carry the number 280 in the style of Twitter&#039;s old Fail Whale graphic." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2020/05/twitter-280.webp 1600w, https://rosschurchley.com/wp-content/uploads/2020/05/twitter-280-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2020/05/twitter-280-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2020/05/twitter-280-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />The length distribution of tweets has shifted in response to raised character limits, but it&#8217;s still the case that a disproportionate number of tweets use all the characters they&#8217;re given. A sample of tweets gathered in 2019 still exhibit a telltale spike approaching the character limit, but it is smaller than the tweet distribution from [&#8230;]]]></description>
@@ -2577,6 +2579,7 @@ def hitting_time(routes, u, v):
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sun, 04 Feb 2018 23:00:00 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Math]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=299</guid>
 
 					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal.webp" class="attachment-large size-large wp-post-image" alt="A tiling made from 1×1, 2×2, and 1×2 bricks, with no four meeting at the same point." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal.webp 1600w, https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2018/02/brickwork-fractal-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Brick pavements and tatami mats are traditionally laid out so that no four meet at a single point to form a ┼ shape. Only a few ┼-free patterns can be made using 1×1 and 1×2 tiles, but the addition of 2×2 tiles provides a lot more creative flexibility. When I discussed tatami tilings with my [&#8230;]]]></description>
@@ -2630,6 +2633,44 @@ def hitting_time(routes, u, v):
 
 
 <p>The same strategy could be applied to other sets of (2<em>n</em>+1)×(2<em>n</em>+1), (4<em>n</em>+2)×(4<em>n</em>+2), and (2<em>n</em>+1)×(4<em>n</em>+2) tiles with similar boundaries. What&#8217;s the prettiest brickwork fractal you can find?</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Interesting times</title>
+		<link>https://rosschurchley.com/2016/interesting-times/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sat, 16 Jul 2016 01:45:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Language]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=796</guid>
+
+					<description><![CDATA[&#8220;May you live in interesting times&#8221; is typically claimed to be a Chinese expression, but it actually originated with the British. Joseph Chamberlain — Neville&#8217;s dad — used the phrase &#8220;interesting times&#8221; frequently in speeches: I think that you will all agree that we are living in most interesting times. I never remember myself a [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>&#8220;<a href="https://en.wikipedia.org/wiki/May_you_live_in_interesting_times">May you live in interesting times</a>&#8221; is typically claimed to be a Chinese expression, but it actually originated with the British. Joseph Chamberlain — Neville&#8217;s dad — used the phrase &#8220;interesting times&#8221; frequently in speeches:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>I think that you will all agree that we are living in most interesting times. I never remember myself a time in which our history was so full, in which day by day brought us new objects of interest, and, let me say also, new objects for anxiety.</p>
+<cite>Joseph Chamberlain</cite></blockquote>
+
+
+
+<p>Joseph&#8217;s other son Austen was the first to claim it originated as a Chinese saying. <a href="x-devonthink-item://A17F1C5C-70F9-4198-9EFD-0798892F0705">Quote Investigator</a> theorizes that Austen, in conversation with his diplomat colleagues, learned about a Chinese proverb that expresses apprehension about living in what his father would call &#8220;interesting times&#8221; and assumed that was the source of Joseph&#8217;s phrase. But the wording of the real proverb is entirely different:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><a href="https://en.wiktionary.org/wiki/寧為太平犬，不做亂世人">寧為太平犬，莫作亂離人</a></p>
+
+
+
+<p>Better to be a dog in days of peace, than a human in times of chaos.</p>
+<cite><a href="https://zh.wikisource.org/wiki/醒世恆言/第03卷">Feng Menglon</a>g</cite></blockquote>
 ]]></content:encoded>
 					
 		
@@ -3237,55 +3278,6 @@ def hitting_time(routes, u, v):
 
 
 <p>The <a href="https://archive.org/details/twitter_cikm_2010">dataset</a> paints a fascinating picture of the distribution of tweet lengths. Extremely short tweets are understandably very rare, but it doesn&#8217;t take long for the distribution to reach its first mode at 35 characters. The curve gradually and smoothly trails off to a local minimum around 116 characters, before positively spiking after 135. The average length is a bit more than 68 characters and the median a bit lower at 62.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Sim Parking Lot</title>
-		<link>https://rosschurchley.com/2013/sim-parking-lot/</link>
-		
-		<dc:creator><![CDATA[Ross]]></dc:creator>
-		<pubDate>Fri, 31 May 2013 22:00:00 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=20</guid>
-
-					<description><![CDATA[This Atlantic interview with SimCity designer Stone Librande has stuck with me. We were originally just going to model real cities, but we quickly realized there were way too many parking lots in the real world and that [SimCity] was going to be really boring if it was proportional in terms of parking lots. Stone Librande While doing research [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>This <a href="https://www.theatlantic.com/technology/archive/2013/05/the-philosophy-of-simcity-an-interview-with-the-games-lead-designer/275724/">Atlantic interview</a> with <em>SimCity</em> designer Stone Librande has stuck with me.</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>We were originally just going to model real cities, but we quickly realized there were way too many parking lots in the real world and that [SimCity] was going to be really boring if it was proportional in terms of parking lots.</p>
-<cite>Stone Librande</cite></blockquote>
-
-
-
-<span id="more-20"></span>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2013/05/superstore-jpeg.webp" alt="A large parking lot, perhaps two-thirds full of cars." class="wp-image-596" srcset="https://rosschurchley.com/wp-content/uploads/2013/05/superstore-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2013/05/superstore-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2013/05/superstore-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2013/05/superstore-1536x1152.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">One portion of the Superstore parking lot in South Vancouver. (Apple Maps)</figcaption></figure>
-
-
-
-<p>While doing research for the game, Librande was faced with quantifying our land use decisions.</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>When I started measuring out our local grocery store, which I don’t think of as being that big, I was blown away by how much more space was parking lot rather than actual store.</p>
-</blockquote>
-
-
-
-<p>For example, here in Vancouver the&nbsp;<a href="https://vancouver.ca/your-government/parking-bylaw.aspx">parking bylaw</a>&nbsp;requires one 14m² parking space for every 20m² of supermarket floor space. Adding the necessary lanes to allow cars to get in and out, this law practically guarantees that grocery stores will be more parking lot than store.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway.webp" alt="A parking lot taking up 60% or so of a supermarket's land parcel." class="wp-image-33" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/parking-lot-safeway-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">A typical Safeway in Vancouver&#8217;s Collingwood neighbourhood. (Apple Maps)</figcaption></figure>
 ]]></content:encoded>
 					
 		

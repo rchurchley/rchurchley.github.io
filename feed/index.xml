@@ -12,7 +12,7 @@
 	<atom:link href="https://rosschurchley.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Tue, 11 Jun 2024 07:56:41 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Jun 2024 07:07:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,527 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Connections: the crossword</title>
+		<link>https://rosschurchley.com/2024/connections-crossword/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sun, 16 Jun 2024 07:13:14 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Puzzles]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=848</guid>
+
+					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/06/cover.png" class="attachment-large size-large wp-post-image" alt="A mock NYT Connections puzzle solution whose answers are related to crosswords or puzzles in some way." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2024/06/cover.png 1600w, https://rosschurchley.com/wp-content/uploads/2024/06/cover-800x450.png 800w, https://rosschurchley.com/wp-content/uploads/2024/06/cover-768x432.png 768w, https://rosschurchley.com/wp-content/uploads/2024/06/cover-1536x864.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />My daily routine nowadays includes two word puzzles: the Puzzmo/AVCX crossword and the The New York Times&#8217; new game Connections. That&#8217;s inspired me to see if I could create a hybrid of the two. Here&#8217;s what I came up with. The following is a normal American-style crossword puzzle — no cryptic clues this time — [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/06/cover.png" class="attachment-large size-large wp-post-image" alt="A mock NYT Connections puzzle solution whose answers are related to crosswords or puzzles in some way." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2024/06/cover.png 1600w, https://rosschurchley.com/wp-content/uploads/2024/06/cover-800x450.png 800w, https://rosschurchley.com/wp-content/uploads/2024/06/cover-768x432.png 768w, https://rosschurchley.com/wp-content/uploads/2024/06/cover-1536x864.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
+<p>My daily routine nowadays includes two word puzzles: the <a href="https://www.puzzmo.com/">Puzzmo</a>/<a href="https://avxwords.com/">AVCX</a> crossword and the <em>The New York Times&#8217;</em> new game <a href="https://en.wikipedia.org/wiki/The_New_York_Times_Connections">Connections</a>. That&#8217;s inspired me to see if I could create a hybrid of the two.</p>
+
+
+
+<span id="more-848"></span>
+
+
+
+<p>Here&#8217;s what I came up with. The following is a normal American-style <a href="https://en.wikipedia.org/wiki/Crossword">crossword puzzle</a> — no cryptic clues <a href="https://rosschurchley.com/2022/legends-a-pokemon-themed-cryptic-crossword/">this time</a> — with 24 seven-letter answers. Once you&#8217;re done solving the crossword, write down the seven-letter entries and see if you can group them into six categories of four words each, like a jumbo-sized version of Connections. Good luck!</p>
+
+
+
+<figure class="wp-block-wp-chrosyblocks-crossword"><div class="crossword" data-puzzle="{
+  &quot;across&quot;: {
+    &quot;1&quot;: {
+      &quot;answer&quot;: &quot;ARSENIC&quot;,
+      &quot;clue&quot;: &quot;Deadly poison — but an essential trace mineral in rats, goats, and birds&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 0
+    },
+    &quot;7&quot;: {
+      &quot;answer&quot;: &quot;VARIOUS&quot;,
+      &quot;clue&quot;: &quot;_______ artists (compilation album credit)&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 8
+    },
+    &quot;13&quot;: {
+      &quot;answer&quot;: &quot;VIP&quot;,
+      &quot;clue&quot;: &quot;One given special treatment&quot;,
+      &quot;row&quot;: 1,
+      &quot;col&quot;: 0
+    },
+    &quot;14&quot;: {
+      &quot;answer&quot;: &quot;HCL&quot;,
+      &quot;clue&quot;: &quot;Chemical symbol for stomach acid&quot;,
+      &quot;row&quot;: 1,
+      &quot;col&quot;: 4
+    },
+    &quot;15&quot;: {
+      &quot;answer&quot;: &quot;IRE&quot;,
+      &quot;clue&quot;: &quot;Anger&quot;,
+      &quot;row&quot;: 1,
+      &quot;col&quot;: 8
+    },
+    &quot;16&quot;: {
+      &quot;answer&quot;: &quot;INK&quot;,
+      &quot;clue&quot;: &quot;Substance used by squid to get away&quot;,
+      &quot;row&quot;: 1,
+      &quot;col&quot;: 12
+    },
+    &quot;17&quot;: {
+      &quot;answer&quot;: &quot;OOF&quot;,
+      &quot;clue&quot;: &quot;On a beach vacation, in Microsoft-speak&quot;,
+      &quot;row&quot;: 2,
+      &quot;col&quot;: 0
+    },
+    &quot;18&quot;: {
+      &quot;answer&quot;: &quot;SEAWEED&quot;,
+      &quot;clue&quot;: &quot;Nori&quot;,
+      &quot;row&quot;: 2,
+      &quot;col&quot;: 4
+    },
+    &quot;20&quot;: {
+      &quot;answer&quot;: &quot;LIE&quot;,
+      &quot;clue&quot;: &quot;Alternative fact&quot;,
+      &quot;row&quot;: 2,
+      &quot;col&quot;: 12
+    },
+    &quot;21&quot;: {
+      &quot;answer&quot;: &quot;IOT&quot;,
+      &quot;clue&quot;: &quot;Acronym describing toasters with network connections&quot;,
+      &quot;row&quot;: 3,
+      &quot;col&quot;: 6
+    },
+    &quot;22&quot;: {
+      &quot;answer&quot;: &quot;ADJ&quot;,
+      &quot;clue&quot;: &quot;Desc. word&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 0
+    },
+    &quot;25&quot;: {
+      &quot;answer&quot;: &quot;ARMENIA&quot;,
+      &quot;clue&quot;: &quot;Childhood home of Yuri Oganessian, namesake of element 118&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 4
+    },
+    &quot;29&quot;: {
+      &quot;answer&quot;: &quot;ETC&quot;,
+      &quot;clue&quot;: &quot;And so on...&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 12
+    },
+    &quot;31&quot;: {
+      &quot;answer&quot;: &quot;DAU&quot;,
+      &quot;clue&quot;: &quot;Performance metric at the heart of the Musk vs Twitter lawsuit&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 0
+    },
+    &quot;32&quot;: {
+      &quot;answer&quot;: &quot;CUE&quot;,
+      &quot;clue&quot;: &quot;Prompt&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 4
+    },
+    &quot;33&quot;: {
+      &quot;answer&quot;: &quot;ALP&quot;,
+      &quot;clue&quot;: &quot;French mountain&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 8
+    },
+    &quot;34&quot;: {
+      &quot;answer&quot;: &quot;CSH&quot;,
+      &quot;clue&quot;: &quot;UNIX program that first used ~ for the home directory&quot;,
+      &quot;row&quot;: 5,
+      &quot;col&quot;: 12
+    },
+    &quot;35&quot;: {
+      &quot;answer&quot;: &quot;ORDERED&quot;,
+      &quot;clue&quot;: &quot;Gave a command&quot;,
+      &quot;row&quot;: 6,
+      &quot;col&quot;: 0
+    },
+    &quot;37&quot;: {
+      &quot;answer&quot;: &quot;MERCURY&quot;,
+      &quot;clue&quot;: &quot;Sailor Scout (the intellectual one)&quot;,
+      &quot;row&quot;: 6,
+      &quot;col&quot;: 8
+    },
+    &quot;39&quot;: {
+      &quot;answer&quot;: &quot;OXY&quot;,
+      &quot;clue&quot;: &quot;Chemical prefix from the Greek for \&quot;sharp\&quot;&quot;,
+      &quot;row&quot;: 7,
+      &quot;col&quot;: 2
+    },
+    &quot;40&quot;: {
+      &quot;answer&quot;: &quot;ITA&quot;,
+      &quot;clue&quot;: &quot;Country home to 59 UNESCO World Heritage Sites (abbr.)&quot;,
+      &quot;row&quot;: 7,
+      &quot;col&quot;: 10
+    },
+    &quot;41&quot;: {
+      &quot;answer&quot;: &quot;CAMELID&quot;,
+      &quot;clue&quot;: &quot;Dromedary, llama, or alpaca&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 0
+    },
+    &quot;45&quot;: {
+      &quot;answer&quot;: &quot;DICEDUP&quot;,
+      &quot;clue&quot;: &quot;Prepared onions (5, 2)&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 8
+    },
+    &quot;49&quot;: {
+      &quot;answer&quot;: &quot;ADA&quot;,
+      &quot;clue&quot;: &quot;English mathematician who was Lord Byron's only legitimate child&quot;,
+      &quot;row&quot;: 9,
+      &quot;col&quot;: 0
+    },
+    &quot;50&quot;: {
+      &quot;answer&quot;: &quot;ISE&quot;,
+      &quot;clue&quot;: &quot;HTTP Error 500 acronym&quot;,
+      &quot;row&quot;: 9,
+      &quot;col&quot;: 4
+    },
+    &quot;51&quot;: {
+      &quot;answer&quot;: &quot;ECO&quot;,
+      &quot;clue&quot;: &quot;Green prefix&quot;,
+      &quot;row&quot;: 9,
+      &quot;col&quot;: 8
+    },
+    &quot;52&quot;: {
+      &quot;answer&quot;: &quot;OSU&quot;,
+      &quot;clue&quot;: &quot;Greeting heard in a dojo&quot;,
+      &quot;row&quot;: 9,
+      &quot;col&quot;: 12
+    },
+    &quot;53&quot;: {
+      &quot;answer&quot;: &quot;LOT&quot;,
+      &quot;clue&quot;: &quot;Batch&quot;,
+      &quot;row&quot;: 10,
+      &quot;col&quot;: 0
+    },
+    &quot;54&quot;: {
+      &quot;answer&quot;: &quot;COCONUT&quot;,
+      &quot;clue&quot;: &quot;Falling item responsible for 2.5% of trauma admissions to a Papua New Guinea hospital&quot;,
+      &quot;row&quot;: 10,
+      &quot;col&quot;: 4
+    },
+    &quot;56&quot;: {
+      &quot;answer&quot;: &quot;RAM&quot;,
+      &quot;clue&quot;: &quot;Bash&quot;,
+      &quot;row&quot;: 10,
+      &quot;col&quot;: 12
+    },
+    &quot;57&quot;: {
+      &quot;answer&quot;: &quot;IBM&quot;,
+      &quot;clue&quot;: &quot;Company that introduced the floppy disk&quot;,
+      &quot;row&quot;: 11,
+      &quot;col&quot;: 6
+    },
+    &quot;58&quot;: {
+      &quot;answer&quot;: &quot;ION&quot;,
+      &quot;clue&quot;: &quot;Charged particle&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 0
+    },
+    &quot;61&quot;: {
+      &quot;answer&quot;: &quot;SIMCARD&quot;,
+      &quot;clue&quot;: &quot;Chip needed for cell service (3, 4)&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 4
+    },
+    &quot;65&quot;: {
+      &quot;answer&quot;: &quot;OAK&quot;,
+      &quot;clue&quot;: &quot;Pokémon professor&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 12
+    },
+    &quot;67&quot;: {
+      &quot;answer&quot;: &quot;UNO&quot;,
+      &quot;clue&quot;: &quot;Game with a reverse card&quot;,
+      &quot;row&quot;: 13,
+      &quot;col&quot;: 0
+    },
+    &quot;68&quot;: {
+      &quot;answer&quot;: &quot;ESA&quot;,
+      &quot;clue&quot;: &quot;Operator of the Guiana Space Center&quot;,
+      &quot;row&quot;: 13,
+      &quot;col&quot;: 4
+    },
+    &quot;69&quot;: {
+      &quot;answer&quot;: &quot;RAI&quot;,
+      &quot;clue&quot;: &quot;Micronesian stones whose owners are recorded in oral history&quot;,
+      &quot;row&quot;: 13,
+      &quot;col&quot;: 8
+    },
+    &quot;70&quot;: {
+      &quot;answer&quot;: &quot;CGI&quot;,
+      &quot;clue&quot;: &quot;Special effects&quot;,
+      &quot;row&quot;: 13,
+      &quot;col&quot;: 12
+    },
+    &quot;71&quot;: {
+      &quot;answer&quot;: &quot;MEDICAL&quot;,
+      &quot;clue&quot;: &quot;_______ condition (abnormal state of health)&quot;,
+      &quot;row&quot;: 14,
+      &quot;col&quot;: 0
+    },
+    &quot;72&quot;: {
+      &quot;answer&quot;: &quot;KRYPTON&quot;,
+      &quot;clue&quot;: &quot;Superman's birthplace&quot;,
+      &quot;row&quot;: 14,
+      &quot;col&quot;: 8
+    }
+  },
+  &quot;down&quot;: {
+    &quot;1&quot;: {
+      &quot;answer&quot;: &quot;AVOCADO&quot;,
+      &quot;clue&quot;: &quot;Food planted by Mesoamericans since at least 6500 BCE — and probably not by giant ground sloths&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 0
+    },
+    &quot;2&quot;: {
+      &quot;answer&quot;: &quot;RIO&quot;,
+      &quot;clue&quot;: &quot;Spanish river&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 1
+    },
+    &quot;3&quot;: {
+      &quot;answer&quot;: &quot;SPF&quot;,
+      &quot;clue&quot;: &quot;Important number on a beach vacation&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 2
+    },
+    &quot;4&quot;: {
+      &quot;answer&quot;: &quot;NHS&quot;,
+      &quot;clue&quot;: &quot;Single payer in Scotland&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 4
+    },
+    &quot;5&quot;: {
+      &quot;answer&quot;: &quot;ICE&quot;,
+      &quot;clue&quot;: &quot;Technically, it's a mineral found in glaciers&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 5
+    },
+    &quot;6&quot;: {
+      &quot;answer&quot;: &quot;CLAIMED&quot;,
+      &quot;clue&quot;: &quot;Alleged&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 6
+    },
+    &quot;7&quot;: {
+      &quot;answer&quot;: &quot;VIETNAM&quot;,
+      &quot;clue&quot;: &quot;Country that produces a third of the world's black pepper&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 8
+    },
+    &quot;8&quot;: {
+      &quot;answer&quot;: &quot;ARE&quot;,
+      &quot;clue&quot;: &quot;_______ we there yet?&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 9
+    },
+    &quot;9&quot;: {
+      &quot;answer&quot;: &quot;RED&quot;,
+      &quot;clue&quot;: &quot;Angry?&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 10
+    },
+    &quot;10&quot;: {
+      &quot;answer&quot;: &quot;OIL&quot;,
+      &quot;clue&quot;: &quot;Substance used on squid that got caught&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 12
+    },
+    &quot;11&quot;: {
+      &quot;answer&quot;: &quot;UNI&quot;,
+      &quot;clue&quot;: &quot;Prefix with cycle or verse&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 13
+    },
+    &quot;12&quot;: {
+      &quot;answer&quot;: &quot;SKETCHY&quot;,
+      &quot;clue&quot;: &quot;Questionable&quot;,
+      &quot;row&quot;: 0,
+      &quot;col&quot;: 14
+    },
+    &quot;19&quot;: {
+      &quot;answer&quot;: &quot;WOE&quot;,
+      &quot;clue&quot;: &quot;Sorrow&quot;,
+      &quot;row&quot;: 2,
+      &quot;col&quot;: 7
+    },
+    &quot;23&quot;: {
+      &quot;answer&quot;: &quot;DAR&quot;,
+      &quot;clue&quot;: &quot;Cricket umpire Aleem&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 1
+    },
+    &quot;24&quot;: {
+      &quot;answer&quot;: &quot;JUDOMAT&quot;,
+      &quot;clue&quot;: &quot;Tatami found in a dojo (4, 3)&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 2
+    },
+    &quot;25&quot;: {
+      &quot;answer&quot;: &quot;ACRYLIC&quot;,
+      &quot;clue&quot;: &quot;One of several polymers used in paint, fibre, or plexiglass&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 4
+    },
+    &quot;26&quot;: {
+      &quot;answer&quot;: &quot;RUE&quot;,
+      &quot;clue&quot;: &quot;Regret&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 5
+    },
+    &quot;27&quot;: {
+      &quot;answer&quot;: &quot;ILE&quot;,
+      &quot;clue&quot;: &quot;French island&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 9
+    },
+    &quot;28&quot;: {
+      &quot;answer&quot;: &quot;APRICOT&quot;,
+      &quot;clue&quot;: &quot;Orange cousin of the plum, and the national fruit of 29-across&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 10
+    },
+    &quot;29&quot;: {
+      &quot;answer&quot;: &quot;ECUADOR&quot;,
+      &quot;clue&quot;: &quot;Country that maintains the Galápagos National Park and Marine Reserve&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 12
+    },
+    &quot;30&quot;: {
+      &quot;answer&quot;: &quot;TSR&quot;,
+      &quot;clue&quot;: &quot;Original publisher of Dungeons &amp; Dragons&quot;,
+      &quot;row&quot;: 4,
+      &quot;col&quot;: 13
+    },
+    &quot;36&quot;: {
+      &quot;answer&quot;: &quot;EXE&quot;,
+      &quot;clue&quot;: &quot;File extension for Windows programs&quot;,
+      &quot;row&quot;: 6,
+      &quot;col&quot;: 3
+    },
+    &quot;38&quot;: {
+      &quot;answer&quot;: &quot;CTE&quot;,
+      &quot;clue&quot;: &quot;Possible 71-across for repeated victims of 54-across&quot;,
+      &quot;row&quot;: 6,
+      &quot;col&quot;: 11
+    },
+    &quot;41&quot;: {
+      &quot;answer&quot;: &quot;CALCIUM&quot;,
+      &quot;clue&quot;: &quot;Vitamin essential to the development of healthy bones and limestone caves&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 0
+    },
+    &quot;42&quot;: {
+      &quot;answer&quot;: &quot;ADO&quot;,
+      &quot;clue&quot;: &quot;Much _______ about nothing (Shakespearean double-entendre)&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 1
+    },
+    &quot;43&quot;: {
+      &quot;answer&quot;: &quot;ISO&quot;,
+      &quot;clue&quot;: &quot;Organization whose publications cover film sensitivity, A4 paper, and a standard cup of tea&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 5
+    },
+    &quot;44&quot;: {
+      &quot;answer&quot;: &quot;DECIMAL&quot;,
+      &quot;clue&quot;: &quot;Base ten&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 6
+    },
+    &quot;45&quot;: {
+      &quot;answer&quot;: &quot;DENMARK&quot;,
+      &quot;clue&quot;: &quot;Something is rotten in the state of _______ (according to Marcellus)&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 8
+    },
+    &quot;46&quot;: {
+      &quot;answer&quot;: &quot;ICU&quot;,
+      &quot;clue&quot;: &quot;Hospital wing tracing its roots to Florence Nightingale&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 9
+    },
+    &quot;47&quot;: {
+      &quot;answer&quot;: &quot;USA&quot;,
+      &quot;clue&quot;: &quot;Country whose biomes include tundra, taiga, and tropical rainforest&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 13
+    },
+    &quot;48&quot;: {
+      &quot;answer&quot;: &quot;PUMPKIN&quot;,
+      &quot;clue&quot;: &quot;One of the three sisters of Haudenosaunee agriculture and cuisine&quot;,
+      &quot;row&quot;: 8,
+      &quot;col&quot;: 14
+    },
+    &quot;55&quot;: {
+      &quot;answer&quot;: &quot;OBC&quot;,
+      &quot;clue&quot;: &quot;Letters received with a dogwood medal by David Suzuki, Joy Kogawa, and Raffi&quot;,
+      &quot;row&quot;: 10,
+      &quot;col&quot;: 7
+    },
+    &quot;59&quot;: {
+      &quot;answer&quot;: &quot;ONE&quot;,
+      &quot;clue&quot;: &quot;Legendre's constant&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 1
+    },
+    &quot;60&quot;: {
+      &quot;answer&quot;: &quot;NOD&quot;,
+      &quot;clue&quot;: &quot;Silently give assent&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 2
+    },
+    &quot;61&quot;: {
+      &quot;answer&quot;: &quot;SEC&quot;,
+      &quot;clue&quot;: &quot;Short SI unit (approx. half the period of a one-meter pendulum)&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 4
+    },
+    &quot;62&quot;: {
+      &quot;answer&quot;: &quot;ISA&quot;,
+      &quot;clue&quot;: &quot;Hyponymic relationship (2, 1)&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 5
+    },
+    &quot;63&quot;: {
+      &quot;answer&quot;: &quot;RAR&quot;,
+      &quot;clue&quot;: &quot;File compression format frequently opened with trial-version software&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 9
+    },
+    &quot;64&quot;: {
+      &quot;answer&quot;: &quot;DIY&quot;,
+      &quot;clue&quot;: &quot;Describes projects for amateurs&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 10
+    },
+    &quot;65&quot;: {
+      &quot;answer&quot;: &quot;OCT&quot;,
+      &quot;clue&quot;: &quot;National Pizza Month, for short&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 12
+    },
+    &quot;66&quot;: {
+      &quot;answer&quot;: &quot;AGO&quot;,
+      &quot;clue&quot;: &quot;In the past&quot;,
+      &quot;row&quot;: 12,
+      &quot;col&quot;: 13
+    }
+  }
+}"></div></figure>
+
+
+
+<p>Answers (and a bit of trivia) can be found on the following page.</p>
+
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Hydrogen is &#8220;Waterstuff&#8221;</title>
 		<link>https://rosschurchley.com/2024/hydrogen-is-waterstuff/</link>
 		
@@ -100,7 +621,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1600" height="713" src="https://rosschurchley.com/wp-content/uploads/2024/05/oval-jpg.webp" alt="A wide angle of a cricket match in progress." class="wp-image-487" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/oval-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/oval-800x357.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/oval-768x342.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/oval-1536x684.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">This wide angle shows nine of the England fielders in red (two are out of frame to the right), two New Zealand batters in black, and two umpires.</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1600" height="713" src="https://rosschurchley.com/wp-content/uploads/2024/05/oval-jpg.webp" alt="A wide angle of a cricket match in progress." class="wp-image-487" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/oval-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/oval-800x357.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/oval-768x342.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/oval-1536x684.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">This wide angle shows nine of the England fielders in red (two are out of frame to the right), two New Zealand batters in black, and two umpires.</figcaption></figure>
 
 
 
@@ -266,7 +787,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/scoreline-jpg.webp" alt="A cricket TV broadcast. The overlay reads as follows: ENG 101-2. 12/20. Run Rate 8.42. Beaumont 47* (39), Jones 23 (10). NZ Kasperek 1-24 (2)." class="wp-image-492" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/scoreline-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/scoreline-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/scoreline-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/scoreline-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">This overlay indicates that England are batting and have scored 101 runs for the loss of 2 wickets. It is the 12th over in a 20-over match. Beaumont has scored 47 runs off 39 balls and is facing the current ball. Jones has scored 23 runs off 10 balls. The current bowler is New Zealand&#8217;s Kasperek, who has taken 1 wicket and given up 24 runs in 2 overs this match.</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/scoreline-jpg.webp" alt="A cricket TV broadcast. The overlay reads as follows: ENG 101-2. 12/20. Run Rate 8.42. Beaumont 47* (39), Jones 23 (10). NZ Kasperek 1-24 (2)." class="wp-image-492" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/scoreline-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/scoreline-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/scoreline-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/scoreline-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">This overlay indicates that England are batting and have scored 101 runs for the loss of 2 wickets. It is the 12th over in a 20-over match. Beaumont has scored 47 runs off 39 balls and is facing the current ball. Jones has scored 23 runs off 10 balls. The current bowler is New Zealand&#8217;s Kasperek, who has taken 1 wicket and given up 24 runs in 2 overs this match.</figcaption></figure>
 
 
 
@@ -345,7 +866,7 @@
 		<category><![CDATA[Travel]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=457</guid>
 
-					<description><![CDATA[<img width="1920" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp" class="attachment-large size-large wp-post-image" alt="A wide-angle view of T-Mobile Stadium&#039;s baseball diamond, taken from the stands behind first base." decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-2048x1365.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" />I recently attended a Seattle Mariners game as part of a Microsoft event. It was my first time at a baseball game, so I recorded a bunch of observations about the experience. The stadium experience This was my first time attending any professional sport in person, so I didn&#8217;t have any idea what to expect. [&#8230;]]]></description>
+					<description><![CDATA[<img width="1920" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp" class="attachment-large size-large wp-post-image" alt="A wide-angle view of T-Mobile Stadium&#039;s baseball diamond, taken from the stands behind first base." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-2048x1365.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" />I recently attended a Seattle Mariners game as part of a Microsoft event. It was my first time at a baseball game, so I recorded a bunch of observations about the experience. The stadium experience This was my first time attending any professional sport in person, so I didn&#8217;t have any idea what to expect. [&#8230;]]]></description>
 										<content:encoded><![CDATA[<img width="1920" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp" class="attachment-large size-large wp-post-image" alt="A wide-angle view of T-Mobile Stadium&#039;s baseball diamond, taken from the stands behind first base." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1920x1280.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-800x533.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-768x512.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-1536x1024.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/DSC_0001-2048x1365.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" />
 <p>I recently attended a Seattle Mariners game as part of a Microsoft event. It was my first time at a baseball game, so I recorded a bunch of observations about the experience.</p>
 
@@ -545,6 +1066,7 @@
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Sun, 31 Dec 2023 23:00:00 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Math]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=163</guid>
 
 					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image.png" class="attachment-large size-large wp-post-image" alt="An exploded-view diagram of a cube broken into interior, faces, edges, and corners." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image.png 1600w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-800x450.png 800w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-768x432.png 768w, https://rosschurchley.com/wp-content/uploads/2023/12/216-cover-image-1536x864.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />A while ago I arbitrarily decided that I needed a favourite three-digit number (don’t ask) and ended up choosing 216. It’s a nice cube number —&#160;6×6×6&#160;— and can also be expressed as a sum of three smaller cubes: The&#160;Wikipedia article for the number&#160;has&#160;a diagram&#160;showing one way to reassemble a 6×6×6 cube into three smaller cubes, [&#8230;]]]></description>
@@ -617,6 +1139,23 @@
 		
 			</item>
 		<item>
+		<title>Baskin-Robbins</title>
+		<link>https://rosschurchley.com/2023/baskin-robbins/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sat, 14 Oct 2023 20:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=837</guid>
+
+					<description><![CDATA[Baskin-Robbins famously sells 31 flavours of ice cream at a time. But because a standard freezer holds an even number of buckets, they actually display 32 slots and have one flavour appear twice.]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://en.wikipedia.org/wiki/Baskin-Robbins">Baskin-Robbins</a> famously sells 31 flavours of ice cream at a time. But because a standard freezer holds an even number of buckets, they actually display 32 slots and have one flavour appear twice.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Cross-stitch Primarina</title>
 		<link>https://rosschurchley.com/2023/cross-stitch-primarina/</link>
 		
@@ -636,6 +1175,27 @@
 		
 			</item>
 		<item>
+		<title>Etymology of helicopter</title>
+		<link>https://rosschurchley.com/2023/etymology-of-helicopter/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Mon, 02 Oct 2023 23:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=835</guid>
+
+					<description><![CDATA[My favourite etymology fact is that “helicopter” is helico-pter — Greek for “spiral wing”. It’s obvious when pointed out, but I’d never have realized it on my own since in English it’s always broken down as heli-copter! Relatedly, Magic: The Gathering has a creature type called Thopter, which is a rebracketed abbreviation of the word [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>My favourite etymology fact is that “helicopter” is <a href="https://www.etymonline.com/word/helicopter">helico-pter</a> — Greek for “spiral wing”. It’s obvious when pointed out, but I’d never have realized it on my own since in English it’s always broken down as heli-copter!</p>
+
+
+
+<p>Relatedly, Magic: The Gathering has a creature type called Thopter, which is a <a href="https://en.wikipedia.org/wiki/Rebracketing">rebracketed</a> abbreviation of the word &#8220;<a href="https://en.wikipedia.org/wiki/Ornithopter">ornithopter</a>&#8221; (from <em>ornitho-</em> meaning bird, and <em>pter</em> meaning wing).</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Cross-stitch Flygon</title>
 		<link>https://rosschurchley.com/2023/cross-stitch-flygon/</link>
 		
@@ -649,6 +1209,25 @@
 					<description><![CDATA[<img width="1706" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/09/cover-1706x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the mystic Pokémon Flygon" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/09/cover-1706x1280.webp 1706w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-2048x1536.webp 2048w" sizes="(max-width: 1706px) 100vw, 1706px" />]]></description>
 										<content:encoded><![CDATA[<img width="1706" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/09/cover-1706x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the mystic Pokémon Flygon" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/09/cover-1706x1280.webp 1706w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-2048x1536.webp 2048w" sizes="(max-width: 1706px) 100vw, 1706px" />
 <figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2023/09/pattern.png" alt="Cross-stitch pattern of the Pok&eacute;mon Flygon"><figcaption class="thread-list"><span class="thread" data-dmc="3345" title="Hunter Green (Dark)" style="background-color:#2F6913;color:#ffffff">3345</span><span class="thread" data-dmc="3347" title="Yellow Green (Medium)" style="background-color:#76A451;color:#ffffff">3347</span><span class="thread" data-dmc="3348" title="Yellow Green (Light)" style="background-color:#CEEB90;color:#000000">3348</span><span class="thread" data-dmc="814" title="Garnet (Dark)" style="background-color:#79001C;color:#ffffff">814</span><span class="thread" data-dmc="498" title="Red (Dark)" style="background-color:#A4132B;color:#ffffff">498</span><span class="thread" data-dmc="3833" title="Raspberry (Light)" style="background-color:#EB6D84;color:#ffffff">3833</span></figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Everything must be paid for twice</title>
+		<link>https://rosschurchley.com/2023/everything-must-be-paid-for-twice/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sat, 26 Aug 2023 06:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=812</guid>
+
+					<description><![CDATA[[M]ost of the things we buy have to be paid for twice. There’s the first price, usually paid in dollars, just to gain possession of the desired thing, whatever it is: a book, a budgeting app, a unicycle, a bundle of kale. But then, in order to make use of the thing, you must also [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>[M]ost of the things we buy have to be paid for twice. There’s the first price, usually paid in dollars, just to gain possession of the desired thing, whatever it is: a book, a budgeting app, a unicycle, a bundle of kale. But then, in order to make use of the thing, you must also pay a second price. This is the effort and initiative required to gain its benefits, and it can be much higher than the first price.</p>
+<cite><a href="https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/">David Cain</a></cite></blockquote>
 ]]></content:encoded>
 					
 		
@@ -680,6 +1259,7 @@
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Wed, 16 Aug 2023 22:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Geography]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=345</guid>
 
 					<description><![CDATA[It’s easy to confuse the flags of Australia and Aotearoa New Zealand if your eyes don’t know what to look for. I had always distinguished between the two by the colour of the stars in the Southern Cross, but there’s a much easier way to tell them apart at lower resolution: AUS has a giant [&#8230;]]]></description>
@@ -693,6 +1273,52 @@
 
 
 <p>AUS <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f1e6-1f1fa.png" alt="🇦🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>NZL <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f1f3-1f1ff.png" alt="🇳🇿" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Vancouver train stations</title>
+		<link>https://rosschurchley.com/2023/vancouver-train-stations/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 01:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Vancouver]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=810</guid>
+
+					<description><![CDATA[Today I learned the reason why Vancouver has two impressive-looking historic train stations: they were built by two different companies to serve as the terminus of two different railways. Waterfront station was built in 1914 for the Canadian Pacific Railway, while Pacific Central Station was built a few years later for the Canadian Northern Railway. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Today I learned the reason why Vancouver has two impressive-looking historic train stations: they were built by two different companies to serve as the terminus of two different railways.</p>
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/Waterfront_station_(Vancouver)">Waterfront station</a> was built in 1914 for the <a href="https://en.wikipedia.org/wiki/Canadian_Pacific_Railway">Canadian Pacific Railway</a>, while <a href="https://en.wikipedia.org/wiki/Pacific_Central_Station">Pacific Central Station</a> was built a few years later for the <a href="https://en.wikipedia.org/wiki/Canadian_Northern_Railway">Canadian Northern Railway</a>.<sup data-fn="93b38774-a02a-411e-b8a5-c0dc9674c4e5" class="fn"><a href="#93b38774-a02a-411e-b8a5-c0dc9674c4e5" id="93b38774-a02a-411e-b8a5-c0dc9674c4e5-link">1</a></sup></p>
+
+
+
+<p>Anyways, neither station is currently used by the company that built it, with Waterfront Station serving as the regional public transit hub and Pacific Central Station used by Via Rail, Amtrak, and various intercity bus companies.</p>
+
+
+<ol class="wp-block-footnotes"><li id="93b38774-a02a-411e-b8a5-c0dc9674c4e5">Canadian Northern was nationalized as Canadian National Railways, then privatized as CN, and now apparently <a href="https://www.sec.gov/Archives/edgar/data/16868/000110465922064857/tm2216989d1_sc13da.htm">Bill Gates is the company&#8217;s largest shareholder</a>? I did not expect that. <a href="#93b38774-a02a-411e-b8a5-c0dc9674c4e5-link" aria-label="Jump to footnote reference 1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li></ol>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Do not feed the wildlife</title>
+		<link>https://rosschurchley.com/2023/do-not-feed-the-wildlife/</link>
+		
+		<dc:creator><![CDATA[Ross]]></dc:creator>
+		<pubDate>Sun, 13 Aug 2023 22:00:00 +0000</pubDate>
+				<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Gee that's random]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=807</guid>
+
+					<description><![CDATA[<img width="1280" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-1280x1280.webp" class="attachment-large size-large wp-post-image" alt="A park sign reading &quot;Do not feed the wildlife or birds&quot;" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-1280x1280.webp 1280w, https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-600x600.webp 600w, https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-150x150.webp 150w, https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-768x768.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-1536x1536.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-2048x2048.webp 2048w" sizes="(max-width: 1280px) 100vw, 1280px" />The implication of this sign is that some of the birds in the park are not considered wildlife. Are pigeons wildlife?]]></description>
+										<content:encoded><![CDATA[<img width="1280" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-1280x1280.webp" class="attachment-large size-large wp-post-image" alt="A park sign reading &quot;Do not feed the wildlife or birds&quot;" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-1280x1280.webp 1280w, https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-600x600.webp 600w, https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-150x150.webp 150w, https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-768x768.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-1536x1536.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/06/IMG_0832-2048x2048.webp 2048w" sizes="(max-width: 1280px) 100vw, 1280px" />
+<p>The implication of this sign is that some of the birds in the park are not considered wildlife. Are pigeons wildlife?</p>
 ]]></content:encoded>
 					
 		
@@ -899,6 +1525,7 @@
 		<dc:creator><![CDATA[Ross]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2023 22:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Biology]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=143</guid>
 
 					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp" class="attachment-large size-large wp-post-image" alt="A two-by-two grid of plant photos. Clockwise from top left: a maple tree, a holly tree, a lettuce plant, and a cabbage plant." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/taxonomy-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Between cabbage, lettuce, maple, and holly, two plants are in the rosid clade (related to roses) and two are in the asterid clade (related to sunflowers). Can you guess which is which? I would have guessed that the trees might be related to a woody rose bush, while the leafy greens would be closer to [&#8230;]]]></description>
@@ -1128,281 +1755,6 @@
 
 
 <figure class="wp-block-table"><table><thead><tr><th>Material</th><th>Density</th></tr></thead><tbody><tr><td>Amber</td><td>1.06–1.11</td></tr><tr><td>Asbestos</td><td>2.0–2.8</td></tr><tr><td>Asphalt</td><td>1.1–1.5</td></tr><tr><td>Beeswax</td><td>0.96–0.97</td></tr><tr><td>Bone</td><td>1.7–2.0</td></tr><tr><td>Brick</td><td>1.4–2.2</td></tr><tr><td>Butter</td><td>0.86–0.87</td></tr><tr><td>Cardboard</td><td>0.69</td></tr><tr><td>Chalk</td><td>1.9–2.8</td></tr><tr><td>Charcoal, oak</td><td>0.57</td></tr><tr><td>Charcoal, pine</td><td>0.28–0.44</td></tr><tr><td>Clay</td><td>1.8–2.6</td></tr><tr><td>Cork</td><td>0.22–0.26</td></tr><tr><td>Diamond</td><td>3.51</td></tr><tr><td>Gelatin</td><td>1.27</td></tr><tr><td>Glass</td><td>2.4–2.8</td></tr><tr><td>Granite</td><td>2.64–2.76</td></tr><tr><td>Ice</td><td>0.917</td></tr><tr><td>Iron, cast</td><td>7.0–7.4</td></tr><tr><td>Limestone</td><td>2.68–2.76</td></tr><tr><td>Paper</td><td>0.7–1.15</td></tr><tr><td>Polyethylene</td><td>0.92–0.97</td></tr><tr><td>Porcelain</td><td>2.3–2.5</td></tr><tr><td>Quartz</td><td>2.65</td></tr><tr><td>Rubber, hard</td><td>1.19</td></tr><tr><td>Sandstone</td><td>2.14–2.36</td></tr><tr><td>Sugar</td><td>1.59</td></tr><tr><td>Wood, balsa</td><td>0.11–0.14</td></tr><tr><td>Wood, bamboo</td><td>0.31–0.40</td></tr><tr><td>Wood, cedar</td><td>0.49–0.57</td></tr><tr><td>Wood, mahogany</td><td>0.66–0.85</td></tr><tr><td>Wood, oak</td><td>0.60–0.90</td></tr></tbody></table></figure>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Know your watershed</title>
-		<link>https://rosschurchley.com/2023/know-your-watershed/</link>
-		
-		<dc:creator><![CDATA[Ross]]></dc:creator>
-		<pubDate>Mon, 15 May 2023 22:00:00 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[Geography]]></category>
-		<category><![CDATA[Know your watershed]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=134</guid>
-
-					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/05/cover-2.webp" class="attachment-large size-large wp-post-image" alt="A relief map zoomed in to New Westminster, Burnaby, and Coquitlam, showing creeks draining into the Brunette River watershed." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/cover-2.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />I’m on a quest to explore the creeks and waterways of Vancouver, Burnaby, and New Westminster. First, I need to understand how the topography of my neighbourhood determines the flow of water and the formation of streams. Three main topological features define how water flows in the Vancouver-Burnaby-New West area: These features divide the Burrard [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/05/cover-2.webp" class="attachment-large size-large wp-post-image" alt="A relief map zoomed in to New Westminster, Burnaby, and Coquitlam, showing creeks draining into the Brunette River watershed." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/cover-2.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/cover-2-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
-<p>I’m on a quest to explore the creeks and waterways of Vancouver, Burnaby, and New Westminster. First, I need to understand how the topography of my neighbourhood determines the flow of water and the formation of streams.</p>
-
-
-
-<span id="more-134"></span>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/contours-jpeg.webp" alt="A topographic map of the Burrard Peninsula." class="wp-image-237" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/contours-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/contours-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/05/contours-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/contours-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">A topographic map of the Burrard Peninsula.</figcaption></figure>
-
-
-
-<p>Three main topological features define how water flows in the Vancouver-Burnaby-New West area:</p>
-
-
-
-<ul>
-<li>a chain of hills running along səl̓ilw̓ət (Burrard Inlet) from East Vancouver to Coquitlam, including Capitol Hill and lhuḵw’lkuḵw’áyten (Burnaby Mountain);</li>
-
-
-
-<li>a ridge extending from t̕θəcəliʔqʷ (UBC) to sχʷeyəməɬ (New Westminster) along the southern half of the peninsula, with peaks at Little Mountain and the Metrotown area; and</li>
-
-
-
-<li>weirdly enough, a barely perceptible incline between Nanaimo Street and Renfrew Street in East Vancouver.</li>
-</ul>
-
-
-
-<p>These features divide the Burrard Peninsula into four watersheds, which determine where a falling raindrop will flow</p>
-
-
-
-<ul>
-<li>north, into səl̓ilw̓ət (Burrard Inlet),</li>
-
-
-
-<li>northwest, into False Creek/English Bay,</li>
-
-
-
-<li>south, into stal̓əw̓ (the Fraser River), or</li>
-
-
-
-<li>east, through Still Creek, Burnaby Lake, and the Brunette River, before returning west via stal̓əw̓ (the Fraser River).</li>
-</ul>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/05/vancouver-watersheds.png" alt="A topographic map of the Burrard Peninsula, divided into four coloured regions as described above." class="wp-image-236" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/vancouver-watersheds.png 1600w, https://rosschurchley.com/wp-content/uploads/2024/05/vancouver-watersheds-800x450.png 800w, https://rosschurchley.com/wp-content/uploads/2024/05/vancouver-watersheds-768x432.png 768w, https://rosschurchley.com/wp-content/uploads/2024/05/vancouver-watersheds-1536x864.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">The main watersheds of the Burrard Peninsula.</figcaption></figure>
-
-
-
-<p>(More detailed watershed maps can be found on the websites of the&nbsp;<a href="https://vancouver.ca/files/cov/one-water-watershed-characterization.pdf">City of Vancouver</a> and the&nbsp;<a href="https://www.burnaby.ca/sites/default/files/acquiadam/2021-07/Waterways%20of%20Burnaby.pdf">City of Burnaby</a>.)</p>
-
-
-
-<p>Most of the&nbsp;<a href="https://hdl.handle.net/11272/IKHNQ">historic streams</a>&nbsp;of Vancouver have been developed over, so rainwater now is mainly conveyed through storm drains and groundwater. In contrast, Burnaby still has plenty of streams carrying rain through its watersheds.</p>
-
-
-
-<p>I’ll be exploring these streams and attempting to trace them from source to mouth. Stay tuned for more!</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Jilg&#8217;s sidewalk</title>
-		<link>https://rosschurchley.com/2023/jilgs-sidewalk/</link>
-		
-		<dc:creator><![CDATA[Ross]]></dc:creator>
-		<pubDate>Thu, 11 May 2023 22:00:00 +0000</pubDate>
-				<category><![CDATA[Snippets]]></category>
-		<category><![CDATA[Urbanism]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=132</guid>
-
-					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp" class="attachment-large size-large wp-post-image" alt="An illustration of a city block with bottomless pits for streets." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />This picture illustrates the danger of poorly-designed streets, which the Swedish government set out to improve in the 1990s. It was originally created by Swedish artist Karl Jilg, who was commissioned by the Swedish Road Administration to explain new Vision Zero initiatives. The&#160;ideas&#160;behind the initiatives were that The picture is intended to turn the kinetic energy of a moving car [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp" class="attachment-large size-large wp-post-image" alt="An illustration of a city block with bottomless pits for streets." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
-<p>This picture illustrates the danger of poorly-designed streets, which the Swedish government set out to improve in the 1990s. It was originally created by Swedish artist <a href="http://www.jilg.com/">Karl Jilg</a>, who was commissioned by the <a href="https://en.wikipedia.org/wiki/Swedish_Road_Administration">Swedish Road Administration</a> to explain new <a href="https://en.wikipedia.org/wiki/Vision_Zero">Vision Zero</a> initiatives.</p>
-
-
-
-<span id="more-132"></span>
-
-
-
-<p>The&nbsp;<a href="https://doi.org/10.1007/978-3-030-23176-7_8-1">ideas</a>&nbsp;behind the initiatives were that</p>
-
-
-
-<ol>
-<li>The responsibility for preventing deaths and injuries on the road transportation system partly rests with the people who design that infrastructure, and</li>
-
-
-
-<li>Deaths and injuries on the road ultimately come down to kinetic energy.</li>
-</ol>
-
-
-
-<p>The picture is intended to turn the kinetic energy of a moving car into a height to show the consequences of simple human mistakes in the road system. Research shows that the highest acceptable speed on a street with active users like this is 30km/h.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="600" height="800" src="https://rosschurchley.com/wp-content/uploads/2024/05/jilg-sidewalk-jpeg.webp" alt="An illustration of a city block with bottomless pits for streets." class="wp-image-227" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/jilg-sidewalk-jpeg.webp 600w, https://rosschurchley.com/wp-content/uploads/2024/05/jilg-sidewalk-450x600.webp 450w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption class="wp-element-caption">Pedestrians navigate the dangerous chasms of city streets. (Karl Jilg / Vägverket)</figcaption></figure>
-
-
-
-<p>The image has been widely shared, thanks in part to&nbsp;<a href="https://www.vox.com/xpress/2014/11/18/7236471/cars-pedestrians-sidewalks-roads">a 2014 Vox article</a>&nbsp;that used it to call attention to other pedestrian-hostile aspects about many cities’ street designs:</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>Most roads in the US are built for cars, not for pedestrians. This brilliant illustration shows just how lopsided the the proportions of a normal urban street corner really are.</p>
-</blockquote>
-
-
-
-<p>The city sidewalk picture is just one of a series of four that Jilg illustrated for the Swedish government. The other one I found is set on a highway.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="600" height="800" src="https://rosschurchley.com/wp-content/uploads/2024/05/jilg-canyon-jpeg.webp" alt="An illustration of a car speeding along a road high in the mountains." class="wp-image-228" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/jilg-canyon-jpeg.webp 600w, https://rosschurchley.com/wp-content/uploads/2024/05/jilg-canyon-450x600.webp 450w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption class="wp-element-caption">A car moving at highway speeds has a lot of kinetic energy. (Karl Jilg / Vägverket)</figcaption></figure>
-
-
-
-<p>I’m not sure whether Jilg did any calculations to create these, but a head-on collision between two cars at highway speed is approximately equivalent to a single car being dropped from a height of 200m. Sweden added median barriers to many highways in the late ’90s, which reduced the incidence of head-on collisions and the risk of fatalities by 80%.</p>
-
-
-
-<p>I have unfortunately not been able to find the other two illustrations in the set. Jilg has, however, done other work for the Swedish government.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="600" src="https://rosschurchley.com/wp-content/uploads/2024/05/jilg-documents.png" alt="A page out of a Swedish government manual about decision-making processes." class="wp-image-229" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/jilg-documents.png 800w, https://rosschurchley.com/wp-content/uploads/2024/05/jilg-documents-768x576.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">A less striking example of Jilg&#8217;s work. (Karl Jilg / Vägverket)</figcaption></figure>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>If you see a coyote</title>
-		<link>https://rosschurchley.com/2023/if-you-see-a-coyote/</link>
-		
-		<dc:creator><![CDATA[Ross]]></dc:creator>
-		<pubDate>Tue, 09 May 2023 22:00:00 +0000</pubDate>
-				<category><![CDATA[Photos]]></category>
-		<category><![CDATA[Gee that's random]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=130</guid>
-
-					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A sign posted by the Vancouver Parks Board at the entrance to a park." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />If you see a coyote in Vancouver, the officially recommended course of action is to yell &#8220;Go away coyote&#8221;.]]></description>
-										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A sign posted by the Vancouver Parks Board at the entrance to a park." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/05/coyote-sign-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
-<p>If you see a coyote in Vancouver, the officially recommended course of action is to yell &#8220;Go away coyote&#8221;.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Cricut-made Magic: the Gathering packs</title>
-		<link>https://rosschurchley.com/2022/cricut-made-magic-the-gathering-packs/</link>
-		
-		<dc:creator><![CDATA[Ross]]></dc:creator>
-		<pubDate>Thu, 01 Dec 2022 23:00:00 +0000</pubDate>
-				<category><![CDATA[Crafts]]></category>
-		<category><![CDATA[Cricut]]></category>
-		<category><![CDATA[Magic: the Gathering]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=128</guid>
-
-					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/12/cover-jpg.webp" class="attachment-large size-large wp-post-image" alt="A small stack of Magic: the Gathering cards in a homemade paper packet." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2022/12/cover-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/12/cover-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/12/cover-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/12/cover-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />Leah and I have really gotten into Magic: the Gathering. Our favourite ways to play are&#160;sealed deck&#160;and&#160;Jumpstart, both of which involve opening new packs and making decks out of what you open. Since it would be wasteful (not to mention expensive) to buy new cards every time we play, we only buy a certain number [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2022/12/cover-jpg.webp" class="attachment-large size-large wp-post-image" alt="A small stack of Magic: the Gathering cards in a homemade paper packet." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2022/12/cover-jpg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2022/12/cover-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2022/12/cover-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2022/12/cover-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
-<p>Leah and I have really gotten into Magic: the Gathering. Our favourite ways to play are&nbsp;<a href="https://mtg.fandom.com/wiki/Sealed_Deck">sealed deck</a>&nbsp;and&nbsp;<a href="https://mtg.fandom.com/wiki/Jumpstart_(format)">Jumpstart</a>, both of which involve opening new packs and making decks out of what you open.</p>
-
-
-
-<p>Since it would be wasteful (not to mention expensive) to buy new cards every time we play, we only buy a certain number of packs each set and re-use the cards we open to make our own packs for later games.</p>
-
-
-
-<span id="more-128"></span>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="8" height="4" src="https://rosschurchley.com/wp-content/uploads/2024/05/cricut-mtg-pack.svg" alt="Cutout template for a tuck-flap box." class="wp-image-221"/><figcaption class="wp-element-caption">Cutout template for a 94mm × 67mm × 18mm tuck-flap box, which holds 20 unsleeved Magic cards with room to spare.</figcaption></figure>
-
-
-
-<p>We originally tried coin envelopes and a product called&nbsp;<a href="https://hitpointpress.com/collections/thingamajigs">Cubeamajigs</a>, but neither was as nice or convenient as the side-loading papercraft boxes I made with my&nbsp;<a href="https://cricut.com/en-ca/">Cricut</a>.</p>
-
-
-
-<p>The above SVG image can be imported into Cricut Design Space to make boxes of your own. Or, if you want to make a box with different dimensions, a tool called&nbsp;<a href="https://www.templatemaker.nl/en/cardbox/">Templatemaker</a>&nbsp;can make similar patterns.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>O Canada&#8217;s copyright</title>
-		<link>https://rosschurchley.com/2022/o-canadas-copyright/</link>
-		
-		<dc:creator><![CDATA[Ross]]></dc:creator>
-		<pubDate>Fri, 01 Jul 2022 22:00:00 +0000</pubDate>
-				<category><![CDATA[Snippets]]></category>
-		<category><![CDATA[History]]></category>
-		<category><![CDATA[Law]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=313</guid>
-
-					<description><![CDATA[In the late &#8217;60s, the government sought to adopt O Canada as the national anthem. The music and original French lyrics had passed into the public domain, but the English version was still under copyright. The government settled the rights for a dollar. Ironically, the copyright to the English lyrics would have expired anyways by [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>In the late &#8217;60s, the government sought to adopt <a href="https://en.wikipedia.org/wiki/O_Canada"><em>O Canada</em></a> as the national anthem. The music and original French lyrics had passed into the public domain, but the English version was still under copyright. The government settled the rights <a href="https://www.thecanadianencyclopedia.ca/en/article/o-canada">for a dollar</a>.</p>
-
-
-
-<p>Ironically, the copyright to the English lyrics would have expired anyways by the time the <em>National Anthem Act</em> was finally passed in 1980.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Scent trademarks</title>
-		<link>https://rosschurchley.com/2022/scent-trademarks/</link>
-		
-		<dc:creator><![CDATA[Ross]]></dc:creator>
-		<pubDate>Sat, 11 Jun 2022 22:00:00 +0000</pubDate>
-				<category><![CDATA[Snippets]]></category>
-		<category><![CDATA[Law]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=311</guid>
-
-					<description><![CDATA[Crayola has a trademark on the smell of its crayons. The odour is described in the Canadian trademarks registry as: A unique scent of a pungent, aldehydic fragrance combined with the faint scent of a hydrocarbon wax and an earthy clay. Trademark 1986544 In Canada, a trademark can be anything that is used by by [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Crayola has a trademark on the <em>smell</em> of its crayons. The odour is described in the Canadian trademarks registry as:</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>A unique scent of a pungent, aldehydic fragrance combined with the faint scent of a hydrocarbon wax and an earthy clay.</p>
-<cite><a href="https://ised-isde.canada.ca/cipo/trademark-search/1986544">Trademark 1986544</a></cite></blockquote>
-
-
-
-<p>In Canada, a trademark can be anything that is used by by a seller to distinguish their goods or services from those of others, including</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>a word, a personal name, a design, a letter, a numeral, a colour, a figurative element, a three-dimensional shape, a hologram, a moving image, a mode of packaging goods, a sound, a scent, a taste, a texture and the positioning of a sign.</p>
-<cite><a href="https://www.laws-lois.justice.gc.ca/eng/acts/t-13/FullText.html">Trademarks Act</a></cite></blockquote>
-
-
-
-<p>Unfortunately, I have not been able to find records of anyone litigating over a scent trademark.</p>
 ]]></content:encoded>
 					
 		
