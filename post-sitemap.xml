@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://rosschurchley.com/</loc>
-		<lastmod>2024-09-11T07:22:48+00:00</lastmod>
+		<lastmod>2024-09-11T08:24:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://rosschurchley.com/2018/cat-cuboctahedron/</loc>
@@ -784,7 +784,7 @@
 	</url>
 	<url>
 		<loc>https://rosschurchley.com/2024/what-colour-is-a-fire-hydrant/</loc>
-		<lastmod>2024-09-11T07:22:48+00:00</lastmod>
+		<lastmod>2024-09-11T08:24:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/cover.webp</image:loc>
 		</image:image>
