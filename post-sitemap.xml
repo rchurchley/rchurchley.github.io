@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://rosschurchley.com/</loc>
-		<lastmod>2024-09-11T08:24:30+00:00</lastmod>
+		<lastmod>2024-09-16T05:37:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://rosschurchley.com/2018/cat-cuboctahedron/</loc>
@@ -784,7 +784,7 @@
 	</url>
 	<url>
 		<loc>https://rosschurchley.com/2024/what-colour-is-a-fire-hydrant/</loc>
-		<lastmod>2024-09-11T08:24:30+00:00</lastmod>
+		<lastmod>2024-09-15T21:51:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/cover.webp</image:loc>
 		</image:image>
@@ -832,6 +832,109 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/hope-down-scaled.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rosschurchley.com/2024/diggy/</loc>
+		<lastmod>2024-09-16T05:37:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/IMG_0022-jpg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-arrival-kitchen-jpg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-arrival-chair-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-mischief-books-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-mischief-kleenex-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-mischief-bags-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-mischief-bath-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-mischief-water-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-mischief-water-2-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-mischief-recycling-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-mischief-couch-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-mischief-paper-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-mischief-kitchen-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-mischief-printer-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-mischief-blinds-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-ross-ds-1-jpg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-ross-vest-jpg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-ross-bed-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-ross-outside-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-ross-christmas-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-ross-couch-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-ross-glasses-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-pazzo-couch-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-pazzo-tower-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-pazzo-office-2-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-pazzo-office-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-pazzo-bed-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-blep-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-blep-3-jpg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/diggy-blep-3-1-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/DSC_0008-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/IMG_0336-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/DSC_0042-scaled.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
