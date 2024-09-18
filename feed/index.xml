@@ -12,7 +12,7 @@
 	<atom:link href="https://rosschurchley.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Mon, 16 Sep 2024 06:25:35 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Sep 2024 06:01:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,12 +28,56 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Memorable prime numbers</title>
+		<link>https://rosschurchley.com/2024/memorable-prime-numbers/</link>
+		
+		<dc:creator><![CDATA[Ross Churchley]]></dc:creator>
+		<pubDate>Tue, 17 Sep 2024 20:25:14 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Math]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=974</guid>
+
+					<description><![CDATA[In case you ever have need for a large-ish prime number, here are a few that are easy to remember:]]></description>
+										<content:encoded><![CDATA[
+<p>In case you ever have need for a large-ish prime number, here are a few that are easy to remember:</p>
+
+
+
+<ul class="wp-block-list">
+<li>314159 (⌊π×10<sup>5</sup>⌋)</li>
+
+
+
+<li>8675309 (<a href="https://en.wikipedia.org/wiki/867-5309/Jenny">Jenny&#8217;s number</a>)</li>
+
+
+
+<li>1000000007 (a billion and seven)</li>
+
+
+
+<li>2147483647 (2³¹−1, i.e. <a href="https://en.wikipedia.org/wiki/2,147,483,647">INT_MAX</a>)</li>
+
+
+
+<li>11111111111111111111111 (<a href="https://oeis.org/A004023">twenty-three ones</a>)</li>
+
+
+
+<li>1000000000000066600000000000001 (<a href="https://en.wikipedia.org/wiki/Belphegor's_prime">Belphegor&#8217;s prime</a>)</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Diggy</title>
 		<link>https://rosschurchley.com/2024/diggy/</link>
 		
 		<dc:creator><![CDATA[Ross Churchley]]></dc:creator>
 		<pubDate>Sat, 14 Sep 2024 01:00:00 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
+				<category><![CDATA[Photos]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=921</guid>
 
 					<description><![CDATA[<img width="1579" height="887" src="https://rosschurchley.com/wp-content/uploads/2024/09/IMG_0022-jpg.webp" class="attachment-large size-large wp-post-image" alt="The orange cat Diggy sits on my shoulders." decoding="async" fetchpriority="high" srcset="https://rosschurchley.com/wp-content/uploads/2024/09/IMG_0022-jpg.webp 1579w, https://rosschurchley.com/wp-content/uploads/2024/09/IMG_0022-800x449.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/09/IMG_0022-768x431.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/09/IMG_0022-1536x863.webp 1536w" sizes="(max-width: 1579px) 100vw, 1579px" />Diggy, my best furry friend of twelve years, passed away this week. He was full of sass, love, energy, mischief, curiosity, and affection, and will be deeply missed. Diggy was found as a kitten on the streets of Kamloops in 2012, and Leah and I took him in on November 1. As soon as he [&#8230;]]]></description>
@@ -219,6 +263,7 @@
 		<dc:creator><![CDATA[Ross Churchley]]></dc:creator>
 		<pubDate>Wed, 11 Sep 2024 07:22:47 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Urban planning]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=886</guid>
 
 					<description><![CDATA[<img width="1600" height="900" src="https://rosschurchley.com/wp-content/uploads/2024/09/cover.webp" class="attachment-large size-large wp-post-image" alt="Vector art of fire hydrants of various colours." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/09/cover.webp 1600w, https://rosschurchley.com/wp-content/uploads/2024/09/cover-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/09/cover-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/09/cover-1536x864.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />You know what a fire hydrant looks like. You pass by them every day, and they&#8217;re all painted to be a highly visible red. Or is it yellow? Wait, maybe they have other colours on them too? If the subject of fire hydrant colours has ever crossed your mind, you might have assumed (as I [&#8230;]]]></description>
@@ -414,6 +459,8 @@
 		<dc:creator><![CDATA[Ross Churchley]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 04:32:17 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Food]]></category>
+		<category><![CDATA[Music]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=881</guid>
 
 					<description><![CDATA[Most ice cream trucks in Canada and the United States use music boxes made by a single mom-and-pop company in Minneapolis. If there&#8217;s a particular ice cream truck song that annoys you all summer, you have the Nichols Electronics Company to blame. (You could always ask the your local driver if they&#8217;re able to switch [&#8230;]]]></description>
@@ -1585,6 +1632,7 @@
 		<dc:creator><![CDATA[Ross Churchley]]></dc:creator>
 		<pubDate>Sat, 14 Oct 2023 20:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Food]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=837</guid>
 
 					<description><![CDATA[Baskin-Robbins famously sells 31 flavours of ice cream at a time. But because a standard freezer holds an even number of buckets, they actually display 32 slots and have one flavour appear twice.]]></description>
@@ -1621,6 +1669,7 @@
 		<dc:creator><![CDATA[Ross Churchley]]></dc:creator>
 		<pubDate>Mon, 02 Oct 2023 23:00:00 +0000</pubDate>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[Language]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=835</guid>
 
 					<description><![CDATA[My favourite etymology fact is that “helicopter” is helico-pter — Greek for “spiral wing”. It’s obvious when pointed out, but I’d never have realized it on my own since in English it’s always broken down as heli-copter! Relatedly, Magic: The Gathering has a creature type called Thopter, which is a rebracketed abbreviation of the word [&#8230;]]]></description>
@@ -1918,41 +1967,6 @@
 					<description><![CDATA[<img width="1706" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-1706x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the mega-evolved version of the Pokémon Mawile." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-1706x1280.webp 1706w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-2048x1536.webp 2048w" sizes="(max-width: 1706px) 100vw, 1706px" />]]></description>
 										<content:encoded><![CDATA[<img width="1706" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-1706x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the mega-evolved version of the Pokémon Mawile." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-1706x1280.webp 1706w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-mega-mawile-2048x1536.webp 2048w" sizes="(max-width: 1706px) 100vw, 1706px" />
 <figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2023/06/cross-stitch-pattern-mawile.png" alt="Cross-stitch pattern of the mega-evolved form of the Pok&eacute;mon Mawile"><figcaption class="thread-list"><span class="thread" data-dmc="814" title="Garnet (Dark)" style="background-color:#79001C;color:#ffffff">814</span><span class="thread" data-dmc="498" title="Red (Dark)" style="background-color:#A4132B;color:#ffffff">498</span><span class="thread" data-dmc="3831" title="Raspberry (Dark)" style="background-color:#B22B54;color:#ffffff">3831</span><span class="thread" data-dmc="783" title="Topaz (Medium)" style="background-color:#DA9605;color:#ffffff">783</span><span class="thread" data-dmc="676" title="Old Gold (Light)" style="background-color:#EECA70;color:#000000">676</span><span class="thread" data-dmc="413" title="Pewter Gray (Dark)" style="background-color:#3E4144;color:#ffffff">413</span><span class="thread" data-dmc="169" title="Pewter (Light)" style="background-color:#7F8887;color:#ffffff">169</span></figcaption></figure>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Alternate periodic tables</title>
-		<link>https://rosschurchley.com/2023/alternate-periodic-tables/</link>
-		
-		<dc:creator><![CDATA[Ross Churchley]]></dc:creator>
-		<pubDate>Fri, 16 Jun 2023 22:00:00 +0000</pubDate>
-				<category><![CDATA[Snippets]]></category>
-		<category><![CDATA[Chemistry]]></category>
-		<category><![CDATA[Physics]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=145</guid>
-
-					<description><![CDATA[<img width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp" class="attachment-large size-large wp-post-image" alt="The periodic table of the elements presented as a colourful ribbon spiralling out from hydrogen." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-1536x1152.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />The standard Periodic Table is an iconic data visualization, but it’s not the only way to represent the relationships between elements. This beautiful &#8220;ribbon&#8221; version was designed by James Hyde in the 1970s. James Franklin Hyde&#160;was a pioneer in the silicone industry, so it’s appropriate that&#160;periodic ribbon&#160;puts the element silicon in the center and highlights [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1600" height="1200" src="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp" class="attachment-large size-large wp-post-image" alt="The periodic table of the elements presented as a colourful ribbon spiralling out from hydrogen." decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-jpeg.webp 1600w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/06/chemical-elements-1536x1152.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />
-<p>The standard Periodic Table is an iconic data visualization, but it’s not the only way to represent the relationships between elements. <a href="https://digital.sciencehistory.org/works/8p58pf13g">This beautiful &#8220;ribbon&#8221; version</a> was designed by James Hyde in the 1970s.</p>
-
-
-
-<span id="more-145"></span>
-
-
-
-<p><a href="https://en.wikipedia.org/wiki/James_Franklin_Hyde">James Franklin Hyde</a>&nbsp;was a pioneer in the silicone industry, so it’s appropriate that&nbsp;periodic ribbon&nbsp;puts the element silicon in the center and highlights its relationships to the other elements.</p>
-
-
-
-<p>Hyde may have been inspired by the&nbsp;spiral chart&nbsp;published by&nbsp;<a href="https://en.wikipedia.org/wiki/Otto_Theodor_Benfey">Theodor Benfey</a>&nbsp;in the same journal a few years earlier.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1392" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1392x1280.webp" alt="A different periodic table of the elements in the shape of a spiral centered around hydrogen." class="wp-image-184" srcset="https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1392x1280.webp 1392w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-653x600.webp 653w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-768x706.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-1536x1412.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/05/benfey-2048x1883.webp 2048w" sizes="(max-width: 1392px) 100vw, 1392px" /><figcaption class="wp-element-caption">Benfey&#8217;s periodic snail of the elements. (<a href="https://digital.sciencehistory.org/works/9p290b30x">Theodor Benfey / Science History Institute</a>)</figcaption></figure>
 ]]></content:encoded>
 					
 		

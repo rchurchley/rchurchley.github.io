@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://rosschurchley.com/</loc>
-		<lastmod>2024-09-16T06:25:35+00:00</lastmod>
+		<lastmod>2024-09-18T06:01:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://rosschurchley.com/2018/cat-cuboctahedron/</loc>
@@ -69,22 +69,6 @@
 		<lastmod>2024-05-07T04:43:48+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rosschurchley.com/wp-content/uploads/2023/06/emoji.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://rosschurchley.com/2023/jilgs-sidewalk/</loc>
-		<lastmod>2024-05-07T07:05:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/05/jilg-sidewalk-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/05/jilg-canyon-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/05/jilg-documents.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -711,14 +695,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://rosschurchley.com/2023/baskin-robbins/</loc>
-		<lastmod>2024-06-14T04:38:27+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://rosschurchley.com/2023/etymology-of-helicopter/</loc>
-		<lastmod>2024-06-14T04:38:43+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://rosschurchley.com/2016/pokemon-urban-planning/</loc>
 		<lastmod>2024-06-14T04:41:07+00:00</lastmod>
 	</url>
@@ -779,64 +755,8 @@
 		<lastmod>2024-07-03T06:43:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://rosschurchley.com/2024/ice-cream-truck-music/</loc>
-		<lastmod>2024-07-10T04:32:17+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://rosschurchley.com/2024/what-colour-is-a-fire-hydrant/</loc>
-		<lastmod>2024-09-15T21:51:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/cover.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/nfpa-blue-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/nfpa-green-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/van-red-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/van-yellow-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/van-green-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/van-blue-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/van-dfps-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/bur-flowers-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/bur-above-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/bur-side-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/kam-road-1-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/kam-yellow-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/kam-black-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/hope-street-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/hope-down-scaled.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://rosschurchley.com/2024/diggy/</loc>
-		<lastmod>2024-09-16T06:25:35+00:00</lastmod>
+		<lastmod>2024-09-17T20:36:12+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/IMG_0022-jpg.webp</image:loc>
 		</image:image>
@@ -936,6 +856,90 @@
 		<image:image>
 			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/DSC_0042-scaled.webp</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://rosschurchley.com/2023/etymology-of-helicopter/</loc>
+		<lastmod>2024-09-17T20:36:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rosschurchley.com/2024/what-colour-is-a-fire-hydrant/</loc>
+		<lastmod>2024-09-17T20:37:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/cover.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/nfpa-blue-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/nfpa-green-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/van-red-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/van-yellow-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/van-green-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/van-blue-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/van-dfps-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/bur-flowers-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/bur-above-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/bur-side-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/kam-road-1-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/kam-yellow-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/kam-black-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/hope-street-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/09/hope-down-scaled.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rosschurchley.com/2023/jilgs-sidewalk/</loc>
+		<lastmod>2024-09-17T20:38:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2023/05/jilg-sidewalk-jpg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/05/jilg-sidewalk-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/05/jilg-canyon-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/05/jilg-documents.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rosschurchley.com/2024/ice-cream-truck-music/</loc>
+		<lastmod>2024-09-17T20:39:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rosschurchley.com/2023/baskin-robbins/</loc>
+		<lastmod>2024-09-17T20:39:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://rosschurchley.com/2024/memorable-prime-numbers/</loc>
+		<lastmod>2024-09-18T06:01:03+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
