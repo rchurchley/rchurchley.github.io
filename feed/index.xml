@@ -12,7 +12,7 @@
 	<atom:link href="https://rosschurchley.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rosschurchley.com/</link>
 	<description>A commonplace book by Ross Churchley</description>
-	<lastBuildDate>Sun, 13 Oct 2024 19:27:58 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Oct 2024 02:58:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Pythagorean theorem</title>
+		<link>https://rosschurchley.com/2024/pythagorean-theorem/</link>
+		
+		<dc:creator><![CDATA[Ross Churchley]]></dc:creator>
+		<pubDate>Mon, 14 Oct 2024 20:00:00 +0000</pubDate>
+				<category><![CDATA[Snippets]]></category>
+		<guid isPermaLink="false">https://rosschurchley.com/?p=1031</guid>
+
+					<description><![CDATA[The Pythagorean theorem states that, for a right triangles with side lengths a, b and hypotenuse c: There are many proofs, but my favourite for its geometric simplicity is the following rearrangement of a square with side length a+b.]]></description>
+										<content:encoded><![CDATA[
+<p>The <a href="https://en.wikipedia.org/wiki/Pythagorean_theorem">Pythagorean theorem</a> states that, for a right triangles with side lengths <em>a</em>, <em>b</em> and hypotenuse <em>c</em>: </p>
+
+
+
+<div class="wp-block-katex-display-block katex-eq" data-katex-display="true"><pre>a^2 + b^2 = c^2.</pre></div>
+
+
+
+<p>There are many proofs, but my favourite for its geometric simplicity is the following rearrangement of a square with side length <em>a+b</em>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="652" height="302" src="https://rosschurchley.com/wp-content/uploads/2024/10/pythagoras.svg" alt="A proof by rearrangement of the Pythagorean theorem, based on moving four copies of the right triangle around a square with side length a+b" class="wp-image-1049"></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Iceberg shapes</title>
 		<link>https://rosschurchley.com/2024/iceberg-shapes/</link>
 		
@@ -55,11 +84,11 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1920" height="1080" data-id="1024" src="https://rosschurchley.com/wp-content/uploads/2024/10/iceberg-stereotype-jpeg.webp" alt="" class="wp-image-1024" srcset="https://rosschurchley.com/wp-content/uploads/2024/10/iceberg-stereotype-jpeg.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/10/iceberg-stereotype-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/10/iceberg-stereotype-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/10/iceberg-stereotype-1536x864.webp 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">Wrong</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1920" height="1080" data-id="1024" src="https://rosschurchley.com/wp-content/uploads/2024/10/iceberg-stereotype-jpeg.webp" alt="A stereotypical depiction of an iceberg with a tower of ice below the water" class="wp-image-1024" srcset="https://rosschurchley.com/wp-content/uploads/2024/10/iceberg-stereotype-jpeg.webp 1920w, https://rosschurchley.com/wp-content/uploads/2024/10/iceberg-stereotype-800x450.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/10/iceberg-stereotype-768x432.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/10/iceberg-stereotype-1536x864.webp 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /><figcaption class="wp-element-caption">Wrong</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="556" data-id="1023" src="https://rosschurchley.com/wp-content/uploads/2024/10/iceberg-stable-jpeg.webp" alt="" class="wp-image-1023"/><figcaption class="wp-element-caption">Right</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="556" data-id="1023" src="https://rosschurchley.com/wp-content/uploads/2024/10/iceberg-stable-jpeg.webp" alt="A watercolour of an iceberg floating with its long axis parallel to the water" class="wp-image-1023"><figcaption class="wp-element-caption">Right</figcaption></figure>
 </figure>
 
 
@@ -114,9 +143,9 @@
 		<category><![CDATA[Pokémon]]></category>
 		<guid isPermaLink="false">https://rosschurchley.com/?p=985</guid>
 
-					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the Embrace Pokémon Gardevoir" decoding="async" srcset="https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />]]></description>
+					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the Embrace Pokémon Gardevoir" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />]]></description>
 										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the Embrace Pokémon Gardevoir" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/09/gardevoir-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
-<figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2024/09/Gardevoir.png" alt="Cross-stitch Pattern"/><figcaption class="thread-list"><span class="thread" data-dmc="3850" title="Green Bright (Dark)" style="background-color:#0F9161;color:#ffffff">3850</span><span class="thread" data-dmc="3845" title="Turquoise Bright (Medium)" style="background-color:#04BAAE;color:#ffffff">3845</span><span class="thread" data-dmc="992" title="Aquamarine (Light)" style="background-color:#4AAC88;color:#ffffff">992</span><span class="thread" data-dmc="816" title="Garnet" style="background-color:#940B24;color:#ffffff">816</span><span class="thread" data-dmc="3804" title="Cyclamen Pink (Dark)" style="background-color:#E6367C;color:#ffffff">3804</span><span class="thread" data-dmc="159" title="Blue Gray (Light)" style="background-color:#C1C9D9;color:#000000">159</span><span class="thread" data-dmc="762" title="Pearl Gray (V. Light)" style="background-color:#E2E2E7;color:#000000">762</span><span class="thread" data-dmc="White" title="White" style="background-color:#FAFAFA;color:#000000">White</span></figcaption></figure>
+<figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2024/09/Gardevoir.png" alt="Cross-stitch pattern of the Embrace Pok&eacute;mon Gardevoir"><figcaption class="thread-list"><span class="thread" data-dmc="3850" title="Green Bright (Dark)" style="background-color:#0F9161;color:#ffffff">3850</span><span class="thread" data-dmc="3845" title="Turquoise Bright (Medium)" style="background-color:#04BAAE;color:#ffffff">3845</span><span class="thread" data-dmc="992" title="Aquamarine (Light)" style="background-color:#4AAC88;color:#ffffff">992</span><span class="thread" data-dmc="816" title="Garnet" style="background-color:#940B24;color:#ffffff">816</span><span class="thread" data-dmc="3804" title="Cyclamen Pink (Dark)" style="background-color:#E6367C;color:#ffffff">3804</span><span class="thread" data-dmc="159" title="Blue Gray (Light)" style="background-color:#C1C9D9;color:#000000">159</span><span class="thread" data-dmc="762" title="Pearl Gray (V. Light)" style="background-color:#E2E2E7;color:#000000">762</span><span class="thread" data-dmc="White" title="White" style="background-color:#FAFAFA;color:#000000">White</span></figcaption></figure>
 ]]></content:encoded>
 					
 		
@@ -135,7 +164,7 @@
 
 					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/09/articuno-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="Cross-stitch of the Freeze Pokémon Articuno" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/09/articuno-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2024/09/articuno-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/09/articuno-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/09/articuno-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/09/articuno-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />]]></description>
 										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/09/articuno-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="Cross-stitch of the Freeze Pokémon Articuno" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/09/articuno-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2024/09/articuno-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/09/articuno-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/09/articuno-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/09/articuno-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
-<figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2024/09/Articuno.png" alt="Cross-stitch Pattern"/><figcaption class="thread-list"><span class="thread" data-dmc="798" title="Delft Blue (Dark)" style="background-color:#3E5EA0;color:#ffffff">798</span><span class="thread" data-dmc="799" title="Delft Blue (Medium)" style="background-color:#5B81B5;color:#ffffff">799</span><span class="thread" data-dmc="809" title="Delft Blue" style="background-color:#82A8C9;color:#ffffff">809</span><span class="thread" data-dmc="800" title="Delft Blue (Pale)" style="background-color:#ADCBE1;color:#000000">800</span><span class="thread" data-dmc="775" title="Baby Blue (V. Light)" style="background-color:#D7EBF2;color:#000000">775</span></figcaption></figure>
+<figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2024/09/Articuno.png" alt="Cross-stitch pattern of the Freeze Pok&eacute;mon Articuno"><figcaption class="thread-list"><span class="thread" data-dmc="798" title="Delft Blue (Dark)" style="background-color:#3E5EA0;color:#ffffff">798</span><span class="thread" data-dmc="799" title="Delft Blue (Medium)" style="background-color:#5B81B5;color:#ffffff">799</span><span class="thread" data-dmc="809" title="Delft Blue" style="background-color:#82A8C9;color:#ffffff">809</span><span class="thread" data-dmc="800" title="Delft Blue (Pale)" style="background-color:#ADCBE1;color:#000000">800</span><span class="thread" data-dmc="775" title="Baby Blue (V. Light)" style="background-color:#D7EBF2;color:#000000">775</span></figcaption></figure>
 ]]></content:encoded>
 					
 		
@@ -243,7 +272,7 @@
 
 					<description><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/09/farfetchd-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="Cross-stitch of the Galarian forme of Farfetch&#039;d" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/09/farfetchd-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2024/09/farfetchd-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/09/farfetchd-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/09/farfetchd-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/09/farfetchd-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />]]></description>
 										<content:encoded><![CDATA[<img width="1707" height="1280" src="https://rosschurchley.com/wp-content/uploads/2024/09/farfetchd-1707x1280.webp" class="attachment-large size-large wp-post-image" alt="Cross-stitch of the Galarian forme of Farfetch&#039;d" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2024/09/farfetchd-1707x1280.webp 1707w, https://rosschurchley.com/wp-content/uploads/2024/09/farfetchd-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2024/09/farfetchd-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2024/09/farfetchd-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2024/09/farfetchd-2048x1536.webp 2048w" sizes="(max-width: 1707px) 100vw, 1707px" />
-<figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2024/09/Farfetchd.png" alt="Cross-stitch Pattern"/><figcaption class="thread-list"><span class="thread" data-dmc="310" title="Black" style="background-color:#000000;color:#ffffff">310</span><span class="thread" data-dmc="452" title="Shell Gray (Medium)" style="background-color:#AE9AA4;color:#ffffff">452</span><span class="thread" data-dmc="453" title="Shell Gray (Light)" style="background-color:#D1C3CF;color:#000000">453</span><span class="thread" data-dmc="986" title="Forest Green (V. Dark)" style="background-color:#2B671F;color:#ffffff">986</span><span class="thread" data-dmc="987" title="Forest Green (Dark)" style="background-color:#408128;color:#ffffff">987</span><span class="thread" data-dmc="703" title="Chartreuse" style="background-color:#7AB146;color:#ffffff">703</span><span class="thread" data-dmc="3371" title="Black Brown" style="background-color:#3A2723;color:#ffffff">3371</span><span class="thread" data-dmc="838" title="Beige Brown (V. Dark)" style="background-color:#523516;color:#ffffff">838</span><span class="thread" data-dmc="839" title="Beige Brown (Dark)" style="background-color:#6A4726;color:#ffffff">839</span><span class="thread" data-dmc="842" title="Beige Brown (V. Light)" style="background-color:#D9C2A8;color:#000000">842</span><span class="thread" data-dmc="543" title="Beige Brown (U. V. Light)" style="background-color:#EADED3;color:#000000">543</span><span class="thread" data-dmc="742" title="Tangerine (Light)" style="background-color:#FFBC50;color:#000000">742</span><span class="thread" data-dmc="976" title="Golden Brown (Medium)" style="background-color:#CB8234;color:#ffffff">976</span><span class="thread" data-dmc="White" title="White" style="background-color:#FAFAFA;color:#000000">White</span></figcaption></figure>
+<figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2024/09/Farfetchd.png" alt="Cross-stitch pattern of the Galarian forme of the Wild Duck Pok&eacute;mon Farfetch&amp;#039;d"><figcaption class="thread-list"><span class="thread" data-dmc="310" title="Black" style="background-color:#000000;color:#ffffff">310</span><span class="thread" data-dmc="452" title="Shell Gray (Medium)" style="background-color:#AE9AA4;color:#ffffff">452</span><span class="thread" data-dmc="453" title="Shell Gray (Light)" style="background-color:#D1C3CF;color:#000000">453</span><span class="thread" data-dmc="986" title="Forest Green (V. Dark)" style="background-color:#2B671F;color:#ffffff">986</span><span class="thread" data-dmc="987" title="Forest Green (Dark)" style="background-color:#408128;color:#ffffff">987</span><span class="thread" data-dmc="703" title="Chartreuse" style="background-color:#7AB146;color:#ffffff">703</span><span class="thread" data-dmc="3371" title="Black Brown" style="background-color:#3A2723;color:#ffffff">3371</span><span class="thread" data-dmc="838" title="Beige Brown (V. Dark)" style="background-color:#523516;color:#ffffff">838</span><span class="thread" data-dmc="839" title="Beige Brown (Dark)" style="background-color:#6A4726;color:#ffffff">839</span><span class="thread" data-dmc="842" title="Beige Brown (V. Light)" style="background-color:#D9C2A8;color:#000000">842</span><span class="thread" data-dmc="543" title="Beige Brown (U. V. Light)" style="background-color:#EADED3;color:#000000">543</span><span class="thread" data-dmc="742" title="Tangerine (Light)" style="background-color:#FFBC50;color:#000000">742</span><span class="thread" data-dmc="976" title="Golden Brown (Medium)" style="background-color:#CB8234;color:#ffffff">976</span><span class="thread" data-dmc="White" title="White" style="background-color:#FAFAFA;color:#000000">White</span></figcaption></figure>
 ]]></content:encoded>
 					
 		
@@ -1929,25 +1958,6 @@
 
 
 <p>Relatedly, Magic: The Gathering has a creature type called Thopter, which is a <a href="https://en.wikipedia.org/wiki/Rebracketing">rebracketed</a> abbreviation of the word &#8220;<a href="https://en.wikipedia.org/wiki/Ornithopter">ornithopter</a>&#8221; (from <em>ornitho-</em> meaning bird, and <em>pter</em> meaning wing).</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Cross-stitch Flygon</title>
-		<link>https://rosschurchley.com/2023/cross-stitch-flygon/</link>
-		
-		<dc:creator><![CDATA[Ross Churchley]]></dc:creator>
-		<pubDate>Fri, 15 Sep 2023 22:00:00 +0000</pubDate>
-				<category><![CDATA[Crafts]]></category>
-		<category><![CDATA[Cross-stitch]]></category>
-		<category><![CDATA[Pokémon]]></category>
-		<guid isPermaLink="false">https://rosschurchley.com/?p=157</guid>
-
-					<description><![CDATA[<img width="1706" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/09/cover-1706x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the mystic Pokémon Flygon" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/09/cover-1706x1280.webp 1706w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-2048x1536.webp 2048w" sizes="(max-width: 1706px) 100vw, 1706px" />]]></description>
-										<content:encoded><![CDATA[<img width="1706" height="1280" src="https://rosschurchley.com/wp-content/uploads/2023/09/cover-1706x1280.webp" class="attachment-large size-large wp-post-image" alt="A cross-stitch of the mystic Pokémon Flygon" decoding="async" loading="lazy" srcset="https://rosschurchley.com/wp-content/uploads/2023/09/cover-1706x1280.webp 1706w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-800x600.webp 800w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-768x576.webp 768w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-1536x1152.webp 1536w, https://rosschurchley.com/wp-content/uploads/2023/09/cover-2048x1536.webp 2048w" sizes="(max-width: 1706px) 100vw, 1706px" />
-<figure class="wp-block-wp-chrosyblocks-cross-stitch has-blue-0-background-color has-background"><img decoding="async" src="https://rosschurchley.com/wp-content/uploads/2023/09/pattern.png" alt="Cross-stitch pattern of the Pok&eacute;mon Flygon"><figcaption class="thread-list"><span class="thread" data-dmc="3345" title="Hunter Green (Dark)" style="background-color:#2F6913;color:#ffffff">3345</span><span class="thread" data-dmc="3347" title="Yellow Green (Medium)" style="background-color:#76A451;color:#ffffff">3347</span><span class="thread" data-dmc="3348" title="Yellow Green (Light)" style="background-color:#CEEB90;color:#000000">3348</span><span class="thread" data-dmc="814" title="Garnet (Dark)" style="background-color:#79001C;color:#ffffff">814</span><span class="thread" data-dmc="498" title="Red (Dark)" style="background-color:#A4132B;color:#ffffff">498</span><span class="thread" data-dmc="3833" title="Raspberry (Light)" style="background-color:#EB6D84;color:#ffffff">3833</span></figcaption></figure>
 ]]></content:encoded>
 					
 		

@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://rosschurchley.com/</loc>
-		<lastmod>2024-10-13T19:27:58+00:00</lastmod>
+		<lastmod>2024-10-14T02:58:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://rosschurchley.com/2018/cat-cuboctahedron/</loc>
@@ -1002,6 +1002,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/10/iceberg-stable-jpeg.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rosschurchley.com/2024/pythagorean-theorem/</loc>
+		<lastmod>2024-10-14T20:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rosschurchley.com/wp-content/uploads/2024/10/pythagoras.svg</image:loc>
 		</image:image>
 	</url>
 </urlset>
