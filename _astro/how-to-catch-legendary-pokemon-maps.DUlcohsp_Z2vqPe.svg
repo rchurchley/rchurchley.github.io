@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 325">
+  <g fill-rule="evenodd">
+    <path fill="#c7d0da" d="M225 0h25v25h-25V0Zm0 50h25v25h-25V50Zm75 0h25v25h-25V50Zm-75 175h25v25h-25v-25Zm100 0h25v25h-25v-25ZM0 100h25v25H0v-25Zm275-50h25v25h-25V50Zm0 50h25v25h-25v-25ZM50 300h25v25H50v-25Zm0-200h25v25H50v-25Zm100 0h25v25h-25v-25ZM50 200h25v25H50v-25Zm25 100h25v25H75v-25Zm75 0h25v25h-25v-25ZM100 50h25v25h-25Z"/>
+    <path fill="#e50684" d="M275 125h25v100h-25V125Zm25-50h25v75h-25V75Zm-50-25h25v25h-25V50Z"/>
+    <path fill="#fa56a8" d="M225 25h25v25h-25Z"/>
+    <path fill="#b2055c" d="M125 50h100v25H125Z"/>
+    <path fill="#ff80c4" d="M0 75h25v25H0Z"/>
+    <path fill="#e50684" d="M0 50h100v25H0V50Zm100 25h25v25h-25V75Z"/>
+    <path fill="#b2055c" d="M75 100h75v25H75Z"/>
+    <path fill="#fa56a8" d="M50 125h25v75H50v-75Zm0 100h25v75H50v-75Zm50 75h50v25h-50v-25Z"/>
+    <path fill="#e50684" d="M150 125h25v175h-25Z"/>
+    <path fill="#800442" d="M175 100h100v25H175Z"/>
+    <path fill="#fa56a8" d="M225 125h25v100h-25V125Zm25 100h75v25h-75v-25Z"/>
+  </g>
+</svg>
