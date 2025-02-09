@@ -1,0 +1,1 @@
+import{_ as e}from"./preload-helper.CLcXU_4U.js";import{P as t}from"./photoswipe.C1B43FJ4.js";class o extends HTMLElement{connectedCallback(){new t({gallery:this,pswpModule:()=>e(()=>import("./photoswipe.esm.CQ2-2Afl.js"),[])}).init()}}customElements.define("astro-figure",o);
