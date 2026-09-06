@@ -1,0 +1,11 @@
+<svg height="900" viewBox="0 0 1600 900" width="1600" xmlns="http://www.w3.org/2000/svg">
+    <path d="M 0 900 L 1600 900 L 1600 0 L 0 0 Z" fill="#71675b" fill-rule="evenodd" id="Rectangle" stroke="none" />
+    <path d="M 600 250 L 1000 250 L 1000 50 L 600 50 Z" fill="#ebe4c3" fill-rule="evenodd" id="Rectangle-copy-6" stroke="#000000" stroke-width="15" />
+    <path d="M 600 850 L 1000 850 L 1000 650 L 600 650 Z" fill="#ebe4c3" fill-rule="evenodd" id="Rectangle-copy-7" stroke="#000000" stroke-width="15" />
+    <path d="M 800 650 L 1000 650 L 1000 250 L 800 250 Z" fill="#ebe4c3" fill-rule="evenodd" id="path1" stroke="#000000" stroke-width="15" />
+    <path d="M 1000 450 L 1200 450 L 1200 50 L 1000 50 Z" fill="#ebe4c3" fill-rule="evenodd" id="Rectangle-copy-2" stroke="#000000" stroke-width="15" />
+    <path d="M 1000 850 L 1200 850 L 1200 450 L 1000 450 Z" fill="#ebe4c3" fill-rule="evenodd" id="Rectangle-copy-3" stroke="#000000" stroke-width="15" />
+    <path d="M 600 650 L 800 650 L 800 250 L 600 250 Z" fill="#ebe4c3" fill-rule="evenodd" id="Rectangle-copy" stroke="#000000" stroke-width="15" />
+    <path d="M 400 450 L 600 450 L 600 50 L 400 50 Z" fill="#ebe4c3" fill-rule="evenodd" id="Rectangle-copy-5" stroke="#000000" stroke-width="15" />
+    <path d="M 400 850 L 600 850 L 600 450 L 400 450 Z" fill="#ebe4c3" fill-rule="evenodd" id="Rectangle-copy-4" stroke="#000000" stroke-width="15" />
+</svg>
